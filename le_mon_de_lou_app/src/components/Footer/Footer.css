@@ -6,10 +6,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border-top: solid 1px white;
+    background-color: black;
 }
 
 .mailto {
-    color: black;
+    color: white;
 }
 
 form {

@@ -3,34 +3,50 @@
     z-index:1000;
     width: 100%;
     align-items:center;
-    background-color: white;
-}
-
-.li_nav a:hover {
-    color: white;
     background-color: black;
 }
 
+.li_nav a:hover {
+    color: black;
+    background-color: rgb(49, 96, 223);
+}
+
+.div_head {
+    padding-inline:80px;
+    display: flex;
+}
+
 .content_nav {
-    padding-inline:100px;
-    padding-block:10px;
+    padding-inline:20px;
     display: flex;
     align-items:center;
+    width: 100%;
     justify-content:space-between;
 }
 
 .ul_nav {
     display: flex;
-    color: black;
+    float: left;
+    color: white;
     margin: 0;
     margin: 0;
 }
 
 .a_nav {
-    color: black;
+    color: white;
     text-decoration: none;
-    padding: 24px 26px;
+    padding: 22px 26px;
     height: 100%;
+}
+
+.logo {
+    width: 65px;
+    float: left;
+}
+
+.insta {
+    float: right;
+    width: 45px;
 }
 
 .a_nav:hover {

@@ -2,6 +2,10 @@
     width: 100%;
     color: white;
     border-bottom: solid 1px white;
+    background-image: url("./../../assets/banner_1.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    padding-top: 65px;
 }
 
 .div_content {

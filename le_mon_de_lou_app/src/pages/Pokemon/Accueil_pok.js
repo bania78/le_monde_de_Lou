@@ -1,10 +1,9 @@
 import chrono from './../../assets/chrono.png';
-import projects from '../../data/project.json'
 import './Accueil_pok.css'
 
 function Accueil_pok() {
     return (
-        <div className='accueil_pok' style={{backgroundImage: `url(${projects[0].cover})`}}>
+        <div className='accueil_pok'>
             <div className='div_content' id="pok">
                 <h2 className='h2_pres'>Présentation</h2>
                 <p>Voici une rapide présentation de mon univers dans le monde de Pokemon.</p>
