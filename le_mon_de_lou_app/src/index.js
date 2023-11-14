@@ -5,6 +5,7 @@ import App from './App';
 import Accueil from './pages/Accueil';
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
+import Accueil_pok from './pages/Pokemon/Accueil_pok';
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
         path: "",
         element: <Accueil />,
       },
+      {
+        path: "pokemon",
+        element: <Accueil_pok />,
+      }
     ]
   }
 ])

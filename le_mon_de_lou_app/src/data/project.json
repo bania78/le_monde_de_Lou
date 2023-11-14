@@ -3,28 +3,21 @@
 		"id": "0",
 		"title": "Poke Lou",
 		"cover": "./images/pokemon.jpg",
-		"pictures": [
-		]
+		"path": "pokemon"
 	},
 	{
 		"id": "1",
 		"title": "Lou à Teyvat",
-		"cover": "./images/1204356.png",
-		"pictures": [
-		]
+		"cover": "./images/1204356.png"
 	},
 	{
 		"id": "2",
 		"title": "Coach Lou",
-		"cover": "./images/coach_lou.jpg",
-		"pictures": [
-		]
+		"cover": "./images/coach_lou.jpg"
 	},
 	{
 		"id": "3",
 		"title": "Untraveled Journey",
-		"cover": "./images/Night.png",
-		"pictures": [
-		]
+		"cover": "./images/Night.png"
 	}
 ]

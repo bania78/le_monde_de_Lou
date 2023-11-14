@@ -1,10 +1,22 @@
 .header {
-    position: sticky;
-    display: flex;
-    justify-content:space-between;
-    padding-inline:100px;
-    padding-block:30px;
+    position: fixed;
+    z-index:1000;
+    width: 100%;
     align-items:center;
+    background-color: white;
+}
+
+.li_nav a:hover {
+    color: white;
+    background-color: black;
+}
+
+.content_nav {
+    padding-inline:100px;
+    padding-block:10px;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
 }
 
 .ul_nav {
@@ -17,6 +29,8 @@
 .a_nav {
     color: black;
     text-decoration: none;
+    padding: 24px 26px;
+    height: 100%;
 }
 
 .a_nav:hover {
