@@ -6,6 +6,7 @@ import Accueil from './pages/Accueil';
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 import Accueil_pok from './pages/Pokemon/Accueil_pok';
+import History from './pages/Pokemon/History';
 
 const router = createBrowserRouter([
   {
@@ -19,7 +20,11 @@ const router = createBrowserRouter([
       {
         path: "pokemon",
         element: <Accueil_pok />,
-      }
+      },
+      {
+        path: "pokemon/history",
+        element: <History />,
+      },
     ]
   }
 ])

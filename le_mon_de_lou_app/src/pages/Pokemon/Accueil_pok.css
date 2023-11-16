@@ -15,6 +15,11 @@
     height: 100%;
 }
 
+.link {
+    color: white;
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 768px) {
     .div_content {
         width: 75%;

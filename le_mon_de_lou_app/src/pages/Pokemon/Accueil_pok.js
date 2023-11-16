@@ -7,7 +7,7 @@ function Accueil_pok() {
             <div className='div_content' id="pok">
                 <h2 className='h2_pres'>Présentation</h2>
                 <p>Voici une rapide présentation de mon univers dans le monde de Pokemon.</p>
-                <p>Le phrise ci-dessous représente les évenements majeurs que se sont déroulé dans le monde avant nos jours par rapport aux jeux. Néanmoins toute la trame est détaillé dans la page histoire.</p>
+                <p>Le phrise ci-dessous représente les évenements majeurs que se sont déroulé dans le monde avant nos jours par rapport aux jeux. Néanmoins toute la trame est détaillé dans <a className='link' href={`/pokemon/history`}>la page histoire.</a></p>
                 <img className="card_img" src={chrono} alt="chrono"/>
             </div>
         </div>

@@ -3,7 +3,13 @@
 		"id": "0",
 		"title": "Poke Lou",
 		"cover": "./images/pokemon.jpg",
-		"path": "pokemon"
+		"path": "pokemon",
+		"history": [
+			{
+				"id": "0",
+				"title": ""
+			}
+		]
 	},
 	{
 		"id": "1",
