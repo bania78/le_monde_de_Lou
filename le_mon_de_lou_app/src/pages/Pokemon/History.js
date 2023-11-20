@@ -1,14 +1,15 @@
+import projects from '../../data/project.json'
 import Li_history from '../../components/Li_history/Li_history';
 import './History.css'
 
 function History() {
     return (
-        <div>
-            <ul className='ul_history'>
-                <Li_history />
+        projects[0].history.map(project => (
+            <ul key={project.id} className='ul_history'>
+                <h2>{project.title}</h2>
+                <Li_history projects={ project.content }/>
             </ul>
-        </div>
-    );
+        )));
 }
 
 export default History;
