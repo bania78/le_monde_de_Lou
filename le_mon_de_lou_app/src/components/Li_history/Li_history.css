@@ -6,10 +6,12 @@
 .history_img {
     object-fit: cover;
     width: 500px;
+    margin-left: 50px;
 }
 
 .div_img {
     width: 500px;
+    float: right;
 }
 
 .box_img {
@@ -20,6 +22,7 @@
     align-items:last baseline;
     justify-content: last baseline;
     transition-duration: 1s;
+    margin-left: 50px;
 }
 
 .box_img:hover::before {
@@ -30,12 +33,14 @@
     width: 500px;
     content: '';
     transition-duration: 1s;
+    margin-left: 50px;
 }
 
 .content_box {
     position: absolute;
     width: 100%;
     transition-duration: 1s;
+    margin-left: 50px;
 }
 
 .div_img:hover .tag_box {

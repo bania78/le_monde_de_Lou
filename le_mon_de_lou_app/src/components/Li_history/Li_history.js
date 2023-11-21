@@ -1,3 +1,4 @@
+import P_history from './../P_history/P_history';
 import './Li_history.css'
 
 function Li_history({ projects }) {
@@ -17,7 +18,7 @@ function Li_history({ projects }) {
                         </div>
                     </div>
                 </div>
-                <p>{project.content}</p>
+                <P_history projects={ project.content }/>
             </li>
     )));
 }

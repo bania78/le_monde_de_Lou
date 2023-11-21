@@ -13,7 +13,12 @@
 						"id": 0,
 						"title": "Naissance de la matière, de l'anti-matière et de l'esprit",
 						"image": "./../images/history/arceus.jpg",
-						"content": "",
+						"content": [
+							"Au commencement, il n'y avait rien, et de ce rien, un œuf est né. De cet œuf est né Arceus, l'être originel.",
+							"Il décida alors de créer la matière. Arceus créa donc deux créatures, Dialga et Palkia, responsables respectivement du temps et de l'espace. Néanmoins, en créant la matière, Arceus engendra l'apparition de l'antimatière représentée par Giratina. Arceus décida de bannir celui-ci dans le monde distortion en raison de sa violence excessive.",
+							"La création de la matière permit à Arceus d'obtenir une forme concrète. Cela donna une forme au néant, les Pokémon Zarbi capables de naviguer entre les dimensions.",
+							"Arceus créa ensuite un œuf. De cet œuf naquirent les trois êtres de l'esprit, Créhelf pour la connaissance, Créfollet pour l'émotion et Créfadet pour la volonté"
+						],
 						"tag": [
 							{
 								"title": "Dialga",
@@ -31,6 +36,9 @@
 					},
 					{
 						"id": 1,
+						"content": [
+							""
+						],
 						"tag": [
 							{
 								"title": "Dialga",
@@ -46,6 +54,9 @@
 				"story": [
 					{
 						"id": 1,
+						"content": [
+							""
+						],
 						"tag": [
 							{
 								"title": "Dialga",
