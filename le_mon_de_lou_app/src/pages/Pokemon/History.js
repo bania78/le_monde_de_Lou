@@ -7,7 +7,7 @@ function History() {
         projects[0].history.map(project => (
             <ul key={project.id} className='ul_history'>
                 <h2>{project.title}</h2>
-                <Li_history projects={ project.content }/>
+                <Li_history projects={ project.story }/>
             </ul>
         )));
 }

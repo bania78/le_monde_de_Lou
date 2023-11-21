@@ -8,26 +8,52 @@
 			{
 				"id": "0",
 				"title": "Création de l'univers",
-				"content": [
+				"story": [
 					{
 						"id": 0,
 						"title": "Naissance de la matière, de l'anti-matière et de l'esprit",
-						"image": "./images/history/arceus.jpg",
+						"image": "./../images/history/arceus.jpg",
 						"content": "",
 						"tag": [
-							"Dialga",
-							"Arceus",
-							"Palkia"
+							{
+								"title": "Dialga",
+								"href": ""
+							},
+							{
+								"title": "Arceus",
+								"href": ""
+							},
+							{
+								"title": "Palkia",
+								"href": ""
+							}
 						]
 					},
 					{
-						"id": 1
+						"id": 1,
+						"tag": [
+							{
+								"title": "Dialga",
+								"href": ""
+							}
+						]
 					}
 				]
 			},
 			{
 				"id": "1",
-				"title": ""
+				"title": "",
+				"story": [
+					{
+						"id": 1,
+						"tag": [
+							{
+								"title": "Dialga",
+								"href": ""
+							}
+						]
+					}
+				]
 			}
 		]
 	},
