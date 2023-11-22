@@ -10,7 +10,7 @@
 				"title": "Création de l'univers",
 				"story": [
 					{
-						"id": 0,
+						"id": 0.0,
 						"title": "Naissance de la matière, de l'anti-matière et de l'esprit",
 						"image": "./../images/history/arceus.jpg",
 						"content": [
@@ -35,13 +35,17 @@
 						]
 					},
 					{
-						"id": 1,
+						"id": 0.1,
+						"title": "La création des étoiles",
+						"image": "./../images/history/necrozma.jpg",
 						"content": [
-							""
+							"Suite à l'apparition de la matière, celle-ci a commencé à gagner en densité et à créer une grande quantité d'énergie qui est devenue lumineuse. À partir de cette lumière est née une nouvelle entité, Ultra-Necrozma.",
+							"Ultra-Necrozma a répandu sa lumière à travers tout l'univers jusqu'à ce qu'il épuise son énergie et perde sa forme d'Ultra-Necrozma pour adopter une forme plus sombre, libérant ainsi de la poussière d'étoile. Il a retrouvé sa forme d'Ultra-Necrozma en absorbant la lumière et le cycle a continué.",
+							"Cependant, la poussière d'étoile qu'il libère en perdant sa forme Ultra s'accumule et crée une nébuleuse. De la création des nébuleuses est née une petite espèce de Pokémon, Cosmog. Lorsqu'il absorbe la poussière d'étoile, il évolue en Cosmovum et en accumulant la lumière, il évolue à nouveau, soit en Solgaleo, soit en Lunala. De la même manière que Cosmog naît et évolue, des planètes se forment, et parmi elles, la Terre."
 						],
 						"tag": [
 							{
-								"title": "Dialga",
+								"title": "Necrozma",
 								"href": ""
 							}
 						]
@@ -50,16 +54,65 @@
 			},
 			{
 				"id": "1",
-				"title": "",
+				"title": "La Terre et ses premiers habitants",
 				"story": [
 					{
-						"id": 1,
+						"id": 1.0,
+						"title": "Modélisation de la Terre",
+						"image": "./../images/history/GKR.png",
 						"content": [
-							""
+							"Après l'apparition de la Terre, Arceus créa trois titans afin de la modeler : Groudon pour la lithosphère, Kyogre pour l'hydrosphère et Rayquaza pour l'atmosphère.",
+							"Cependant, là où Groudon voulait étendre les terres, Kyogre voulait étendre les mers. C'est ainsi qu'un conflit éclata entre les deux titans.",
+							"Une fois que Rayquaza eut terminé de façonner l'atmosphère, il intervint dans le conflit entre les deux titans et les apaisa.",
+							"Kyogre et Groudon, épuisés par leur long combat, s'endormirent profondément, laissant la Terre livrée à elle-même, n'ayant plus d'entité pour réguler le climat. Arceus créa alors les trois oiseaux du climat, Électhor, Sulfura et Artikodin."
 						],
 						"tag": [
 							{
-								"title": "Dialga",
+								"title": "Rayquaza",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 1.1,
+						"title": "Apparition de la vie sur Terre",
+						"image": "./../images/history/XY.jpg",
+						"content": [
+							"Une fois que le climat fut régulé, Arceus créa deux gardiens, Lugia pour la nuit et Ho-oh pour le jour.",
+							" Il créa ensuite la notion de vie avec Xerneas, celle de la mort avec Yveltal et Zygarde, responsable de maintenir l'équilibre. Une fois ces notions créées, Arceus forma Mew, l'ancêtre de la plupart des Pokémon connus, et les laissa se développer.",
+							" Arceus créa également d'autres créatures mythiques pour apporter l'équilibre à son nouveau monde : un dragon symbolisant l'harmonie, deux petits rois pour dominer les océans, Manaphy et Phione, un génie des vœux, Jirachi, un voyageur dans le temps, Celebi, un voyageur spatial, Hoopa, et un génie de la victoire, Victini. Il créa également la Dimension des Rêves avec Darkrai et Cresselia. ",
+							"Arceus créa ensuite les humains, et afin de leur apporter la foi et la connaissance, il créa Latias et Latios en tant que messagers. C'est ainsi que les hommes ont appris l'existence d'Arceus et du Trio Originel."
+						],
+						"tag": [
+							{
+								"title": "Xerneas",
+								"href": ""
+							},
+							{
+								"title": "Yveltal",
+								"href": ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2",
+				"title": "L'Histoire de l'humanité",
+				"story": [
+					{
+						"id": 2.0,
+						"title": "Groudon VS Kyogre Second Round",
+						"image": "./../images/history/GrouVSKyo.jpg",
+						"content": [
+							"Plusieurs milliers d'années après la naissance des hommes, alors que l'évolution suivait son cours, une météorite s'écrasa sur Terre. Le choc de cette météorite fut si puissant qu'il réveilla Kyogre et Groudon de leur sommeil millénaire.",
+							" Une fois réveillés, les deux titans reprirent leur conflit devant des humains et des Pokémon totalement impuissants face aux deux titans qu'ils venaient de rencontrer.",
+							"Rayquaza, interpellé par cette météorite, ne mit pas longtemps à descendre sur Terre et à nouveau arrêter les titans dans leur folie destructrice avant de retourner dans le ciel.",
+							"Non loin du lieu où la météorite s'était écrasée, se trouvait un village de dracologues qui avait été témoin de la scène. Les villageois déciderent alors de s'installer à l'endroit où la météorite avait atterri et de vénérer Rayquaza. C'est ainsi que naquirent le peuple du météor."
+						],
+						"tag": [
+							{
+								"title": "Rayquaza",
 								"href": ""
 							}
 						]
