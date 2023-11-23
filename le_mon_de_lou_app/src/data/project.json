@@ -112,7 +112,346 @@
 						],
 						"tag": [
 							{
+								"title": "Groudon",
+								"href": ""
+							},
+							{
+								"title": "Kyogre",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.1,
+						"title": "Les golems de la civilisation et leur naissance",
+						"image": "./../images/history/regigi.jpg",
+						"content": [
+							"Après le combat entre Groudon et Kyogre, certaines civilisations considérèrent l'intervention de Rayquaza comme une intervention divine et érigèrent un énorme golem en l'honneur d'Arceus pour le remercier.",
+							"Touché par ce geste, Arceus décida de donner vie au golem. C'est ainsi que Regigigas naquit. Sa mission était d'aider les hommes dans leur développement.",
+							"Quelques années plus tard, Regigigas rencontra Sylveroy, un Pokémon capable, entre autres, de voir l'avenir. Il prédit alors les obstacles que les hommes rencontreraient dans leur développement.",
+							"Pour permettre aux hommes de surmonter avec succès ces obstacles, Regigigas créa 5 golems à différentes époques de l'histoire pour le soutenir dans sa mission : Regirock, le golem de pierre, Regice, le golem de glace, Registeel, le golem d'acier, Regieleki, le golem électrique, et Regidrago, le golem draconique."
+						],
+						"tag": [
+							{
+								"title": "Regigigas",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.2,
+						"title": "Le début de l'age d'or d'Alola",
+						"image": "./../images/history/solun.jpg",
+						"content": [
+							"En même temps, dans l'archipel d'Alola, composé de quatre îles, chacune ayant son gardien, le ciel se déchira pour créer un trou d'où surgirent deux créatures. Il s'agissait de Solgaleo et de Lunala.",
+							"Tokorico, le gardien de Mele-Mele, Tokopiyon, le gardien d'Akala, Tokotoro, le gardien d'Ula-Ula et Tokopisco, le gardien de Poni, les prirent comme une menace et décidèrent de s'opposer à eux.",
+							"Solgaleo et Lunala, admirant la bravoure et la puissance des gardiens, décidèrent d'aider l'archipel à se développer au point que les populations locales commencèrent à les vénérer.",
+							"Pendant ce temps, dans l'Ultra-dimension, une dimension différente de la nôtre où résident les Ultra-Chimères, l'Ultra-Commando, un groupe d'humains ayant toujours vécu dans l'Ultra-dimension, et Necrozma, l'Ultra-Commando captura Necrozma pour en faire la source de lumière de leur cité, l'Ultra-Mégapole."
+						],
+						"tag": [
+							{
+								"title": "Solgaleo",
+								"href": ""
+							},
+							{
+								"title": "Lunala",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.3,
+						"title": "La chute de Necrozma",
+						"image": "./../images/history/lunecsol.jpg",
+						"content": [
+							"Quelques décennies après la capture de Necrozma par l'Ultra-Commando dans l'Ultra-dimension, Necrozma parvint à s'échapper en créant une brèche vers notre monde, plongeant ainsi l'Ultra-dimension et l'Ultra-mégapole dans l'obscurité.",
+							"Cependant, cette évasion coûta à Necrozma une grande partie de son énergie, de son corps ainsi que de sa forme Ultra. Lorsqu'il arriva dans notre monde, il s'écrasa à Alola, libérant avec lui son énergie sous forme de cristaux et les morceaux de son corps qui se dispersèrent partout à Alola.",
+							"Blessé et cherchant à retrouver sa lumière, Necrozma attaqua Solgaleo et parvint à fusionner avec lui. Face à ce spectacle, les rois des îles accompagnés des gardiens décidèrent de s'unir pour libérer Solgaleo de l'emprise de Necrozma.",
+							"Pendant le combat, les cristaux d'énergie et les morceaux du corps de Necrozma réagirent à la connexion entre les gardiens et les rois, leur conférant une toute nouvelle force qui leur permit de séparer Solgaleo de Necrozma. Ils venaient d'utiliser la Force Z pour la première fois.",
+							"Ils collectèrent alors les cristaux et les morceaux de Necrozma pour créer des bracelets Z et des cristaux Z. Cependant, chacun des rois voulait cette force pour lui-même, déclenchant ainsi une guerre entre les quatre îles.",
+							"Les gardiens combattirent aux côtés de leurs rois respectifs, mais leur pouvoir nouvellement acquis était tellement grand, et les dégâts causés par celui-ci si importants, qu'ils décidèrent d'abandonner leur roi et de protéger leur île loin des humains.",
+							"Necrozma, quant à lui, fut vaincu et affaibli plus que jamais, se cachant, et on ne le revit plus pendant des millénaires."
+						],
+						"tag": [
+							{
+								"title": "Solgaleo",
+								"href": ""
+							},
+							{
+								"title": "Necrozma",
+								"href": ""
+							},
+							{
+								"title": "Lunala",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.4,
+						"title": "Sylveroy le sauveur",
+						"image": "./../images/history/sylv.jpg",
+						"content": [
+							"Il y a 20000 ans, alors qu'une météorite menaçait de s'écraser sur Galar, le roi des lieux, Sylveroy, anticipa la catastrophe grâce à son pouvoir de prédiction. Avec son pouvoir de communication, il informa les Pokémon et les humains sur place et parvint à les convaincre de fuir.",
+							"Lorsque la météorite s'écrasa enfin, aucune victime ne fut à déplorer grâce à l'intervention du petit roi.",
+							"La météorite s'enfonça lentement dans le sol de Galar au fil des années jusqu'à sombrer dans l'oubli.",
+							"L'énergie contenue dans cette météorite anima des poupées d'argile créées par les hommes. C'est ainsi que les Balbuto et les Kaorine prirent vie."
+						],
+						"tag": [
+							{
+								"title": "Sylveroy",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.5,
+						"title": "La folie des golems",
+						"image": "./../images/history/golem.jpg",
+						"content": [
+							"15000 ans plus tard, il y a 5000 ans, sur les terres de Hoenn, les hommes étaient divisés. Cette division engendra des conflits qui finirent par déclencher une guerre civile.",
+							"Les golems de la civilisation créés par Regigigas, ne sachant que faire pour accomplir le dessein qui leur avait été donné par leur créateur - aider les humains - en vinrent à la conclusion suivante : pour aider l'homme, il faut l'éliminer.",
+							"C'est ainsi qu'ils se retournèrent contre les hommes. En raison de leur puissance, ils décimèrent la population humaine.",
+							"Les hommes, constatant les ravages, s'unirent pour les arrêter dans leur folie. Ainsi, ils parvinrent à les sceller dans des cavernes et la paix revint.",
+							"Regigigas, témoin de ce spectacle et attristé par ce que les hommes avaient fait à sa création, s'endormit pour ne jamais se réveiller."
+						],
+						"tag": [
+							{
+								"title": "Regice",
+								"href": ""
+							},
+							{
+								"title": "Registeel",
+								"href": ""
+							},
+							{
+								"title": "Regirock",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.6,
+						"title": "La nuit noir",
+						"image": "./../images/history/Zaza.png",
+						"content": [
+							"Il y a 3000 ans, après avoir accumulé de l'énergie pendant 17 000 ans, un Pokémon extrêmement puissant émergea de la météorite qui s'était écrasée sur Galar des milliers d'années plus tôt. Ce Pokémon était Ethernatos.",
+							"Cependant, Sylveroy avait prédit son arrivée et connaissait la menace que représentait ce Pokémon. Il partit donc pour le combattre, mais ne put prendre le dessus sur la créature extraterrestre. Ethernatos parvint ainsi à sortir du sous-sol de Galar et commença à le ravager.",
+							"Son énergie était si puissante qu'elle faisait croître les Pokémon trop exposés, les plongeant dans une folie destructrice. C'est ce qui sera plus tard appelé le phénomène Dynamax ou Gigamax.",
+							"C'est alors que deux frères, AZ et Harmonia, intervinrent accompagnés de deux loups légendaires, Zacian et Zamazenta.",
+							"Ensemble, ils parvinrent à vaincre Ethernatos et ramener la paix à Galar. Ethernatos retomba ensuite dans un sommeil profond, et des parties de son corps se dispersèrent partout dans Galar. Les humains les utiliseront pour pouvoir utiliser le phénomène Dynamax et Gigamax.",
+							"Cependant, Zacian et Zamazenta, ayant été en contact avec l'énergie d'Ethernatos pendant trop longtemps, commencèrent à sombrer dans la folie. En accord avec son frère, AZ utilisa son pouvoir mystérieux qui lui permit de transformer les deux Pokémon en pierre."
+						],
+						"tag": [
+							{
+								"title": "Zacian",
+								"href": ""
+							},
+							{
+								"title": "Zamazenta",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.7,
+						"title": "Unys, sa naissance et son déclin",
+						"image": "./../images/history/RZK.jpg",
+						"content": [
+							"Privés de leur petit roi Sylveroy, les terres de Galar, ravagées par Ethernatos, étaient presque devenues stériles.",
+							"AZ et Harmonia, récemment couronnés rois suite à leur victoire sur Ethernatos, décidèrent de trouver d'autres terres pour s'installer.",
+							"Pendant ce temps, des villageois réticents à quitter Galar trouvèrent Sylveroy et le guérirent sans savoir qu'il était le vrai roi de ces terres.",
+							"Quelques mois plus tard, le petit Pokémon, pour remercier ses sauveurs, leur offrit des terres fertiles. Les villageois reconnaissants commencèrent à le vénérer et comprirent qu'il était le vrai roi de ces lieux.",
+							"En même temps, les deux rois accompagnés de leur peuple trouvèrent Unys et décidèrent de s'y installer. Ces terres n'étaient pas habitées par les hommes, mais une énergie puissante flottait dans l'air.",
+							"À force d'exploration, les hommes finirent par trouver l'origine de cette énergie, le dragon de l'harmonie. Alors que certains voulaient cohabiter avec lui et d'autres voulaient essayer de l'éliminer, les deux rois prirent la décision de tenter de s'allier avec le dragon. Contre toute attente, ils réussirent et Unys commença son développement.",
+							"Mais les deux rois n'avaient pas la même vision des choses quant à la manière de gouverner leur royaume. Alors qu'AZ avait une vision plutôt réaliste, Harmonia avait une vision très idéaliste et ce qui commença par un petit désaccord entre les deux frères se transforma en une véritable guerre civile.",
+							"Le dragon, ne sachant pas qui défendre, s'envola et dans un cri de désespoir se scinda en trois. Trois créatures naquirent alors, Reshiram, le dragon de la réalité, Zekrom le dragon de l'idéal et Kyurem, la frontière entre les deux.",
+							"Reshiram et Zekrom se joignirent chacun à leur roi tandis que Kyurem alla se cacher dans la montagne. Le pouvoir de Reshiram et Zekrom était tel que le combat entre les deux frères ravagea Unys.",
+							"Lorsque les deux frères réalisèrent cela, ils firent la paix et AZ partit avec ses partisans en laissant Reshiram aux soins de son frère.",
+							"Mais la scission du dragon eut un impact tout aussi important sur l'écosystème. En raison de sa puissance, il gouvernait seul l'ensemble de l'écosystème de la région. À l'époque de sa disparition, la nature devait se réguler elle-même. C'est alors que trois génies naquirent, Boréas, Fulguris et Démétéros.",
+							"Boréas provoquait des tempêtes et Fulguris causait de violents orages, mais ils causaient autant de dégâts que de bienfaits pour l'écosystème, c'est là que Démétéros intervient pour corriger ses collègues et ainsi apporter l'énergie nécessaire à la faune et à la flore pour se développer.",
+							"Trois autres entités naquirent également en même temps, Viridium, Terrakium et Colbatium. Leur objectif était de protéger les Pokémon, même s'il fallait attaquer les humains qu'ils considèrent comme dangereux."
+						],
+						"tag": [
+							{
+								"title": "Reshiram",
+								"href": ""
+							},
+							{
+								"title": "Zekrom",
+								"href": ""
+							},
+							{
+								"title": "Kyurem",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.8,
+						"title": "AZ le roi millénaire",
+						"image": "./../images/history/AZ.jpg",
+						"content": [
+							"Après son combat contre Harmonia à Unys, AZ et ses partisans partirent pour un pays voisin. C'est ainsi qu'ils arrivèrent à Kalos, une terre ravagée par les conflits entre les différents groupes qui l'habitent.",
+							"Après quelques années, AZ parvint à unifier les peuples de Kalos, ce qui lui valut le titre de roi. Kalos fit également d'énormes progrès technologiques grâce aux Étoiles de Souhait, des morceaux d'Ethernatos ramenés de Galar par AZ.",
+							"Harmonia, jaloux de la prospérité du pays de son frère alors que le sien peinait à se remettre de la scission du dragon, décida de faire la guerre contre Kalos.",
+							"Afin de contrer les attaques d'Unys, tous les Pokémon furent mobilisés. C'est ainsi que Floette, le fidel compagnon qu'AZ avait rencontrée en arrivant à Kalos, partit pour le front.",
+							"Quelque temps plus tard, on vint remettre une boîte au Roi de Kalos. À l'intérieur, le corps sans vie de son fidel compagnon mort au combat. Fou de chagrin et incapable d'accepter la mort de son Pokémon, AZ entreprit de la ramener à la vie par tous les moyens.",
+							"Il construisit alors une machine capable de ramener son Floette à la vie et de le rendre immortel. Alors que le chagrin d'AZ était apaisé, sa colère ne l'était pas. Il transforma alors sa machine en une arme ultime et l'utilisa pour anéantir ceux qui avaient osé faire du mal à son compagnon.",
+							"Face à ce spectacle de mort, Floette décida de quitter AZ, ne le reconnaissant plus. AZ, dévasté par la perte de son compagnon pour la deuxième fois et ayant également acquis l'immortalité suite à une exposition excessive à l'énergie de sa machine, abandonna son poste de roi en emportant avec lui la clé de son arme, afin que personne ne l'utilise plus, et partit en errance dans le monde à la recherche de son Pokémon.",
+							"Harmonia, ayant survécu à cette guerre, décida d'enterrer l'arme de son frère et d'effacer toute trace de lui avant de retourner régner sur Unys jusqu'à sa mort."
+						],
+						"tag": [
+							{
+								"title": "AZ",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.9,
+						"title": "La tribue Argentée",
+						"image": "./../images/history/Z.jpg",
+						"content": [
+							"Suite à la dévastation causée par l'arme suprême à Kalos, une grande partie de la population décida de migrer pour trouver des terres fertiles et accueillantes.",
+							"Afin de les aider dans leur quête, Zygarde, le Gardien du Monde, décida de prendre forme devant eux et les guida jusqu'à la montagne Argentée à Johto.",
+							"Reconnaissants, les humains s'installèrent dans la forêt et construisirent un hôtel où leur sauveur pouvait se reposer. C'est ainsi que la tribu d'argent vit le jour, vivant isolée du monde et de ses conflits dans la forêt argentée."
+						],
+						"tag": [
+							{
+								"title": "Zygarde",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.10,
+						"title": "La mystérieuse sauveuse d'Unys",
+						"image": "./../images/history/car.jpg",
+						"content": [
+							"Au moment de sa mort, Harmonia révéla l'emplacement de l'arme d'AZ à ses fils et leur confia le trône d'Unys ainsi que Reshiram et Zekrom à chacun d'eux.",
+							"Comme leurs aînés, les deux frères aux idées divergentes finirent par entrer en conflit, et une nouvelle guerre civile éclata à Unys.",
+							"Le conflit s'étendit sur plusieurs années et ravagea la faune et la flore sans qu'aucun vainqueur ne se profile à l'horizon.",
+							"Mais un jour, une jeune dresseuse étrange fit son apparition. Convaincue de sa victoire, la jeune dresseuse défia les deux rois en duel simultané dans un combat de 2 Pokémon contre 2 Pokémon.",
+							"À la fin d'un combat incroyable, le dresseuse parvint à vaincre les deux dragons légendaires grâce à une forme d'évolution inconnue jusqu'alors, la Méga-Évolution, qu'elle appliqua à son Carchacrok.",
+							"Cette défaite fit réaliser aux deux rois que leur conflit avait ravagé la région. Ils voulaient se racheter, mais craignaient qu'un nouveau conflit n'éclate et que la force de leur dragon ne ravage à nouveau la région.",
+							"C'est alors qu'AZ apparut et proposa de sceller les dragons dans la pierre. Les rois étaient contre, mais le jeune dresseuse, qui semblait étonnamment connaître l'ancien roi de Kalos, les convainquit de lui faire confiance.",
+							"C'est ainsi que Reshiram devint le gallet blanc et Zekrom le gallet noir. La jeune dresseuse quant à elle disparu sans laisser de traces en ne laissant derrière elle qu'une étrange pierre qu'elle confiat a AZ sans que celui-ci ne comprenne pourquoi mais décida de la garder.",
+							"Les deux jeunes rois eux, entreprirent la tâche redoutable de reconstruire Unys ensemble mettant un point final aux conflits fratricides qui ont ravagé Unys sur 2 générations."
+						],
+						"tag": [
+							{
+								"title": "Carchacrock",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.11,
+						"title": "Mega-Rayquaza",
+						"image": "./../images/history/KRG.jpg",
+						"content": [
+							"Il y a 2 000 ans, une autre météorite, bien plus grande que la précédente, tomba au fond de la mer d'Hoenn où elle creusa un énorme cratère. Bien plus tard, cet endroit reçut le nom d'Atalanopolis. Cependant, l'impact d'une météorite aussi imposante aurait des conséquences désastreuses pour l'humanité.",
+							"En effet, le sol d'Hoenn s'était fracturé sous l'impact, et l'énergie de la nature qui bouillonnait sous terre remonta à la surface... réveillant Groudon et Kyogre !",
+							"L'humanité n'avait pas oublié ce qui s'était passé des millénaires plus tôt... L'apparition providentielle d'un Pokémon légendaire d'une brillance verte éclatante... C'est alors que la météorite qui s'était écrasée à Atalanopolis commença à émettre une lueur... Encore une fois, Rayquaza descendit des cieux...",
+							"À mesure que les hommes multipliaient les marques de dévotion envers lui, un changement s'opéra. Rayquaza fut enveloppé d'une lumière éblouissante... Lorsqu'il réapparut, il avait l'air complètement différent et dégageait une aura et une puissance encore plus intenses qu'auparavant. Rayquaza avait changé sous l'effet de la pierre irisée et des prières des hommes pour devenir Méga-Rayquaza.",
+							"Il se plaça de nouveau entre Groudon et Kyogre. Il recouvrit le ciel de ses barbillons dorés... Son corps scintillait d'une lueur viride... et un vent tempétueux commença à souffler. La lumière et le vent absorbèrent la force de Groudon et Kyogre en un éclair. Ayant perdu leur forme primitive, les deux Pokémon disparurent, dans les profondeurs de la terre pour l'un, dans les profondeurs de la mer pour l'autre.",
+							"Satisfait, Rayquaza revint à sa forme originale et s'éleva de nouveau dans le ciel. AZ ayant été témoin de la scène, il prononça ces mots :",
+							" - Le symbole Δ (delta) accompagne de grands bouleversements. Mais ensemble, les hommes, les prières et la pierre ont pu apaiser ce monde troublé.",
+							" Il planta également une graine à l'endroit de la confrontation. Cette graine deviendra plus tard l'arbre gigantesque devant la Grotte Origine. Le Peuple du Météore quant a lui, construisit une immense tour en l'honneur de Rayquaza et de la pierre irisée dont il tirait sa force."
+						],
+						"tag": [
+							{
+								"title": "Kyogre",
+								"href": ""
+							},
+							{
 								"title": "Rayquaza",
+								"href": ""
+							},
+							{
+								"title": "Groudon",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.12,
+						"title": "La création des ruines Sinjoh",
+						"image": "./../images/history/Sinjoh.png",
+						"content": [
+							"Il y a 1500 ans, des chercheurs de Johto, des Îles Sevii et de Sinnoh ont découvert les Zarbi dans des lieux de leurs régions respectives (les Ruines Alpha à Johto, les Ruines Bonville à Sinnoh et les Chambres Tanobi dans les Îles Sevii).",
+							"Ils finirent par se rencontrer et, tout en menant des recherches, théorisent sur la création de l'univers et le rôle des Zarbi en son sein.",
+							"Ils transcrivirent leurs recherches dans un endroit secret qu'ils appelleront Sinjoh."
+						],
+						"tag": [
+							{
+								"title": "Ruines Sinjoh",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.13,
+						"title": "La naissance de Saliria",
+						"image": "./../images/history/man.png",
+						"content": [
+							"Il y a 1000 ans, près de la côte d'Hoenn, un navire fut pris dans une tempête et coula.",
+							"Passant par là et assistant à la scène, Manaphy et Phione unirent leurs pouvoirs et créèrent une énorme bulle d'air au fond de l'océan pour sauver les passagers du bateau d'une mort certaine.",
+							"Reconnaissants envers ces petits Pokémon, les passagers du navire utilisèrent les débris de leur embarcation pour construire un petit sanctuaire pour les deux Pokémon.",
+							"Heureux, Manaphy utilisa son pouvoir pour sympathiser avec les Pokémon aquatiques environnants afin d'aider les humains à construire une ville dans la bulle d'air. C'est ainsi que Saliria, la cité sous-marine, fut créée."
+						],
+						"tag": [
+							{
+								"title": "Manaphy",
+								"href": ""
+							},
+							{
+								"title": "Phione",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.14,
+						"title": "Rosalia et ses deux tours",
+						"image": "./../images/history/cuivre.jpg",
+						"content": [
+							"Il y a 700 ans à Rosalia, une ville qui voue un culte aux deux oiseaux légendaires Lugia et Ho-oh, deux tours furent construites en l'honneur des deux Pokémon légendaires pour servir de perchoir et leur permettre de se reposer lorsqu'ils ne veillent pas sur le monde. La Tour de Cuivre, le perchoir de Lugia, et la Tour Carillon, le perchoir de Ho-oh.",
+							"Les deux oiseaux légendaires furent tellement touchés par ce geste qu'il devint courant de les voir sur leur perchoir, pour la plus grande joie des habitants de Rosalia. Rosalia devint alors un symbole d'harmonie dans toute la région de Johto."
+						],
+						"tag": [
+							{
+								"title": "Ho-oh",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 2.15,
+						"title": "Les 500 dernières années avant nos jours",
+						"image": "./../images/history/SER.webp",
+						"content": [
+							" - Il y a 500 ans, la création de Magearna :",
+							"À Kalos, un scientifique créa un Pokémon artificiel nommé Magearna pour la famille royale de l'époque. Cependant, le cœur de Magearna, renfermant une source d'énergie incroyable, déclencha une guerre pour sa possession. Malgré tout, la merveille mécanique parvint à s'échapper grâce à l'aide de son créateur et personne ne la revit par la suite.",
+							" - Il y a 200 ans, Victini caché :",
+							"À Unys, une famille fortunée se lie d'amitié avec Victini. Sachant qu'il est persécuté pour ses pouvoirs, le chef de famille décide d'acheter l'Île Liberté et d'y cacher le petit Pokémon pour le protéger.",
+							"- Il y a 150 ans, la Tour Cendrée :",
+							"Il y a 150 ans, à Johto, un conflit entre Électhor, Sulfura et Artikodin créa une tempête violente qui frappa la Tour de Cuivre. La tour de cuivre brûla toute une nuit alors que Lugia calmait les trois oiseaux légendaires. À la suite de cette tempête, il ne resta pas grand-chose de la tour de cuivre, alors Lugia décida de se cacher au fond de l'océan pour pouvoir surveiller au mieux les trois oiseaux légendaires et éviter tout nouveau conflit. De son côté, Ho-oh descendit du ciel et ressuscita trois Pokémon qui avaient brûlé avec la tour, donnant naissance aux trois fauves légendaires. Les habitants de Rosalia furent effrayés en voyant les trois Pokémon revenir à la vie et les rejetèrent. Voyant cela, Ho-oh quitta également Rosalia avec les trois fauves et ni Lugia ni Ho-oh ne furent revus à Rosalia.",
+							"- Il y a 50 ans, la découverte de Saliria :",
+							"Une équipe d'exploration sous-marine découvre la cité sous-marine de Saliria. À la suite de cela, la ville renoue avec le monde extérieur, lui permettant ainsi de rattraper son retard technologique accumulé au cours des derniers siècles."
+						],
+						"tag": [
+							{
+								"title": "Suicune",
+								"href": ""
+							},
+							{
+								"title": "Entei",
+								"href": ""
+							},
+							{
+								"title": "Raikou",
 								"href": ""
 							}
 						]
