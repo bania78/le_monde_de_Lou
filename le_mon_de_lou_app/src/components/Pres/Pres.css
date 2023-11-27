@@ -8,6 +8,11 @@
     padding-top: 65px;
 }
 
+.div_opac {
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
 .div_content {
     margin: auto;
     text-align: center;

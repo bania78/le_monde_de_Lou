@@ -1,0 +1,20 @@
+.timeline_h3 {
+    font-size: 0.9em;
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    transition-duration: 1s;
+}
+
+.timeline_h3:hover {
+    text-decoration: underline;
+}
+
+.article_timeline {
+    display: flex;
+}
+
+.icon {
+    object-fit: cover;
+    height: 25px;
+}

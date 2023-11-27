@@ -1,5 +1,21 @@
 .ul_history {
     padding-top: 60px;
     padding-left: 60px;
-    padding-right: 60px;
+    margin-right: 25%;
+}
+
+.timeline {
+    top: 70px;
+    padding-left: 20px;
+    position: fixed;
+    right: 0;
+    width: 20%;
+    background: black;
+    border-left: solid 1px white;
+    overflow-y: scroll;
+    height: 90%;
+}
+
+html {
+    scroll-behavior: smooth;
 }

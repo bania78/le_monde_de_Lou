@@ -5,7 +5,7 @@ function Li_history({ projects }) {
     return (
         projects.map(project => (
             <li key={project.id} className="li_history">
-                <h3 className=''>{project.title}</h3>
+                <h3 id={project.id} className='h3_history'>{project.title}</h3>
                 <div className='div_img'>
                     <div className="box_img">
                         <img className="history_img" src={project.image} alt={project.title}/>
