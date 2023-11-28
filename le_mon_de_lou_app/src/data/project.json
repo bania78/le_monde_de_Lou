@@ -477,6 +477,119 @@
 						]
 					}
 				]
+			},
+			{
+				"id": "3",
+				"title": "Nos jours",
+				"story": [
+					{
+						"id": 3.1,
+						"title": "La légende de Red",
+						"image": "./../images/history/red.jpg",
+						"icon": "./../images/icon/red.png",
+						"content": [
+							"Il y a 10 ans, à Kanto, deux jeunes dresseurs quittent Bourg Palette accompagnés d'un Pokémon confié par le Professeur Chen afin de compléter le premier Pokédex. Ces dresseurs ne sont autres que Red et Blue ! Ils seront suivis par Leaf qui dérobera un Bulbizarre au Professeur Chen.",
+							"Au cours de leurs voyages, les trois dresseurs vaincront un à un les champions de Kanto, et Red entrera même en conflit avec la Team Rocket, qui finira par être démantelée après la défaite du chef de l'organisation, Giovanni, contre Red.",
+							"Pendant ce temps, Blue ira jusqu'à battre le Conseil 4 et le maître de l'époque avant d'être vaincu par Red lui-même.",
+							"À la suite de cela, Red partira s'entraîner à la montagne Argentée et abandonnera son titre de maître à Peter, tandis que Blue prendra le contrôle de l'arène de Jadielle laissée vacante par Giovanni, le chef de la Team Rocket."
+						],
+						"tag": [
+							{
+								"title": "Red",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.2,
+						"title": "Flora au sommet de Hoenn",
+						"image": "./../images/history/flora.png",
+						"icon": "./../images/icon/flora.png",
+						"content": [
+							"La même année, à Hoenn, basé sur celui du Professeur Chen, le Professeur Seko créa le Pokédex de sa propre région et confia une copie à son fils, Brice, ainsi qu'à une jeune dresseuse de Kanto et fille d'un champion, Flora.",
+							"Les deux jeunes dresseurs ont parcouru Hoenn, et Flora en a même profité pour affronter les champions et collecter leurs badges, forçant ainsi l'admiration de Timmy, un jeune homme de la région qui a également décidé de conquérir les arènes.",
+							"Au cours de son périple, Flora se retrouvera également confrontée à la Team Aqua et à la Team Magma, dont l'objectif est de ramener à la vie Kyogre pour l'une et Groudon pour l'autre, soit pour augmenter le niveau de l'eau à la surface de la Terre pour la Team Aqua, soit au contraire pour augmenter le niveau des continents pour la Team Magma.",
+							"Les deux équipes parviendront à ramener les Pokémon légendaires à la vie, mais finiront par être totalement dépassées par leur pouvoir. Comme à leur habitude, Kyogre et Groudon reprendront leur conflit une fois de plus.",
+							"Flora tentera d'intervenir mais ne fera pas le poids contre les deux titans... Jusqu'à ce que, une fois de plus, Rayquaza descende du ciel et calme à nouveau les deux pokemon. Une fois tout revenu à la normale, Rayquaza s'arrêta un moment pour observer Flora avant de s'envoler de nouveau dans le ciel.",
+							"Flora parti alors affronter le Conseil 4 et le maître de la Ligue, Pierres, et réussi à gagner, devenant ainsi la nouvelle maître de Hoenn !"
+						],
+						"tag": [
+							{
+								"title": "Flora",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.3,
+						"title": "Le dernier combat de Lena",
+						"image": "./../images/history/Ghétis.jpg",
+						"icon": "./../images/icon/ghetis.png",
+						"content": [
+							"Toujours la même année, dans la Forêt Argentée, la Tribue argentée, jusqu'alors prospère, est attaqué par un certain Ghetis et ses sbires à la recherche de Zygarde et de sa puissance.",
+							"La tribue argentée étant de nature pacifiste, Ghétis n'a eu aucun mal à les massacrer. Cependant, bien que pacifiste, la tribue argentée désigne à chaque génération un gardien pour protéger la Forêt Argentée, et le gardien de cette génération, considéré par beaucoup comme le plus puissant de l'histoire du tribu, n'est autre qu'une jeune fille de 18 ans nommée Léna.",
+							"Bien que seule, elle a facilement mis en déroute les hommes de main de Ghétis avant de le combattre et de prendre rapidement l'avantage. Mais Ghétis, grâce à sa ruse, parviendra à porter un coup fatal à Léna au cours de leur combat, tuant ainsi la gardienne et le dernier obstacle sur son chemin.",
+							"Alors qu'il approchait de l'hôtel en l'honneur de Zygarde où l'une de ses particules se reposait, une jeune fille se dressa sur son chemin. Il s'agissait de la sœur cadette de la gardienne et dernière survivante de la tribu, Sandrine.",
+							"Tandis que Ghétis s'apprêtait à éliminer la jeune fille, une lumière verte illumina l'hôtel pour laisser place à Zygarde qui intervint pour sauver Sandrine. Ghétis, affaibli par son combat contre Lena, fut contraint de battre en retraite.",
+							"Sandrine, désormais seule, ne savait plus quoi faire. C'est alors que l'esprit de Lena se matérialisa grâce aux pouvoirs de son Ectoplasma. Bien qu'incapable de parler, elle put compter sur l'aide de ses Pokémon pour élever sa petite sœur et continuer à protéger la Forêt Argentée."
+						],
+						"tag": [
+							{
+								"title": "Ghetis",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.4,
+						"title": "Meia les origines",
+						"image": "./../images/history/Cynthia.jpg",
+						"icon": "./../images/icon/cynthia.png",
+						"content": [
+							"À Sinnoh, Meia, une jeune orpheline accompagnée de son Griknot, fait la loi dans le petit village de Litorella. Même les adultes ne peuvent pas rivaliser contre la jeune dresseuse.",
+							"Un jour, un homme immense passant par là croise la jeune orpheline, puis lui sourit comme s'il venait de retrouver une vieille connaissance. Il la défie et la bat sans difficulté.",
+							"A la suite du combat, il offre à la jeune orpheline une petite pierre, puis lui promet qu'ils se retrouveront avant de partir. Blessée par sa défaite, Julie décide alors de quitter Litorella et de partir en voyage pour s'améliorer.",
+							"Elle se fait rapidement connaître à Sinnoh en battant quelques champions, ce qui lui vaut d'être approchée par la Team Galaxie. Elle écrase facilement ses courtisans, dont Mars, une commandante de l'organisation, et déclare qu'elle ne rejoindra la Team Galaxie que si l'un de ses membres parvient à la battre.",
+							"C'est alors qu'Helio, le chef de l'organisation, vient lui-même l'affronter et, au terme d'une confrontation épique, défait la jeune dresseuse. Admirant la force du chef de la Team Galaxie, Meia accepte de le suivre et de rejoindre l'organisation voyant là une oportunité de pouvoir affronter régulièrement le boss de celle-ci.",
+							"En tant que membre de la Team Galaxie, Meia gravit rapidement les échelons grâce à ses nombreux exploits, couvrant notamment l'évasion de ses acolytes en battant Gladys, la championne de Frimapic.",
+							"Cynthia, la maître de la ligue à l'époque, apprend cette histoire et décide d'aller trouver la jeune dresseuse prometteuse. Après une confrontation formidable, Cynthia parvient à faire comprendre à Meia qu'elle n'a pas besoin de la Team Galaxie pour devenir plus forte.",
+							"Après avoir passé plusieurs jours a réfléchir a Uniopolis chez Amelle, une développeuse talentueuse travaillant sur un projet de stockage de Pokémon et connaissance de Cynthia, Meia décide alors de quitter les rangs de la Team Galaxie. Elle reprend son voyage et son entraînement, accompagné d'un Evoli que lui confie Amelle, avec pour objectif de devenir plus forte que Cynthia, la meilleure dresseuse qu'elle ait jamais vue.",
+							"Elle finit par obtenir les 8 badges, se présente à la Ligue Pokémon et parvient à battre le Conseil 4 pour se retrouver enfin face à son objectif, Cynthia. Le choc entre les deux femmes les plus fortes de Sinnoh était extrêmement serré, mais c'est finalement Cynthia qui l'emporte de justesse. Encore une fois vaincue, Julie décide de retourner à Uniopolis, près d'Amelle de qui elle est tombée amoureuse, pour se préparer à son prochain voyage..."
+						],
+						"tag": [
+							{
+								"title": "Cynthia",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.5,
+						"title": "Gold contre la légende",
+						"image": "./../images/history/RedvsGold.png",
+						"icon": "./../images/icon/Gold.png",
+						"content": [
+							"2 ans plus tard, il y a 8 ans, à Johto, le Professeur Orme confie un Pokémon à deux jeunes dresseurs, Gold et Christy, afin qu'ils puissent compléter la nouvelle version du Pokédex.",
+							"C'est ainsi que les deux dresseurs quittent le petit village de Ville Griotte pour conquérir la région. Quant au dernier Pokémon en possession du Professeur Orme, il est volé par un certain Silver.",
+							"Les trois dresseurs parviennent à vaincre les champions de la région un par un. Ils affrontent même la Team Rocket nouvellement reformée à la recherche de leur chef, Giovanni. Ils seront finalement vaincus à la Tour Radio de Doublonville avant d'être une fois de plus démantelés.",
+							"À la suite de cet événement, le propriétaire de la Tour Radio traumatisé décide de la vendre. Un certain Helio saisit l'opportunité et l'achète afin d'en faire une base pour la Team Galaxie.",
+							"Quant à nos héros, ils poursuivent leur aventure et se retrouvent tous les trois sur le Plateau Indigo. À l'issue d'un combat épique entre les trois dresseurs, c'est Gold qui obtient le droit d'aller défier le Conseil 4.",
+							"Il parviendra à les défaire ainsi que Peter, le maître de l'époque, et devient ainsi le nouveau maître de Kanto et Johto.",
+							"Après cela, il décide de partir en voyage à Kanto pour obtenir les badges de la région et continuer à devenir plus fort. C'est en gravissant le Mont Argenté que le jeune dresseur trouvera la légende, Red.",
+							"Il le défie et après un combat légendaire, il parvient à le battre. À la suite de cette défaite, Red décide de retourner à Bourg Palette pour se préparer à reprendre son voyage."
+						],
+						"tag": [
+							{
+								"title": "Gold",
+								"href": ""
+							},
+							{
+								"title": "Red",
+								"href": ""
+							}
+						]
+					}
+				]
 			}
 		]
 	},
