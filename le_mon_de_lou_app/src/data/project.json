@@ -543,7 +543,7 @@
 					{
 						"id": 3.4,
 						"title": "Meia les origines",
-						"image": "./../images/history/Cynthia.jpg",
+						"image": "./../images/history/Meia.png",
 						"icon": "./../images/icon/cynthia.png",
 						"content": [
 							"À Sinnoh, Meia, une jeune orpheline accompagnée de son Griknot, fait la loi dans le petit village de Litorella. Même les adultes ne peuvent pas rivaliser contre la jeune dresseuse.",
@@ -558,7 +558,7 @@
 						],
 						"tag": [
 							{
-								"title": "Cynthia",
+								"title": "Meia",
 								"href": ""
 							}
 						]
