@@ -673,6 +673,74 @@
 								"href": ""
 							}
 						]
+					},
+					{
+						"id": 3.11,
+						"title": "La création de l'International Federation of Pokemon Trainer",
+						"image": "./../images/history/ifpt.png",
+						"icon": "./../images/icon/ifpt.png",
+						"content": [
+							"A Kanto, un riche fan de combat Pokemon du nom de Morimoto décida de créer une fédération international de dresseur de Pokemon avec pour but de faire de nombreuses compétitions rassemblant les meilleures dresseur du monde.",
+							"Grâce a son immense fortune son projet pris rapidement de l'ampleur jusqu'à obtenir le soutient de la ligue Indigo rassemblant la région de Johto et de Kanto.",
+							"Les premiers tournois de la fédération bien que rassemblant uniquement des dresseurs de Kanto et Johto pour la plus part, pu compter sur la participation de Blue pour que le monde s'y interesse.",
+							"A la suite de ses premiers tournois tests, Morimoto pris la décision d'annoncer l'organisation d'un tournoi mondial ouvert a tout les dresseurs ayant rassemblé les 8 badges de 2 régions différentes afin de désigner le dresseur le plus fort du monde et qui se tiendrai l'année qui suit sur le Plateau Indigo à Kanto.",
+							"Cette annonce de la jeune fédération ne mit pas longtemps a devenir virale et les dresseurs du monde entier se mirent à se préparer en vue de cet évenement sans précédent."
+						],
+						"tag": [
+							{
+								"title": "IFPT",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.12,
+						"title": "La Team Rocket en mouvement",
+						"image": "./../images/history/hitoshi.jpg",
+						"icon": "./../images/icon/rocket.png",
+						"content": [
+							"1 an plus tard, Giovanni décida d'envoyer l'un de ses nouveaux partisants en direction de l'Archipel Orange.",
+							"Le jeune commandant de la Team Rocket du nom d'Hitoshi grâce à son talent pour le combat ainsi qu'à son puissant Dracaufeu noir parvint a mettre en déroute Drake, le maitre de la ligue Orange.",
+							"Se faisant passer pour un dresseur lambda il offra donc le contrôle de l'Archipel Orange à la Team Rocket sans éveiller les soupçons octoyant notamment le titre de champion a Amos l'un des commandants de l'organisation.",
+							"Néanmoins, certains habitants ne mirent pas longtemps à se rendre compte de la supercherie et de la dictature imposé par la Team Rocket qui s'installait peu à peu.",
+							"Une resistance se format alors sur certaines Iles de l'archipel avec à sa tête, Shay, une championne et cheffe d'un gang de motard, les Arboks, qui semait autrefois la terreur sur quelques îles de l'archipel. Le gang devint alors un symbole de rebellion.",
+							"Hitoshi quant à lui maintenant maitre de l'archipel et nouvelement nomé chef de la branche Orange de la Team Rocket, avait le champ libre pour mener à bien la véritable mission que lui avait confié Giovanni, la capture des oiseaux du climat, Artickodin, Electhor et Sulfura."
+						],
+						"tag": [
+							{
+								"title": "Dracaufeu",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.13,
+						"title": "IFPT WORLD TOURNAMENT FIRST EDITION",
+						"image": "./../images/history/world_champ.jpg",
+						"icon": "./../images/icon/cup.png",
+						"content": [
+							"Quelques mois après la victoire d'Hitoshi sur la ligue Orange se tenait la première édition du championnat du monde organisé par la féderation international des dresseur de Pokemon.",
+							"Une centaine de dresseurs venu du monde entier étaient présent pour l'occasion. Parmis eux, les maitres de chaque régions invité pour l'occasion ainsi qu'un grand nombre de grands dresseurs tel que Meia, Red, Blue ou encore le jeune Lou.",
+							"Durant la céremonie d'ouverture, Morimoto pris la parole, ému par l'engouement que son évenement avait sucité, il promis alors que se championnat n'était que la première édition et qu'une édition se tiendrait ici même tout les 4 ans.",
+							"Le championnat démarra ensuite offrant au public venu du monde entier des combats plus incroyable les uns que les autres. Parmis eux une bataille acharnée opposant Blue à Hitoshi en 1/32 de final, un combat d'antologie entre Lou et Meia en 1/8 de final ou encore la résurection du face a face légendaire, Red contre Blue en 1/4 de final.",
+							"L'avant dernier jour, le premier combat des 1/2 final opposa Red à Cinthya dans un combat à 6 VS 6 que Red parvint à remporter sur le fil lui permettant d'accéder à la final de la compétition. Il sera rejoint par Meia gagnante de son face à face contre Gold.",
+							"Lors de la dernière journée, la lutte entre Red et Meia fut d'une intensité encore jamais vu dans le tournoi. Chaque fois qu'un Pokemon était KO, le public tout entier l'applaudissait tellement il avait été incroyable. Au terme de cette afrontement qui restera longtemps gravé dans les mémoires du monde entier, c'est finalement Meia qui sortit vainqueur devenant ainsi la meilleure dresseuse du monde.",
+							"A la suite de sa victoire sur Red, Meia rentra dans son village de Litorella et demanda en mariage Amelle sur la plage ou elle avait jadis perdu contre AZ, la plage ou tout avait commencé..."
+						],
+						"tag": [
+							{
+								"title": "Leaf",
+								"href": ""
+							},
+							{
+								"title": "Red",
+								"href": ""
+							},
+							{
+								"title": "Blue",
+								"href": ""
+							}
+						]
 					}
 				]
 			}
