@@ -588,6 +588,91 @@
 								"href": ""
 							}
 						]
+					},
+					{
+						"id": 3.6,
+						"title": "Le duel des héros",
+						"image": "./../images/history/LudVSN.jpg",
+						"icon": "./../images/icon/Ludwig.png",
+						"content": [
+							"3 ans se sont écoulé depuis la défaite de Red au sommet du Mont Argenté contre Gold, à Unys, le professeur Keteleria confie son prototype de pokedex a 3 jeunes enfants, Bianca, Tcheren et Ludwig ainsi que leur premier Pokemon.",
+							"Au cour de leur voyage à travers la région, les trois jeunes dresseurs vont partir a la conquête des arènes d'Unys et obtenir les 8 badges. Ils s'opposeront également a la Team Plasma, un groupe qui milite pour la liberté des Pokemon avec son roi nouvelement courroné, N et n'hésitant pas a utiliser les pires moyens pour parvenir à leurs objectifs.",
+							"N parviendra également a obtenir les 8 badges de la région ainsi que l'exploit de réssuciter Reshiram endormi jusqu'alors sous la forme de galet blanc. Il en faire la principale armes de son idéal se voyant ainsi comme le héros libérateur des Pokemon.",
+							"Il partira ensuite a l'attaque de la ligue Pokemon et triomphera de Goya le maitre de l'époque avant l'arrivé de Ludwig. Il donnera ensuite rendez-vous a celui-ci dans son chateau pour un duel au sommet voyant en lui le héros capable de maitriser Zekrom dont le galet a été confié a Ludwig plus tôt dans son périple.",
+							"Une fois les deux protagoniste face à face le galet noir se transforma en Zekrom qui décidera d'apporter son soutient a Ludwig. Suite a une confrontation épique, Ludwig triomphe finalement de N devenant ainsi le nouveau maitre de Unys et mettant un terme aux projets de N.",
+							"C'est à ce moment que Ghetis, qui tirait les ficèles en coulisse voulant se servir de N pour avoir le monopole des Pokemon dans la région d'Unys, décide de se charger lui même de Ludwig dévoilant par la même occasion ses véritables intentions à notre héros ainsi qu'a N. Malgré sa force, il ne pourra rien contre Ludwig accompagné de Zekrom et devra battre en retraite.",
+							"N perdu par ce qu'il venait d'apprendre et ses convictions éprouvée, il décide de se retirer accompagné de Reshiram."
+						],
+						"tag": [
+							{
+								"title": "Ludwig",
+								"href": ""
+							},
+							{
+								"title": "N",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.7,
+						"title": "L'exil de Giovanni",
+						"image": "./../images/history/giovanni.jpg",
+						"icon": "./../images/icon/giovanni.png",
+						"content": [
+							"Suite à sa défaite contre Red, Giovanni décida de dissoudre la Team Rocket et de partir en exil pour s'entrainer sans réel but laissant dérrière lui son organisation ainsi que son fils, Silver.",
+							"3 ans plus tard, lorsque ses sbires tenteront de le faire revenir en l'appelant durant l'incident de la tour radio il tentera de les rejoindre mais sera stoppé par Gold venu d'une autre époque amené par Celebi.",
+							"A la suite de cette nouvelle défaite il continuera d'errer sans but jusqu'au jour où il fit la rencontre d'un jeune garçon, Léon, 1 an après la défaite de N à Unys.",
+							"Orphelin et rejeté par la société, le jeune garçon rempli de colère rappela à Giovanni son fils, Silver. Il décida donc de la prendre sous son aile et de continuer son voyage avec lui.",
+							"Après 1 an de voyage avec le garçon, Giovanni se prit d'affection pour lui et décida de reformer la Team Rocket animé par l'objectif de dominer le monde pour l'offrir à celui qu'il considère comme son hériter.",
+							"Il ne mit pas longtemps à rassembler ses partisants et récupérer son pouvoir d'antant mais décida de rester caché dans l'ombre le temps de faire grandir son organisation nouvellement reformé."
+						],
+						"tag": [
+							{
+								"title": "Giovanni",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.8,
+						"title": "Serena, sauveuse de Kalos",
+						"image": "./../images/history/serena.jpg",
+						"icon": "./../images/icon/serena.png",
+						"content": [
+							"La même année que la reformation de la Team Rocket, il y a 4 ans, à Kalos, un groupe de jeune se voit confié par le professeur Platane un pokedex et pour certains leur premier Pokemon. Parmis eux, la jeune Serena et le jeune Kalem.",
+							"Au cours de leurs voyages, Serena et Kalem parvinrent à collecter les 8 badges d'arènes ainsi qu'à percer les secrets de la Mega-Evolution et la maitriser.",
+							"Ils s'opposeront également à la Team Flare une organisation piloté dans l'ombre par un spécialiste des nouvelles technologies et ancêtre de Harmonia du nom de Lysandre. Connaissant l'emplacement de l'arme suprême d'AZ son ancètre, il traqua celui-ci pour récupérer la clé de l'arme et utiliser l'énergie d'Yveltal pour utiliser l'arme suprême afin d'anéantire l'humanité pour préserver le monde.",
+							"Il fut bien entendu arrêté par Serena qui déconnecta Yveltal de l'arme suprême avant que celle-ci n'eu le temps de charger. Lysandre après une cuisante défaite contre Serena malgré le pouvoir de la Mega-Evolution tira avec l'arme suprême en utilisant le peu d'énergie contenu dans celle-ci. Du au manque d'énergie le tir retomba sur l'arme suprême détruisant celle-ci et entrainant Lysandre avec elle.",
+							"Serena partit ensuite a l'assaut de la ligue Pokemon dont elle triompha devenant ainsi maitre de Kalos. Durant la parade célebrant le nouveau maitre de Kalos, AZ demanda à la jeune maitre de l'affronter pour comprendre ce qu'est réellement un dresseur. Une fois vaincu AZ déclara qu'il est enfin en paix maintenant l'arme suprême détruite. C'est à se moment que son Floette voyant AZ enfin apaisé revint auprès de lui après 3000 ans."
+						],
+						"tag": [
+							{
+								"title": "Serena",
+								"href": ""
+							}
+						]
+					},
+					{
+						"id": 3.9,
+						"title": "Alamos et son gardien",
+						"image": "./../images/history/alamos.png",
+						"icon": "./../images/icon/darkrai.png",
+						"content": [
+							"La même année, en quête de challenge pour son entrainement, Meia partit pour Alamos, une ville a Sinnoh, où un Pokemon puissant et mystérieux y aurait élu domicile.",
+							"Alamos étant connu pour ses tours musicales et ses jardins luxuriants, Meia décida d'enmener Amelle avec elle afin qu'elles puissent profiter ensemble de la ville.",
+							"Durant leur escapade, les deux jeunes femmes firent la rencontre d'un jeune dresseur local et de son Tortipouss, Lou. Meia et Lou s'entendant comme Caninos et Miaouss, pour le plus grand amusement d'Amelle, finirent par faire un combat Pokemon duquelle Meia sortit vainqueur sans difficulté.",
+							"Suite a cette défaite, le garçon fut contraint de devenir le guide des deux jeunes femmes durant leur séjour dans la ville. Après quelques jours dans la ville, Meia finit par découvrir que le mystérieux Pokemon n'était autre que Darkrai qui avait élu domicile dans la ville plusieurs années auparavant.",
+							"Après un bel affrontement et voyant que le Pokemon n'avait que pour seul but la protection de la ville Meia décida de le laisser vivre a Alamos satisfaite de son combat.",
+							"Au moment du départ des deux jeunes femmes, sur conseil d'Amelle, Meia décida de confier à Lou un oeuf de sa Mustéflott avec l'espoir que le jeune dresseur devienne plus tard un dresseur à sa hauteur.",
+							"Peu de temps après, Lou déterminé à surpasser Meia, décida de partir en voyage accompagné de son fidèle Tortipouss et de son Mustébouée tout juste sortit de l'oeuf qu'il nomma, Bania."
+						],
+						"tag": [
+							{
+								"title": "Alamos",
+								"href": ""
+							}
+						]
 					}
 				]
 			}
