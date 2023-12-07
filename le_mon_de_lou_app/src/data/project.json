@@ -749,16 +749,19 @@
 	{
 		"id": "1",
 		"title": "Lou à Teyvat",
-		"cover": "./images/1204356.png"
+		"cover": "./images/1204356.png",
+		"path": "genshin"
 	},
 	{
 		"id": "2",
 		"title": "Coach Lou",
-		"cover": "./images/coach_lou.jpg"
+		"cover": "./images/coach_lou.jpg",
+		"path": "coach"
 	},
 	{
 		"id": "3",
 		"title": "Untraveled Journey",
-		"cover": "./images/Night.png"
+		"cover": "./images/Night.png",
+		"path": "untraveled"
 	}
 ]

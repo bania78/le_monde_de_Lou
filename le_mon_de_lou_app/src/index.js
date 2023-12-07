@@ -7,6 +7,9 @@ import { createBrowserRouter, RouterProvider, } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 import Accueil_pok from './pages/Pokemon/Accueil_pok';
 import History from './pages/Pokemon/History';
+import Accueil_gen from './pages/Genshin/Accueil_gen';
+import Accueil_coach from './pages/Coach_Lou/Accueil_coach';
+import Accueil_unt from './pages/Untraveled/Accueil_unt';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +28,18 @@ const router = createBrowserRouter([
         path: "pokemon/history",
         element: <History />,
       },
+      {
+        path: "genshin",
+        element: <Accueil_gen />
+      },
+      {
+        path: "coach",
+        element: <Accueil_coach />
+      },
+      {
+        path: "untraveled",
+        element: <Accueil_unt />
+      }
     ]
   }
 ])
