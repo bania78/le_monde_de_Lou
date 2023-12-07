@@ -6,6 +6,7 @@ function Accueil_gen() {
             <div className='div_content' id="pok">
                 <h2 className='h2_pres'>Présentation</h2>
                 <p>Voici une rapide présentation de mon compte Genshin.</p>
+                <p> - en cours de dev - </p>
             </div>
         </div>
     );
