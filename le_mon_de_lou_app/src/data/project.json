@@ -756,7 +756,110 @@
 		"id": "2",
 		"title": "Coach Lou",
 		"cover": "./images/coach_lou.jpg",
-		"path": "coach"
+		"path": "coach",
+		"project": [
+			{
+				"projectId": "0",
+				"title": "FM21 : Rhaegar et le Targaryen FC",
+				"cover": "./images/targaryen/rhaegar.png",
+				"description": "Peyredragon est une île indépendante a l'Est de Gibraltar et qui a pour régime une monarchie. La culture footbalistique espagnol étant bien inprégné sur l'île, Rhaegar Targaryen, prince de Peyredragon, décide de créer un club de foot derrière lequel chaque habitant de Peyredragon pourra se ranger, le Targaryen FC. Ayant a coeur de mener se projet a bien, le jeune prince prends les commandes du club en tant qu'entraineur !",
+				"saisons": [
+					{
+						"projectId": "0",
+						"id": "0",
+						"title": "Saison 1",
+						"cover": "./../images/targaryen/saison_1/cover.png",
+						"content": [
+							{
+								"id": "0",
+								"title": "Saison1",
+								"date": [
+									{
+										"id": 0.0,
+										"title": "Pré-saison",
+										"content": [
+											{
+												"id": 0,
+												"title": "12/08/20 : Résultats de la pré-saison",
+												"image": "./../../images/targaryen/saison_1/cal_pre.png",
+												"icon": "",
+												"content": [
+													"Pour se préparer à se première saison, le Targaryen FC a disputé 10 matchs amicaux entre mi-juillet et mi-aout.",
+													"Les premiers furent difficile avec un grand nombre de défaite, mais les 4 derniers qui se sont soldé par un nul et 3 victoires montre que l'équipe s'est amélioré et est prête pour le début de saison."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 0.1,
+												"title": "12/08/20 : L'équipe a la fin de la pré-saison",
+												"image": "./../../images/targaryen/saison_1/equipe_pre.png",
+												"icon": "",
+												"content": [
+													"Voici maintenant l'équipe à l'issu de la pré-saison qui sera alignée au cours de la saison a venir.",
+													"Pour la composition, Rhaegar Targaryen a opté pour un 4-2-3-1 avec un style de jeu à vocation plutôt offensive.",
+													"Le Targaryen FC venant de naitre, tout ces joueurs sont issu du recrutement.",
+													"A noter les bonnes prestation de Marrache durant les matchs amicaux lui qui fut d'ailleurs l'une des premières recrue du club et qui finira d'ailleurs meilleur buteur de cette pré-saison malgré un faible total de 3 buts marqué.",
+													"Autre joueur notable : Grech et Quigley qui ont réalisé de belles prestation."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 0.1,
+												"title": "12/08/20 : Présentation de la saison en championnat",
+												"image": "./../../images/targaryen/saison_1/pres_saison.png",
+												"icon": "",
+												"content": [
+													"Pour leur première saison dans la ligue nationale de Gibraltar, la première et unique division, le Targaryen FC de Rhaegar Targaryen est pronostiqué 12e selon les médias.",
+													"Les géants du football de Gibraltar Lincoln et Europa FC, le champion en titre, sont pronostiqué sans grande surprise aux deux premières places du championnat.",
+													"Cette édition se jouera en 39 journées, chaque équipe s'affronte 3 fois. Il y a une place pour le premier tour des phases qualificative de la ligue des champions pour le champion et 2 pour le premier tour de celles de l'Euro Cup II pour le premier et deuxième avec une 3e si le vainqueur de la Rock Cup fait partie des 3 premiers pour le quatrième."
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 1.0,
+										"title": "Premier Tour de la Coupe Divisionnaire",
+										"content": [
+											{
+												"id": 1,
+												"title": "15/08/20 : Premier Tour de la Coupe Divisionnaire, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/cup-1_tour-1_av.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC reçoit demain, Dimanche 16 Aout, les St Joseph's à Fausse Dragon.",
+													"Ce match est le 1er tour de la Coupe Divisionnaire de Gibraltar et sera le premier match de l'histoire du Targaryen FC ainsi que de son jeune entraineur de 26 ans, Rhaegar Targaryen.",
+													"Pour ce premier match, le Targaryen FC ne part bien évidemment pas favori comme le montre les côtes mais une surprise, comme lors de leur match amical contre cette équipe qui s'est soldé par une victoire 3-2 des Red Dragon's, n'est pas à écarter.",
+													"10 autres équipes entreront également dans la compétition durant ce premier tour soit la majorité des participants mais 2 autres équipes n'entreront dans la compétition qu'au tour suivant, notamment le champion en titre et grand favori, l'Europa FC."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 1.1,
+												"title": "16/08/20 : Premier Tour de la Coupe Divisionnaire, l'après-match",
+												"image": "./../../images/targaryen/saison_1/cup-1_tour-1_ap.png",
+												"icon": "",
+												"content": [
+													"Malgré une prestation plus qu'honorable et un grand nombre d'occasion dont un pénalty manqué, le Targaryen FC laisse s'échapper son premier succès ainsi que la qualification devant son public au profit d'une equipe de St Joseph's bien plus réaliste sur le score de 2-3.",
+													"Les quleques mots de l'entraineur Rhaegar Targaryen à la suite de la rencontre :",
+													"« C'est vrai qu'on aurait aimé gagner ce match et se qualifier, maintenant c'était notre premier match, on parvient à ouvrir le score, dans le jeu on a réussi à s'imposer... Je pense qu'on a pas a rougir et qu'on sort le tête haute même si c'est tôt. En tout cas je suis content de ce que j'ai vu, on a réussi a les gêner mais il va surtout falloir qu'on travail la finition. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
 		"id": "3",

@@ -10,6 +10,8 @@ import History from './pages/Pokemon/History';
 import Accueil_gen from './pages/Genshin/Accueil_gen';
 import Accueil_coach from './pages/Coach_Lou/Accueil_coach';
 import Accueil_unt from './pages/Untraveled/Accueil_unt';
+import Project_page, { loader as projectLoader, } from './pages/Coach_Lou/Project_page';
+import Saison_page, { loader as saisonLoader, } from './pages/Coach_Lou/Saison_page';
 
 const router = createBrowserRouter([
   {
@@ -35,6 +37,16 @@ const router = createBrowserRouter([
       {
         path: "coach",
         element: <Accueil_coach />
+      },
+      {
+        path: "coach/:projectId",
+        element: <Project_page />,
+        loader: projectLoader,
+      },
+      {
+        path: "coach/:projectId/:saisonId",
+        element: <Saison_page />,
+        loader: saisonLoader,
       },
       {
         path: "untraveled",
