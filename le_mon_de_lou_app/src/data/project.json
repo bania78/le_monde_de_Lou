@@ -852,6 +852,163 @@
 												]
 											}
 										]
+									},
+									{
+										"id": 2.0,
+										"title": "Première journée de championnat",
+										"content": [
+											{
+												"id": 2,
+												"title": "01/10/20 : Première journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-1_av.png",
+												"icon": "",
+												"content": [
+													"Les Red Dragons de Rhaegar Targaryen font leur entré dans la ligue nationale de Gibralatr ce vendredi dans la cadre de la première journée du championnat et accueil Manchester 62 FC.",
+													"Comme on pouvait s'y attendre, le club de Peyredragon ne part pas favori pour ce premier match mais le coach Targaryen se dit optimiste pour cette première rencontre.",
+													"Trois matchs ont déjà eu lieu dans cette première journée avec une seul victoire pour le moment, celles de Lynx FC sur le score de 1-2 ce qui leur permet pour le moment d'être leadeur."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 2.1,
+												"title": "02/10/20 : Première journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-1_ap.png",
+												"icon": "",
+												"content": [
+													"Ce vendredi, pour son second match officiel, le Targaryen FC c'est offert sa première victoire à Fausse Dragon dans la cadre de la première journée de championnat.",
+													"Les hommes de Rhaegar Targaryen malgré une domination écrasante ne l'emporte que sur le score de 1-0 grâce à un but de Zhane Consigliero à la 24e minute ce qui a eu le don de frustré l'entraineur des Red Dragons malgrés la victoire.",
+													"« Je suis effectivement très heureux de la victoire mais au vu de ce qu'on a proposé nous aurions dû plier ce match bien plus tôt. Avec un tel nombre d'occasions finir avec seulement un but marqué ce n'est pas possible nous devons faire mieux ! »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 3.0,
+										"title": "Deuxième journée de championnat",
+										"content": [
+											{
+												"id": 3,
+												"title": "19/10/20 : Deuxième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-2_av.png",
+												"icon": "",
+												"content": [
+													"Dans la cadre de cette seconde journée de championnat, le Targaryen FC aura un déplacement très difficile a Lincoln l'un des favoris cette saison ce mardi 20 Octobre.",
+													"Plusieurs match ont déjà eu lieu dans cette seconde journée de championnat et même certains de la troisième journée de championnat.",
+													"Lincoln sort d'ailleurs d'une cuisante défaite sur sa pelouse contre Europa FC sur le score de 4-0 dimanche dernier. De quoi donner un peu d'espoir au supporters."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 3.1,
+												"title": "20/10/20 : Deuxième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-2_ap.png",
+												"icon": "",
+												"content": [
+													"Malheureusement, c'est sans grande surprise que les homme de Rhaegar Targaryen se sont incliné sur le pelouse du Lincoln sur un score de 3-1 pour cette deuxième journée de championnat.",
+													"Les mots de l'entraineur suite à cette défaite :",
+													"« Ils étaient tout simplement plus fort. On a quasiment rien pu faire, ils ne nous ont pas laissé mettre en place notre jeu il nous ont étouffé et comme souvent les rares occasion qu'on a on les mets pas au fond. Mais quoi qu'il arrive on est tombé sur plus fort que nous et il va falloir travailler pour revenir plus fort lors des deux prochaines rencontres contre eux. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 4.0,
+										"title": "Troisième journée de championnat",
+										"content": [
+											{
+												"id": 4,
+												"title": "23/10/20 : Troisième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-3_av.png",
+												"icon": "",
+												"content": [
+													"Pour cette troisième journée de championnat, c'est Glacis United qui se déplace à Fausse Dragon pour y affronter le club de la principauté.",
+													"Bien que là encore les pronostics ne sont pas favorable au Red Dragons, le coach du Targaryen FC reste malgré tout optimiste et compte sur le soutient de ses supporters pour pousser ses joueurs à se dépasser et peut-être briller une seconde fois cette saison."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 4.1,
+												"title": "24/10/20 : Troisième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-3_ap.png",
+												"icon": "",
+												"content": [
+													"Malgré un beau match dans le jeu, le Targaryen FC ne peut rien faire d'autre que s'incliner face a une équipe de Glacis United bien plus réaliste sur le score de 2-0.",
+													"L'entraineur, Rhaegar Targaryen, très énervé, s'est laché à nos micros :",
+													"« Comment on peut avoir le ballon, autant de frappe et malgré tout ne pas être foutu de marquer un seul but ?! Qu'on perde la match je peux le concevoir, on est une jeune équipe on manque d'expérience tout ça je peux le comprendre. Mais qu'on perde de cette manière je ne peux pas l'accepter !! On va travailler très dur parce que je ne veux plus voir un tel match ! »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 5.0,
+										"title": "Quatrième journée de championnat",
+										"content": [
+											{
+												"id": 5,
+												"title": "26/10/20 : Quatrième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-4_av.png",
+												"icon": "",
+												"content": [
+													"Un déplacement épineux en perspective pour les hommes de Rhaegar Targaryen, le Targaryen FC jouera sur la pelouse du Lynx FC dans la cadre de la quatrième journée de championnat.",
+													"Le Lynx FC qui, a l'entame de cette quatrième journée, reste sur 3 victoire consécutive. A l'inverse, le club de la principauté va tenter de se relancer lui qui est sur une série de deux défaites."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 5.1,
+												"title": "27/10/20 : Quatrième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-4_ap.png",
+												"icon": "",
+												"content": [
+													"Le club de la ville de Peyredragon qui parvient a réaliser un petit exploit sur le pelouse de Lynx FC en s'imposant logiquement dans un match où Lynx FC n'a pas éxisté.",
+													"Les quelques mots de Rhaegar Targaryen après la rencontre :",
+													"« Je suis assez content de ce que j'ai vu, surtout défensivement, on les a empêcher d'exister et ce sans trop de problème. Mon point d'amélioration reste comme toujours sur l'attaque et le peu d'occasion convertit mais ce soir on l'emporte et c'est le principal. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 6.0,
+										"title": "Cinquième journée de championnat",
+										"content": [
+											{
+												"id": 6,
+												"title": "30/10/20 : Cinquième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-5_av.png",
+												"icon": "",
+												"content": [
+													"Rencontre très compliqué en perspective contre Europe FC pour les Red Dragons dans le cadre de la cinquième journée de championnat.",
+													"Les nouveau venu vont accueillir, demain à Fausse Dragon, les champion en titre et grand favori de cette edition avec nottamment déjà trois victoires en trois matches. Le Targaryen FC va devoir sur surpasser pour esperer gagner des points dans cette cinquième journée !"
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 6.1,
+												"title": "31/10/20 : Cinquième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-5_ap.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC s'est offert ce soir le champion titre !! Après un match somptueux des hommes de Rhaegar Targaryen à Fausse Dragon, c'est L'Europa FC pourtant grand favori qui finit battu sur le score de 1-0.",
+													"C'est logiquement un Rhaegar Targaryen de très bonne humeur qui s'est présenté a nos micros :",
+													"« Je suis très heureux, c'est une très belle victoire contre une très belle équipe devant nos supporters... Je ne peux qu'être heureux ! Aujourd'hui encore notre défense fait un super match, Zhane (Consigliero) nous offre la victoire avec son but... Vraiment rien à dire juste à savourer ! »"
+												],
+												"tag": [
+												]
+											}
+										]
 									}
 								]
 							}
