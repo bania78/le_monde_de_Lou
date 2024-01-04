@@ -1009,6 +1009,353 @@
 												]
 											}
 										]
+									},
+									{
+										"id": 7.0,
+										"title": "Sixième journée de championnat",
+										"content": [
+											{
+												"id": 7,
+												"title": "03/11/20 : Sixième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-6_av.png",
+												"icon": "",
+												"content": [
+													"C'est sur la pelouse du Royal Gibraltar Regiment que va se déplacer le Targaryen FC pour le compte de la sixième journée de championnat.",
+													"Le Royal Gibraltar Regiment qui n'a réussi a engrenger qu'un seul point en 6 matchs et qui est donc en grande difficulté devra affronter des Red Dragons plutôt en forme qui sont sur 2 victoires consécutives avec notamment une contre l'Europa FC."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 7.1,
+												"title": "04/11/20 : Sixième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-6_ap.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC s'impose de nouveau sur le score de 1-0 pour la troisième fois consécutive ! Comme attendu le Royal Gibraltar Regiment n'a pas pu faire grand chose face a la solidité défensive de cette équipe du Targaryen FC.",
+													"Voici les mots de Rhaegar Targaryen après la rencontre :",
+													"« Fier de cette nouvelle victoire et surtout trsè fier de notre défense. C'est le troisième match de suite sans encaisser de but vraiment un grand bravo eux ! En plus maintenant ils marquent même les buts ! »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 8.0,
+										"title": "Septième journée de championnat",
+										"content": [
+											{
+												"id": 8,
+												"title": "06/11/20 : Septième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-7_av.png",
+												"icon": "",
+												"content": [
+													"Pour la septième journée de champîonnat, le Targaryen FC accueille les Lions.",
+													"Même si les côtes de Gibraltar Football penchent pour les Lions, les Red Dragons sont sur une bonne série et joueront chez eux bénéficiant ainsi du coutient de leurs supporteurs. A l'inverse, les Lions eux ont un début de saison plus compliqué, il ne serai donc pas surprenant de voir les hommes de Rhaegar Targaryen s'imposer dans cette rencontre."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 8.1,
+												"title": "07/11/20 : Septième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-7_ap.png",
+												"icon": "",
+												"content": [
+													"Malgré une écrasante domination c'est pourtant bien le Targaryen FC qui s'incline sur sa pelouse contre les Lions. Malgré le peu d'occasion créé, les Lions sont parvenu à marqué l'unique but de la rencontre en faisant preuve de réalisme, ce qui a manqué au club de Peyredragon qui n'a pas pu marqué malgré sa domination.",
+													"C'est un Rhaegar Targaryen dépité que nous avons trouvé a l'issue de cette rencontre :",
+													"« Je n'ai rien à dire, on a été au dessus a tout les niveaux mais ils gagnent quand même. C'est le football, bravo à eux. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 9.0,
+										"title": "Premier Tour de la Rock Cup",
+										"content": [
+											{
+												"id": 9,
+												"title": "17/11/20 : Premier Tour de la Rock Cup, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/cup-2_tour-1_av.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC reçoit encore une fois ce mercredi 18 Novembre, les Lions !",
+													"Pour le compte du premier tour de la Rock Cup, les Red Dragons vont avoir l'occasion de prendre leur revanche sur les Lions suite a leur défaite en championnat lors de leur dernier match.",
+													"Ce match sera aussi le premier du Targaryen FC dans la principale coupe nationale à Gibraltar. Coupe qui délivre une place européenne si elle n'est pas gagné par l'un des trois premiers du championnat."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 9.1,
+												"title": "18/11/20 : Premier Tour de la Rock Cup, l'après-match",
+												"image": "./../../images/targaryen/saison_1/cup-2_tour-1_ap.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC obtient sa revanche devant son publique et s'offre les Lions sur le score de 2-1 menant ainsi à la qualification au second tour.",
+													"Rhaegar Targaryen très heureux à notre micro :",
+													"« Ca fait très plaisir de s'imposer dans cette compétition, devant nos supporters et surtout contre les Lions. »",
+													"Malgré leur qualification, les Red Dragons hérite de l'un des pires tirages pour le second tour, Europa FC. Le match aura lieu le 23 Février à Fausse Dragon."
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 10.0,
+										"title": "Huitième journée de championnat",
+										"content": [
+											{
+												"id": 10,
+												"title": "20/11/20 : Huitième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-8_av.png",
+												"icon": "",
+												"content": [
+													"Après leur qualification en Rock Cup contre les Lions, le Targaryen FC va cette fois avoir un match compliqué contre le Bruno's Magpies FC qui fait un très bon début de saison.",
+													"Les hommes de Rhaegar Targaryen qui ne cesse de surprendre vont une fois encore devoir se surpasser contre une équipe des Magpies très bonne dans ce début de saison avec 4 victoire sur 5 matches joué.",
+													"En cas de victoire, les Red Dragons comme les Magpies, reviendront à égalité de point de Lincoln l'actuel premier du championnat. De quoi motivé les troupes !"
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 10.1,
+												"title": "21/11/20 : Huitième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-8_ap.png",
+												"icon": "",
+												"content": [
+													"C'est une rencontre très disputé entre les Red Deragons et les Majpies qui s'est soldé par un match nul, encore une bonne oppération pour les Red Dragons pourtant qui semblait en-dessous a l'entame de cette rencontre.",
+													"L'entraineur du club de la principauté est d'ailleurs du même avis :",
+													"« Une belle rencontre et une bonne opération je pense, c'est une bonne équipe qui fait un bon début de saison, réussir à repartir d'ici avec le point du nul c'est bien. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 11.0,
+										"title": "Neuvième journée de championnat",
+										"content": [
+											{
+												"id": 11,
+												"title": "24/11/20 : Neuvième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-9_av.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC accueil cette fois Europa Point qui, même si les côtes sont équilibré, reste en difficulté dans ce début de saison.",
+													"En plus de la mauvaise forme d'Europa Point, les Red Dragons bénéficieront également de l'appuie de leur supporters puisque le match se tiendra à Fausse Dragon. Ils sont donc légerement favori pour cette rencontre selon nous."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 11.1,
+												"title": "25/11/20 : Neuvième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-9_ap.png",
+												"icon": "",
+												"content": [
+													"Ecrasante victoire du Targaryen FC face à Europa Point sur un large score de 4-0 avec un énorme Marrache auteur de 2 buts et d'une passe décissive.",
+													"Un Rhaegar Targaryen logiquement très détendu à nos micros à la suite de la rencontre :",
+													"« Il n'y a rien à redire, mes joueurs ont été excellent du début à la fin, Samuel(Marrache) m'a éblouie, très fier de cette belle victoire vraiment ! »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 12.0,
+										"title": "Dixième journée de championnat",
+										"content": [
+											{
+												"id": 12,
+												"title": "27/11/20 : Dixième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-10_av.png",
+												"icon": "",
+												"content": [
+													"L'aventure en championnat se poursuit pour les Red Dragons avec un match contre College 1975 pour le compte de la dixième journée.",
+													"Bien que les côtes semblent défavorables, c'est un match facile qui s'annonce pour le Targaryen FC sur la pelouse d'une équipe de College 1975 qui n'a réussi à engrenger que 2 points en 8 matchs. A l'inverse, le club de la principauté, pour sa première saison ne cesse d'impressionner et parvient pour l'instant à se hisser à la troisième place du classement malgré quelques matchs d'avances. "
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 12.1,
+												"title": "28/11/20 : Dixième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-10_ap.png",
+												"icon": "",
+												"content": [
+													"Coup de tonerre sur la pelouse de College 1975 ce samedi 28 Novembre avec l'humiliation subit par les Red Dragons battu par 6-0 face à College 1975.",
+													"Même si compte tenu du contenu du match, le score est sévère pour le Targaryen FC, il est vrai que le club de la principauté a proposé peu de choses et se fait logiquement punir par une équipe de College 1975 bien remonté et qui tient enfin son premier succès.",
+													"Le coach Rhaegar Targaryen bien énervé ne s'est pas arrêté à nos micros ce soir."
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 13.0,
+										"title": "Onzième journée de championnat",
+										"content": [
+											{
+												"id": 13,
+												"title": "01/12/20 : Onzième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-11_av.png",
+												"icon": "",
+												"content": [
+													"Match compliqué en perspective pour les Red DRagons demain face à une équipe de Mons Calpe qui fait un bon début de saison.",
+													"En effet, le Targaryen FC qui doit se relancer après sa cuisante défaire contre College 1975 sur le score de 6-0 va devoir tenter de le faire contre une equipe de Mons Calpe 3e du championnat et qui reste sur une série de 4 victoires consécutives en championnat.",
+													"Rhaegar Targaryen nous confie que « Victoire ou pas, je veux voir autre chose de mon équipe que ce que j'ai vu lors de la precédente. »"
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 13.1,
+												"title": "02/12/20 : Onzième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-11_ap.png",
+												"icon": "",
+												"content": [
+													"Et c'est finalement sur un score nul et vierge que se quittent les deux équipe à Fausse Dragon.",
+													"Au therme d'un match assez pauvre, les Red Dragons parviennent à éviter le pire en évitant une deuxième défaite consécutive.",
+													"Rhaegar Targaryen à nos micros :",
+													"« Pas grand chose à dire ce soir a part que la pauvreté de notre animation offensive fait peine à voir comme souvent maintenant on arrive a prendre un point contre une bonne équipe donc bon. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 14.0,
+										"title": "Douzième journée de championnat",
+										"content": [
+											{
+												"id": 14,
+												"title": "04/12/20 : Douzième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-12_av.png",
+												"icon": "",
+												"content": [
+													"Gros match en perspective à Fausse Dragon avec, face aux Red Dragons, le club le plus titré de l'histoire de la ligue nationale de Gibraltar, l'un des favoris cette saison, auteur d'un excéllent début de saison, Lincoln.",
+													"Un match qui promet d'être compliqué pour les Red Dragons devant leur supporters toujours en quête d'une victoire pour se relancer après deux matchs de suite sans gagner."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 14.1,
+												"title": "05/12/20 : Douzième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-12_ap.png",
+												"icon": "",
+												"content": [
+													"Sans grande surprise et malgré un carton roouge concédé, Lincoln s'impose sans grande difficulté sur la pelouse du Targaryen FC reforçant ainsi son statut de leader du championnat.",
+													"Les mots de l'entraineur des Red Dragons à la suite de la rencontre :",
+													"« On est tout simplement tombé contre plus fort que nous. Ils ont été meilleur et repartent logiquement avec les trois points, c'est aussi simple que ça. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 15.0,
+										"title": "Treizième journée de championnat",
+										"content": [
+											{
+												"id": 15,
+												"title": "08/12/20 : Treizième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-13_av.png",
+												"icon": "",
+												"content": [
+													"Déplacement un peu plus facile ^pour le Targaryen FC sur le papier et surtout une réelle occasion de se relancer dans cette treizième journée de championnat.",
+													"En effet, pour cette journée, le club de la principauté ira affronter les Hound Dogs, avant dernier du championnat avec seulement une seule victoire à son actif. De quoi espérer une victoire pour les hommes de Rhaegar Targaryen qui restent sur une série de trois matchs sans victoire dont deux défaites."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 15.1,
+												"title": "09/12/20 : Treizième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-13_ap.png",
+												"icon": "",
+												"content": [
+													"C'est sans difficultés et au terme d'une rencontre qu'ils ont dominé du début à le fin, que le Targaryen FC s'impose et renoue enfin avec le succès sur la pelouse des Hound Dogs pour cette treizième journée de championnat.",
+													"Un Rhaegar Targaryen logiquement très détendu à nos micros à la suite de la rencontre :",
+													"« Ca fait plaisir de retrouver le gout de la victoire et de voir une prestation d'une telle qualité de la part de mon équipe, je suis très heureux de ce que j'ai vu ce soir ! »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 16.0,
+										"title": "Quatorzième journée de championnat",
+										"content": [
+											{
+												"id": 16,
+												"title": "15/12/20 : Quatorzième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-14_av.png",
+												"icon": "",
+												"content": [
+													"Match très interessant en perspective pour cette quatorzième journée de championnat à Fausse Dragon entre le Targaryen FC et le Lynx FC.",
+													"D'un côté le Lynx FC qui fait un bon début de saison et qui joue clairement l'une des places européenne, et de l'autre le Targaryen FC capable du meilleur comme du pire dans ce début de saison mais qui joue clairement à un niveau ou on ne l'attendait pas et qui bénéficie ce soir du soutient de ses supporters."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 16.1,
+												"title": "16/12/20 : Quatorzième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-14_ap.png",
+												"icon": "",
+												"content": [
+													"C'est finalement le Lynx FC qui s'impose à Peyredragon devant des supporters médusé tant leur équipe a manqué de réussite aujourd'hui.",
+													"L'entraineur des Red Dragons d'ailleurs très frustré à nos micros après la rencontre :",
+													"« Oui effectivement je crois qu'on fait quelque chose comme trois ou quatre poteaux dans le match, ce pénalty non sifflé sur Jacque(Garcia) en fin de première période... Vraiment beaucoup de frustration et dans le vestiaire aussi parce qu'on a le sentiment qu'on aurait pu faire beaucoup mieux ce soir. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 17.0,
+										"title": "Quinzième journée de championnat",
+										"content": [
+											{
+												"id": 17,
+												"title": "18/12/20 : Quinzième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-15_av.png",
+												"icon": "",
+												"content": [
+													"Pour cette quinzième journée de championnat, le Targaryen FC affronte le Royal Gibraltar Regiment.",
+													"Un match qui semble au premier abord facile pour une équipe des Red Dragons qui joue à domicile et qui a pour adversaire le bon dernier du championnat toujours en quête de sa première victoire malgré déjà douze matchs joués.",
+													"Le match parfait pour les hommes de Rhaegar Taregaryen pour se relancé suite à leur défaite contre le Lynx FC plus tôt dans la semaine."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 17.1,
+												"title": "19/12/20 : Quinzième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-15_ap.png",
+												"icon": "",
+												"content": [
+													"A la surprise générale et malgré une écrasante domination des Red Dragons, c'est finalement sur un match nul que se terminera cette rencontre.",
+													"C'est Rhaegar Targaryen dépité qui est venu répondre à nos questions :",
+													"« Que dire ? 19 frappes et seulement 3 cadrées, plus de 60% de possession et malgré tout le respect que j'ai pour cette équipe du Royal Regiment, ils sont dernier, aucune victoire, 3 points pris en 12 rencontres, et on se retrouve quand même à perdre des points chez nous contre eux ! C'est tout simplement inconcevable. »"
+												],
+												"tag": [
+												]
+											}
+										]
 									}
 								]
 							}
