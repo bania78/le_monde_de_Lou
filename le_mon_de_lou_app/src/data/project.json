@@ -548,13 +548,13 @@
 						"content": [
 							"À Sinnoh, Meia, une jeune orpheline accompagnée de son Griknot, fait la loi dans le petit village de Litorella. Même les adultes ne peuvent pas rivaliser contre la jeune dresseuse.",
 							"Un jour, un homme immense passant par là croise la jeune orpheline, puis lui sourit comme s'il venait de retrouver une vieille connaissance. Il la défie et la bat sans difficulté.",
-							"A la suite du combat, il offre à la jeune orpheline une petite pierre, puis lui promet qu'ils se retrouveront avant de partir. Blessée par sa défaite, Julie décide alors de quitter Litorella et de partir en voyage pour s'améliorer.",
+							"A la suite du combat, il offre à la jeune orpheline une petite pierre, puis lui promet qu'ils se retrouveront avant de partir. Blessée par sa défaite, Meia décide alors de quitter Litorella et de partir en voyage pour s'améliorer.",
 							"Elle se fait rapidement connaître à Sinnoh en battant quelques champions, ce qui lui vaut d'être approchée par la Team Galaxie. Elle écrase facilement ses courtisans, dont Mars, une commandante de l'organisation, et déclare qu'elle ne rejoindra la Team Galaxie que si l'un de ses membres parvient à la battre.",
 							"C'est alors qu'Helio, le chef de l'organisation, vient lui-même l'affronter et, au terme d'une confrontation épique, défait la jeune dresseuse. Admirant la force du chef de la Team Galaxie, Meia accepte de le suivre et de rejoindre l'organisation voyant là une oportunité de pouvoir affronter régulièrement le boss de celle-ci.",
 							"En tant que membre de la Team Galaxie, Meia gravit rapidement les échelons grâce à ses nombreux exploits, couvrant notamment l'évasion de ses acolytes en battant Gladys, la championne de Frimapic.",
 							"Cynthia, la maître de la ligue à l'époque, apprend cette histoire et décide d'aller trouver la jeune dresseuse prometteuse. Après une confrontation formidable, Cynthia parvient à faire comprendre à Meia qu'elle n'a pas besoin de la Team Galaxie pour devenir plus forte.",
 							"Après avoir passé plusieurs jours a réfléchir a Uniopolis chez Amelle, une développeuse talentueuse travaillant sur un projet de stockage de Pokémon et connaissance de Cynthia, Meia décide alors de quitter les rangs de la Team Galaxie. Elle reprend son voyage et son entraînement, accompagné d'un Evoli que lui confie Amelle, avec pour objectif de devenir plus forte que Cynthia, la meilleure dresseuse qu'elle ait jamais vue.",
-							"Elle finit par obtenir les 8 badges, se présente à la Ligue Pokémon et parvient à battre le Conseil 4 pour se retrouver enfin face à son objectif, Cynthia. Le choc entre les deux femmes les plus fortes de Sinnoh était extrêmement serré, mais c'est finalement Cynthia qui l'emporte de justesse. Encore une fois vaincue, Julie décide de retourner à Uniopolis, près d'Amelle de qui elle est tombée amoureuse, pour se préparer à son prochain voyage..."
+							"Elle finit par obtenir les 8 badges, se présente à la Ligue Pokémon et parvient à battre le Conseil 4 pour se retrouver enfin face à son objectif, Cynthia. Le choc entre les deux femmes les plus fortes de Sinnoh était extrêmement serré, mais c'est finalement Cynthia qui l'emporte de justesse. Encore une fois vaincue, Meia décide de retourner à Uniopolis, près d'Amelle de qui elle est tombée amoureuse, pour se préparer à son prochain voyage..."
 						],
 						"tag": [
 							{
@@ -1351,6 +1351,162 @@
 													"A la surprise générale et malgré une écrasante domination des Red Dragons, c'est finalement sur un match nul que se terminera cette rencontre.",
 													"C'est Rhaegar Targaryen dépité qui est venu répondre à nos questions :",
 													"« Que dire ? 19 frappes et seulement 3 cadrées, plus de 60% de possession et malgré tout le respect que j'ai pour cette équipe du Royal Regiment, ils sont dernier, aucune victoire, 3 points pris en 12 rencontres, et on se retrouve quand même à perdre des points chez nous contre eux ! C'est tout simplement inconcevable. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 18.0,
+										"title": "Seizième journée de championnat",
+										"content": [
+											{
+												"id": 18,
+												"title": "22/12/20 : Seizième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-16_av.png",
+												"icon": "",
+												"content": [
+													"Nouveau match compliqué pour les Red Dragons à Fausse Dragon avec la reception de St Joseph's FC pour le compte de la seizième journée de championnat.",
+													"Le Targaryen FC va devoir se surpasser pour espérer renouer avec le succès demain soir contre une équie de St Joseph quatrième et qui, en cas de victoire à Peyredragon, pourrait passer deuxième. De quoi motiver les hommes de Raul Procopio à se surpasser à Fausse Dragon."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 18.1,
+												"title": "23/12/20 : Seizième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-16_ap.png",
+												"icon": "",
+												"content": [
+													"Petit exploit du club de la principauté après cette belle victoire sur sa pelouse contre St Joseph's FC dans un match très équilibré.",
+													"Rhaegar Targaryen logiquement heureux suite à cette victoire est venu répondre à nos questions :",
+													"« Oui très content, on arrive à retrouvé les saveurs de la victoire et contre une équipe du haut de tableau en plus, très heureux et très content de mes joueurs. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 19.0,
+										"title": "Dix-Septième journée de championnat",
+										"content": [
+											{
+												"id": 19,
+												"title": "03/01/21 : Dix-Septième journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-17_av.png",
+												"icon": "",
+												"content": [
+													"Pour son premier match de l'année 2021, le Tragaryen FC de Rhaegar Targaryen se déplacera ce lundi 4 janvier sur la pelouse de Manchester 62.",
+													"Manchester 62 qui réalise une première partie de saison en dessous des attentes mais qui semble sortir la tête de l'eau avec une victoire contre Europa Point et un nul contre Lynx FC va devoir confirmer contre un Targaryen FC qui vient de battre une belle équipe de St Joseph et qui est bien déterminé a poursuivre sur sa lancée pour 2021."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 19.1,
+												"title": "04/01/21 : Dix-Septième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-17_ap.png",
+												"icon": "",
+												"content": [
+													"L'irrégularité du Targaryen FC a encore frappé avec cette fois une défaite sur un score de 4-1 contre Manchester 62.",
+													"Cette défaite qui est d'ailleurs loin d'avoir avi l'entraineur des Red Dragons :",
+													"« Rien à dire. de toute façon a partir du moment où même sur pénalty on arrive pas à marquer ça ne sert à rien d'ésperer le faire dans le jeu et encore moins gagner des matchs. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 20.0,
+										"title": "Dix-Huitième journée de championnat",
+										"content": [
+											{
+												"id": 20,
+												"title": "15/01/21 : Dix-Huitième  journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-18_av.png",
+												"icon": "",
+												"content": [
+													"Dans le cadre de la dix-huitième journée de championnat, le Targaryen FC se déplacera sur la pelouse du St Joseph's FC.",
+													"Une occasion pour les joueurs de St Joseph de prendre leur revanche sur les hommes de Rhaegar Targaryen après leur défaite il y a moins d'un mois à Peyredragon et d'occuper provisoirement la seconde place du podium.",
+													"Les Red DRagons eux vont tenter de se relancer suite à leur cuisante défaite sur le terrain de Manchester 62."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 20.1,
+												"title": "15/01/21 : Dix-Huitième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-18_ap.png",
+												"icon": "",
+												"content": [
+													"St Joseph's a facilement battu un Targaryen FC completement démuni et file temporairement à la seconde place du classement.",
+													"Rhaegar Targaryen est lucide, il n'en veut pas à ses joueurs :",
+													"« Je n'en veux pas à mes joueurs, je sais qu'on a beaucoup de recrues issues du mercato, que c'était un match compliqué... Vraiment c'est ma faute, c'est moi qui ai voulu les faire démarrer alors qu'ils n'étaient pas forcément prêt, je prends l'entière responsabilité de cette défaite sur les épaules. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 21.0,
+										"title": "Dix-Neuvième journée de championnat",
+										"content": [
+											{
+												"id": 21,
+												"title": "19/01/21 : Dix-Neuvième  journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-19_av.png",
+												"icon": "",
+												"content": [
+													"Pour la dix-neuvième journée de championnat, les Red Dragons ont une réelle occasion de se relancer en accueillant les Hound Dogs, avant dernier du championnat.",
+													"Les Red Dragons qui traversent une phase compliqué en championnat avec deux défaites sur les deux derniers matchs et en reconstruction de leur effectif avec énormément de mouvement au cours de ce mercato, ils doivent donc impérativement se relancer !"
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 21.1,
+												"title": "20/01/21 : Dix-Neuvième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-19_ap.png",
+												"icon": "",
+												"content": [
+													"Le Targaryen FC qui ne parvient pas à remporter le match contre les Hound Dogs malgré une nette domination et un pénalty manqué.",
+													"L'entraineur des Red Dragons à nos micros après la rencontre :",
+													"« On domine largement ce match on manque même un pénalty et ils finnissent par égaliser au retour des vestiaires... C'est dommage parce que je pense qu'un deuxième but avant la mi-temps nous aurait mis à l'abris mais voilà on arrive pas à le marqué et on se fait surprendre c'est dommage. »"
+												],
+												"tag": [
+												]
+											}
+										]
+									},
+									{
+										"id": 22.0,
+										"title": "Vingtième journée de championnat",
+										"content": [
+											{
+												"id": 21,
+												"title": "22/01/21 : Vingtième  journée de championnat, l'avant-match",
+												"image": "./../../images/targaryen/saison_1/day-20_av.png",
+												"icon": "",
+												"content": [
+													"Match compliqué à domicile pour le club de la principauté contre une belle équipe des Magpies.",
+													"Le club de Peyredragon qui reste sur trois matchs de championnat sans victoire va avoir fort à faire contre une équipe des Magpies qui reste sur trois victoires sur ses quatres derniers matchs. On imagine mal les voir se relancer sur ce match mais les Red Dragons en on déjà surpris plus d'un avec des victoires ou des nuls improbable notamment plus tôt dans la saison contre cette même équipe en décrochant un match nul."
+												],
+												"tag": [
+												]
+											},
+											{
+												"id": 21.1,
+												"title": "23/01/21 : Vingtième journée de championnat, l'après-match",
+												"image": "./../../images/targaryen/saison_1/day-20_ap.png",
+												"icon": "",
+												"content": [
+													"Les Red Dragons suprennent encore leur monde en arrachant un nul plus que mérité contre les Majpies et en frollant la victoire.",
+													"un Rhaegar Targaryen de bonne humeur est venu répondre à nos questions :",
+													"« Un peu de frustration quand même, on prends le but de l'égalisation dans les dernières minutes et cette occasion d'Eric (Samé) en toute fin de match qui aurait pu nous donner la victoire. Mais le bilan de ce latch est un bilan globalement positif contre une bonne équipe, le point dunul me satisfait. »"
 												],
 												"tag": [
 												]
