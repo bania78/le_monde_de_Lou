@@ -6,6 +6,14 @@
     background-color: black;
 }
 
+.navBar {
+    width: 35%;
+    position: absolute;
+    top: 12px;
+    color: black;
+    left: 40%;
+}
+
 .li_nav a:hover {
     color: black;
     background-color: rgb(49, 96, 223);
