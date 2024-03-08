@@ -24,7 +24,7 @@ function Footer() {
             <p><a className="mailto" href="mailto:louisbw78@gmail.com">louisbw78@gmail.com</a></p>
             <h3>Formulaire :</h3>
             {success && <p>Votre message à bien été envoyé</p>}
-            {!success && <form ref={form} onSubmit={sendEmail}>
+            {!success && <form className="footerform" ref={form} onSubmit={sendEmail}>
                 <label htmlFor="name">Nom</label>
                 <input type="text" id="name" name="name" required></input>
                 <label htmlFor="email">Email</label>
