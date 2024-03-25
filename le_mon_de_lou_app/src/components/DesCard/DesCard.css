@@ -1,0 +1,30 @@
+.pres {
+    float: right;
+    border: 10px solid;
+    width: 35%;
+}
+
+.img_pres  {
+    object-fit: cover;
+    width: 100%;
+}
+
+.pres_one {
+    border: 1px solid;
+    float: left;
+    background: rgba(49, 96, 223, .7);
+    text-align: center;
+    width: 50%;
+}
+
+.pres_two {
+    border: 1px solid;
+    float: left;
+    text-align: center;
+    width: 50%;
+}
+
+.p_pres {
+    padding: 0;
+    font-size: 0.7em;
+}

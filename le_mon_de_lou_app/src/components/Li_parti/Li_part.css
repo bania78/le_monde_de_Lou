@@ -1,0 +1,15 @@
+.li_région {
+    list-style: none;
+}
+
+.ul_par {
+    list-style:circle;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.li_par {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 8%;
+}

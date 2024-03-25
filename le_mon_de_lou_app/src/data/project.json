@@ -4,6 +4,971 @@
 		"title": "Poke Lou",
 		"cover": "./images/pokemon.jpg",
 		"path": "pokemon",
+		"tournament": [
+			{
+				"tournamentId": "0",
+				"title": "IFPT WORLD TOURNAMENT FIRST EDITION",
+				"description": [
+					"Ce tournoi est la première édition du IFPT World Tournament organisé par l'IFPT et son président Morimoto. Face à l'engouement suscité par l'événement que ce soit au niveau des participants ou encore des spectateurs, Morimoto annonce durant la cérémonie d'ouverture, qu'une édition de cette compétition se tiendrait tous les 4 ans. Cette édition s'est tenu au plateau Indigo.",
+					"Elle oppose les meilleurs dresseurs du monde entier et a pour but d'élire le meilleur dresseur du monde.",
+					"La compétition s'est déroulé en 3 catégories, des duels à 1 Pokémon VS 1 Pokémon lors des phases qualificatives, des 3 VS 3 à partir des 1/16 de finale et des 6 VS 6 à partir des 1/4 de finale.",
+					"La finale a opposé Red à Meia et c'est Meia qui en est sorti vainqueur devenant ainsi le premier vainqueur de l'IFPT World Tournament."
+				],
+				"organisateur": "IFPT",
+				"edition": "1",
+				"lieu": "Plateau Indigo",
+				"Date": "20 - 27/06 -3av incident Arceus",
+				"nb_participants": "197 dresseurs",
+				"vainqueur": "Meia",
+				"finaliste": "Red",
+				"image": "./../../images/history/world_champ.jpg",
+				"participants": {
+					"description": "Tous les dresseurs ayant obtenu tous les badges de deux régions distinctes sont autorisés à participer. Les champions d'arènes, membre du conseil 4 et maitre de ligue de chaque région ont eux reçu une invitation au même titre que les chef de zones dans les différentes zones de combat ainsi que Ludi cheffe des Topdresseurs et certains de ses sbires.",
+					"liste": [
+						{
+							"région" : "Kanto",
+							"liste" : [
+								{
+									"name": "Red"
+								},
+								{
+									"name": "Blue"
+								},
+								{
+									"name": "Leaf"
+								},
+								{
+									"name": "Pierre"
+								},
+								{
+									"name": "Ondine"
+								},
+								{
+									"name": "Erika"
+								},
+								{
+									"name": "Koga"
+								},
+								{
+									"name": "Morgane"
+								},
+								{
+									"name": "Auguste"
+								},
+								{
+									"name": "Aldo"
+								},
+								{
+									"name": "Agatha"
+								},
+								{
+									"name": "Bastien"
+								},
+								{
+									"name": "Jeannine"
+								},
+								{
+									"name": "Elaine"
+								},
+								{
+									"name": "Trace"
+								},
+								{
+									"name": "Tony"
+								},
+								{
+									"name": "Caroline"
+								}
+							]
+						},
+						{
+							"région" : "Archipel Orange/Sevii",
+							"liste" : [
+								{
+									"name": "Olga"
+								},
+								{
+									"name": "Cissy"
+								},
+								{
+									"name": "Danny"
+								},
+								{
+									"name": "Rudy"
+								},
+								{
+									"name": "Luana"
+								},
+								{
+									"name": "Shay"
+								},
+								{
+									"name": "Derek"
+								},
+								{
+									"name": "Hitoshi"
+								},
+								{
+									"name": "Drake"
+								},
+								{
+									"name": "Alix"
+								},
+								{
+									"name": "Léon"
+								},
+								{
+									"name": "Michelle"
+								}
+							]
+						},
+						{
+							"région" : "Johto",
+							"liste" : [
+								{
+									"name": "Gold"
+								},
+								{
+									"name": "Peter"
+								},
+								{
+									"name": "Clément"
+								},
+								{
+									"name": "Marion"
+								},
+								{
+									"name": "Norman"
+								},
+								{
+									"name": "Albert"
+								},
+								{
+									"name": "Hector"
+								},
+								{
+									"name": "Blanche"
+								},
+								{
+									"name": "Mortimer"
+								},
+								{
+									"name": "Chuck"
+								},
+								{
+									"name": "Jasmine"
+								},
+								{
+									"name": "Frédo"
+								},
+								{
+									"name": "Sandra"
+								},
+								{
+									"name": "Iris"
+								},
+								{
+									"name": "Amos"
+								},
+								{
+									"name": "Christy"
+								},
+								{
+									"name": "Flora"
+								},
+								{
+									"name": "Silver"
+								},
+								{
+									"name": "Farouk"
+								},
+								{
+									"name": "Pabolsky"
+								},
+								{
+									"name": "Carina"
+								},
+								{
+									"name": "Sean"
+								},
+								{
+									"name": "Ismael"
+								},
+								{
+									"name": "Sean"
+								},
+								{
+									"name": "Karina"
+								}
+							]
+						},
+						{
+							"région" : "Hoenn",
+							"liste" : [
+								{
+									"name": "Damien"
+								},
+								{
+									"name": "Spectra"
+								},
+								{
+									"name": "Glacia"
+								},
+								{
+									"name": "Aragon"
+								},
+								{
+									"name": "Roxanne"
+								},
+								{
+									"name": "Voltère"
+								},
+								{
+									"name": "Adrianne"
+								},
+								{
+									"name": "Alizée"
+								},
+								{
+									"name": "Levy"
+								},
+								{
+									"name": "Tatia"
+								},
+								{
+									"name": "Marc"
+								},
+								{
+									"name": "Juan"
+								},
+								{
+									"name": "Kabu"
+								},
+								{
+									"name": "Pierre"
+								},
+								{
+									"name": "Brice"
+								},
+								{
+									"name": "Timmy"
+								},
+								{
+									"name": "Sam"
+								},
+								{
+									"name": "Carole"
+								},
+								{
+									"name": "Takim"
+								},
+								{
+									"name": "Charline"
+								},
+								{
+									"name": "Esteban"
+								},
+								{
+									"name": "Cathy"
+								},
+								{
+									"name": "Bayar"
+								},
+								{
+									"name": "Amarylis"
+								},
+								{
+									"name": "Méridia"
+								},
+								{
+									"name": "Nix"
+								},
+								{
+									"name": "Vesper"
+								},
+								{
+									"name": "Aurore"
+								},
+								{
+									"name": "Misuteri"
+								},
+								{
+									"name": "Les"
+								},
+								{
+									"name": "Mia"
+								}
+							]
+						},
+						{
+							"région" : "Sinnoh",
+							"liste" : [
+								{
+									"name": "Aaron"
+								},
+								{
+									"name": "Terry"
+								},
+								{
+									"name": "Adrien"
+								},
+								{
+									"name": "Lucio"
+								},
+								{
+									"name": "Percila"
+								},
+								{
+									"name": "Pierrick"
+								},
+								{
+									"name": "Flo"
+								},
+								{
+									"name": "Mélina"
+								},
+								{
+									"name": "Lovis"
+								},
+								{
+									"name": "Kiméra"
+								},
+								{
+									"name": "Charles"
+								},
+								{
+									"name": "Gladys"
+								},
+								{
+									"name": "Tanguy"
+								},
+								{
+									"name": "Cynthia"
+								},
+								{
+									"name": "Aurore"
+								},
+								{
+									"name": "Barry"
+								},
+								{
+									"name": "Koner"
+								},
+								{
+									"name": "Célosia"
+								},
+								{
+									"name": "Parsley"
+								},
+								{
+									"name": "Cardus"
+								},
+								{
+									"name": "Dahlia"
+								},
+								{
+									"name": "Cornil"
+								},
+								{
+									"name": "Meia"
+								},
+								{
+									"name": "Lou"
+								},
+								{
+									"name": "Naik"
+								},
+								{
+									"name": "Laura"
+								},
+								{
+									"name": "Claude"
+								}
+							]
+						},
+						{
+							"région" : "Unys",
+							"liste" : [
+								{
+									"name": "Major Bob"
+								},
+								{
+									"name": "Anis"
+								},
+								{
+									"name": "Pieris"
+								},
+								{
+									"name": "Kunz"
+								},
+								{
+									"name": "Noa"
+								},
+								{
+									"name": "Rachid"
+								},
+								{
+									"name": "Armando"
+								},
+								{
+									"name": "Aloé"
+								},
+								{
+									"name": "Artie"
+								},
+								{
+									"name": "Inézia"
+								},
+								{
+									"name": "Bardane"
+								},
+								{
+									"name": "Carolina"
+								},
+								{
+									"name": "Zhu"
+								},
+								{
+									"name": "Watson"
+								},
+								{
+									"name": "Tcheren"
+								},
+								{
+									"name": "Strykna"
+								},
+								{
+									"name": "Amana"
+								},
+								{
+									"name": "Goya"
+								},
+								{
+									"name": "Guajava"
+								},
+								{
+									"name": "Ludwig"
+								},
+								{
+									"name": "Mélis"
+								},
+								{
+									"name": "N"
+								},
+								{
+									"name": "Matis"
+								},
+								{
+									"name": "Millepertuis"
+								},
+								{
+									"name": "Cyano"
+								},
+								{
+									"name": "Ludi"
+								},
+								{
+									"name": "Carol"
+								},
+								{
+									"name": "René"
+								}
+							]
+						},
+						{
+							"région": "Kalos",
+							"liste" : [
+								{
+									"name": "Violette"
+								},
+								{
+									"name": "Lino"
+								},
+								{
+									"name": "Cornélia"
+								},
+								{
+									"name": "Amaro"
+								},
+								{
+									"name": "Lem"
+								},
+								{
+									"name": "Valériane"
+								},
+								{
+									"name": "Astéria"
+								},
+								{
+									"name": "Urup"
+								},
+								{
+									"name": "Thyméo"
+								},
+								{
+									"name": "Dracéna"
+								},
+								{
+									"name": "Malva"
+								},
+								{
+									"name": "Narcisse"
+								},
+								{
+									"name": "Dianthéa"
+								},
+								{
+									"name": "Kalem"
+								},
+								{
+									"name": "Serena"
+								},
+								{
+									"name": "Millie"
+								},
+								{
+									"name": "Anna"
+								},
+								{
+									"name": "Jacob"
+								}
+							]
+						},
+						{
+							"région": "Alola",
+							"liste" : [
+								{
+									"name": "Kahili"
+								},
+								{
+									"name": "Vins"
+								},
+								{
+									"name": "Lucas"
+								},
+								{
+									"name": "Maeva"
+								}
+							]
+						},
+						{
+							"région": "Galar",
+							"liste" : [
+								{
+									"name": "Percy"
+								},
+								{
+									"name": "Donna"
+								},
+								{
+									"name": "Faïza"
+								},
+								{
+									"name": "Alister"
+								},
+								{
+									"name": "Sally"
+								},
+								{
+									"name": "Chaz"
+								},
+								{
+									"name": "Lona"
+								},
+								{
+									"name": "Peterson"
+								},
+								{
+									"name": "Roy"
+								},
+								{
+									"name": "Tarak"
+								},
+								{
+									"name": "Apia"
+								},
+								{
+									"name": "Mustar"
+								},
+								{
+									"name": "Saturnin"
+								},
+								{
+									"name": "Sophora"
+								},
+								{
+									"name": "Dhilan"
+								}
+							]
+						},
+						{
+							"région": "Paldéa",
+							"liste" : [
+								{
+									"name": "Era"
+								},
+								{
+									"name": "Colza"
+								},
+								{
+									"name": "Mashynn"
+								},
+								{
+									"name": "Kombu"
+								},
+								{
+									"name": "Okuba"
+								},
+								{
+									"name": "Laïm"
+								},
+								{
+									"name": "Tully"
+								},
+								{
+									"name": "Grusha"
+								},
+								{
+									"name": "Cayenn"
+								},
+								{
+									"name": "Popi"
+								},
+								{
+									"name": "Hassa"
+								},
+								{
+									"name": "Alisma"
+								},
+								{
+									"name": "Clavel"
+								},
+								{
+									"name": "Elige"
+								},
+								{
+									"name": "Jacq"
+								},
+								{
+									"name": "Mora"
+								},
+								{
+									"name": "Mimosa"
+								},
+								{
+									"name": "Saguaro"
+								},
+								{
+									"name": "Salvio"
+								},
+								{
+									"name": "Thaïm"
+								}
+							]
+						}
+					]
+				},
+				"combats": {
+					"tour": [
+						{
+							"id": "0",
+							"name": "Premier tour",
+							"description" : "138 dresseurs soit 69 combats",
+							"liste": [
+								{
+									"id": "0",
+									"tourId": "0",
+									"name": "Amaro VS Alisma",
+									"TrainA": "Amaro",
+									"TrainB": "Alisma",
+									"winner": "Alisma",
+									"image": "./../../../../images/battle/amavsali.jpg",
+									"pok_comb": [
+										{
+											"PokA": "Chevroum",
+											"imgA": "./../../../../images/icon_pok/Chev.png",
+											"PokB": "Scalpereur",
+											"imgB": "./../../../../images/icon_pok/Sca.png",
+											"winner": "Scalpereur",
+											"imgW": "./../../../../images/icon_pok/Sca.png"
+										}
+									],
+									"description": [
+										"Ce combat est le combat d'ouverture du premier IFPT World Tournament. Il oppose Amaro le champion de type plante de la région de Kalos contre Alisma, maitre de la ligue de Paldéa dans un 1vs1.",
+										"Amaro, pour ce combat choisira son Chevroum et Alisma son Scalpereur.",
+										"Malgré une belle resistance de la part d'Amaro et de son Chevroum, Alisma remporte ce combat sans trop de difficulté et se qualifie pour le second tour."
+									]
+								},
+								{
+									"id": "1",
+									"tourId": "0",
+									"name": "Cornélia VS Roxanne",
+									"TrainA": "Cornélia",
+									"TrainB": "Roxanne",
+									"winner": "Cornélia",
+									"image": "./../../../../images/battle/CorVSRox.png",
+									"pok_comb": [
+										{
+											"PokA": "Lucario",
+											"imgA": "./../../../../images/icon_pok/Luc.png",
+											"PokB": "Armaldo",
+											"imgB": "./../../../../images/icon_pok/Arm.png",
+											"winner": "Lucario",
+											"imgW": "./../../../../images/icon_pok/Luc.png"
+										}
+									],
+									"description": [
+										"C'est dans le cadre du premier tour de l'IFPT World Tournament que s'est déroulé ce combat opposant Cornélia la championne de type combat de la région de Kalos contre Roxanne, championne de type roche de la région de Hoenn.",
+										"Pour ce combat, Cornélia choisit son Lucario, tandis que Roxanne fit le choix astucieux d'envoyer Armaldo pour ne pas souffrir du désavantage de type.",
+										"Malgré ce choix et une lutte acharnée, c'est Cornélia qui finit par remporter la bataille et se qualifier pour le second tour."
+									]
+								},
+								{
+									"id": "2",
+									"tourId": "0",
+									"name": "Takim VS Albert",
+									"TrainA": "Takim",
+									"TrainB": "Albert",
+									"winner": "Takim",
+									"image": "./../../../../images/battle/TakVSAlb.png",
+									"pok_comb": [
+										{
+											"PokA": "Métalosse",
+											"imgA": "./../../../../images/icon_pok/Met.png",
+											"PokB": "Roucarnage",
+											"imgB": "./../../../../images/icon_pok/Rou.png",
+											"winner": "Métalosse",
+											"imgW": "./../../../../images/icon_pok/Met.png"
+										}
+									],
+									"description": [
+										"Ce combat opposant Takim, meneur du dome de combat à Hoenn, et Albert champion de type Vol à Johto s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament.",
+										"Takim utilisa son Métalosse tandis que Albert fit le choix de Roucarnage pour ce 1vs1.",
+										"La différence de niveau entre les deux concurrents se fit sentir dès le début du combat, et c'est sans trop de surprise que Takim s'imposa obtenant ainsi sa qualification pour le second tour."
+									]
+								},
+								{
+									"id": "3",
+									"tourId": "0",
+									"name": "Sandra VS Lona",
+									"TrainA": "Sandra",
+									"TrainB": "Lona",
+									"winner": "Sandra",
+									"image": "./../../../../images/battle/SanVSLom.png",
+									"pok_comb": [
+										{
+											"PokA": "Hyporoi",
+											"imgA": "./../../../../images/icon_pok/Hyp.png",
+											"PokB": "Lokhlass",
+											"imgB": "./../../../../images/icon_pok/Lok.png",
+											"winner": "Hyporoi",
+											"imgW": "./../../../../images/icon_pok/Met.png"
+										}
+									],
+									"description": [
+										"Ce combat était un face à face entre Sandra la championne de type Dragon de Johto et Lona la championne de type Glace de Galar. Il s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament sous le forme d'un 1vs1.",
+										"Pour ce combat, Sandra fit le choix logique d'Hyporoi qui n'est pas affecté par le type glace de Lona. La championne de type Glace quant à elle envoya son Lokhlass.",
+										"Lona et son Lokhlass oposèrent une résistance farouche mais finirent par céder face à Sandra et son Hyporoi leur laissant ainsi la place pour le second tour de la compétition."
+									]
+								},
+								{
+									"id": "4",
+									"tourId": "0",
+									"name": "Era VS Sean",
+									"TrainA": "Era",
+									"TrainB": "Sean",
+									"winner": "Era",
+									"image": "./../../../../images/battle/EraVSSea.png",
+									"pok_comb": [
+										{
+											"PokA": "Ursaring",
+											"imgA": "./../../../../images/icon_pok/Urs.png",
+											"PokB": "Pyroli",
+											"imgB": "./../../../../images/icon_pok/Pyr.png",
+											"winner": "Ursaring",
+											"imgW": "./../../../../images/icon_pok/Urs.png"
+										}
+									],
+									"description": [
+										"Ce combat opposant Era, championne de type insecte de la région de Paldéa, et Sean, l'un des deux chef de la branche de Topdresseur de Johto, dans le cadre du premier tour de l'IFPT.",
+										"Pour ce combat, Era utilisa sont Ursaring prevoyant que Sean utiliserai un Pokémon de type Feu pour contrer son type Insecte. Ce choix à d'ailleurs poté ses fruits puisque Sean utilisa quant à lui son Pyroli.",
+										"Suite à un splendide combat, c'est finalement Era qui parvint à l'emporter et se qualifier pour le second tour."
+									]
+								},
+								{
+									"id": "5",
+									"tourId": "0",
+									"name": "Cayenn VS Vesper",
+									"TrainA": "Cayenn",
+									"TrainB": "Vesper",
+									"winner": "Cayenn",
+									"image": "./../../../../images/battle/CayVSVes.png",
+									"pok_comb": [
+										{
+											"PokA": "Maraiste",
+											"imgA": "./../../../../images/icon_pok/Mar.png",
+											"PokB": "Luminéon",
+											"imgB": "./../../../../images/icon_pok/Lum.png",
+											"winner": "Maraiste",
+											"imgW": "./../../../../images/icon_pok/Mar.png"
+										}
+									],
+									"description": [
+										"D'un côté Cayenn, membre du conseil 4 de Paldéa et expert en type sol, de l'autre Vesper l'une des Chatelaine de la maison de combat de Hoenn. Ce combat à eu lieu dans le cadre du premier tour de l'IFPT World Tournament.",
+										"Cayenn envoya son Maraiste pour ce combat tandis que Vesper utilisa son Luminéon pour contrer le type sol de Cayenn.",
+										"Malgré l'avantage du type de Vesper, ce combat fut éxtremement serré et fut qualifié comme l'un des plus beau à ce stade de la compétition. Mais à la fin c'est finalement Cayenn qui finit par l'emporter et se qualifier pour le second tour."
+									]
+								},
+								{
+									"id": "6",
+									"tourId": "0",
+									"name": "Jacq VS Noa",
+									"TrainA": "Jacq",
+									"TrainB": "Noa",
+									"winner": "Jacq",
+									"image": "./../../../../images/battle/JacVSNoa.png",
+									"pok_comb": [
+										{
+											"PokA": "Farigiraf",
+											"imgA": "./../../../../images/icon_pok/Far.png",
+											"PokB": "Flotoutan",
+											"imgB": "./../../../../images/icon_pok/Flo.png",
+											"winner": "Farigiraf",
+											"imgW": "./../../../../images/icon_pok/Far.png"
+										}
+									],
+									"description": [
+										"Ce combat du premier tour de l'IFPT World Tournament opposa, Jacq, professeur à l'académie de Paldéa, et Noa champion et expert en type eau de la région d'Unys.",
+										"Dans la cadre de ce combat, Jacq choisit son Farigiraf tandis que Noa utilisa son Flotoutan.",
+										"Après une lutta acharnée, c'est finalement le professeur Jacq de l'académie de Paldéa qui finit par l'emporter se qualifiant ainsi pour le second tour de la compétition."
+									]
+								},
+								{
+									"id": "7",
+									"tourId": "0",
+									"name": "Mora VS Valériane",
+									"TrainA": "Mora",
+									"TrainB": "Val",
+									"winner": "Mora",
+									"image": "./../../../../images/battle/MorVSVal.png",
+									"pok_comb": [
+										{
+											"PokA": "Ectoplasma",
+											"imgA": "./../../../../images/icon_pok/Ect.png",
+											"PokB": "Nymphalie",
+											"imgB": "./../../../../images/icon_pok/Nym.png",
+											"winner": "Nymphalie",
+											"imgW": "./../../../../images/icon_pok/Far.png"
+										}
+									],
+									"description": [
+										"Ce combat qui s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament opposa Mora, professeure de l'institut de Paldéa à Valérianne championne de type fée de la région de Kalos.",
+										"Ce combat opposa l'Ectoplasma de Mora au Nymphalie de Valérianne.",
+										"A la suite d'un beau combat c'est finalement Mora et son Ectoplasma qui parvinrent à l'emporter et à se qualifier pour le second tour."
+									]
+								},
+								{
+									"id": "8",
+									"tourId": "0",
+									"name": "Farouk VS Saturnin",
+									"TrainA": "Farouk",
+									"TrainB": "Saturnin",
+									"winner": "Farouk",
+									"image": "./../../../../images/battle/FarVSSat.png",
+									"pok_comb": [
+										{
+											"PokA": "Rattatac",
+											"imgA": "./../../../../images/icon_pok/Rat.png",
+											"PokB": "Galopa",
+											"imgB": "./../../../../images/icon_pok/Gal.png",
+											"winner": "Rattatac",
+											"imgW": "./../../../../images/icon_pok/Rat.png"
+										}
+									],
+									"description": [
+										"Ce combat du premier tour de L'IFPT World Tournament opposa Farouk, un enfant de Johto qui se targue d'être le plus grand rival de Gold, à Saturnin disciple de Mustar, expert en Pokémon psy et cherchant à devenir champion d'une arène de Galar.",
+										"Farouk, pour ce combat, envoya son fidèl Rattatac pour combattre la Galopa de Galar de Saturnin.",
+										"Ne prenant Farouk que pour un simple enfant, Saturnin aborda ce combat confiant et en sous-estimant grandement Farouk et son Rattatac. Néanmoins il s'aprçut très vite que Farouk n'avait pas gagné sa place dans ce tournoi par hasard et finit vaincu à la surprise générale permettant à Farouk d'accéder au second tour."
+									]
+								},
+								{
+									"id": "9",
+									"tourId": "0",
+									"name": "Marc VS Carolina",
+									"TrainA": "Marc",
+									"TrainB": "Carolina",
+									"winner": "Marc",
+									"image": "./../../../../images/battle/MarVSCar.png",
+									"pok_comb": [
+										{
+											"PokA": "Milobellus",
+											"imgA": "./../../../../images/icon_pok/Mil.png",
+											"PokB": "Lakmécygne",
+											"imgB": "./../../../../images/icon_pok/Lak.png",
+											"winner": "Milobellus",
+											"imgW": "./../../../../images/icon_pok/Mil.png"
+										}
+									],
+									"description": [
+										"Marc, maitre de la ligue d'Hoenn par intérime, affronta Carolina, championne à Unys, dans le cadre du premier tour de l'IFPT World Tournament.",
+										"Pour ce combat, chacun des deux dresseurs utilisa sa carte maitresse, Milobellus pour Marc et Lakmécygne pour Carolina.",
+										"Néanmoins l'issu de ce combat fut rapidement décidé et Marc écrasa son opposante facilement."
+									]
+								},
+								{
+									"id": "10",
+									"tourId": "0",
+									"name": "Elaine VS Gladys",
+									"TrainA": "Elaine",
+									"TrainB": "Gladys",
+									"winner": "Elaine",
+									"image": "./../../../../images/battle/ElaVSGla.png",
+									"pok_comb": [
+										{
+											"PokA": "Galopa",
+											"imgA": "./../../../../images/icon_pok/Galo.png",
+											"PokB": "Mammochon",
+											"imgB": "./../../../../images/icon_pok/Mam.png",
+											"winner": "Galopa",
+											"imgW": "./../../../../images/icon_pok/Galo.png"
+										}
+									],
+									"description": [
+										"Ce combat qui s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament première édition opposa, Elaine, jeune dresseuse talentueuse venu de Kanto contre Gladys, championne à Sinnoh.",
+										"Pour ce combat, Elaine choisit son Galopa, tandis que Gladys, anticipant le choix d'un Pokémon de type feu de la part d'Elaine, choisi son Mammochon.",
+										"Ce combat au départ serré ne le resta pas longtemps puisqu'Elaine prit rapidement le dessus et parvint à défaire la championne vennu de Sinnoh."
+									]
+								},
+								{
+									"id": "11",
+									"tourId": "0",
+									"name": "Christy VS Faïza",
+									"TrainA": "Christy",
+									"TrainB": "Faïza",
+									"winner": "Christy",
+									"image": "./../../../../images/battle/ChriVSFai.png",
+									"pok_comb": [
+										{
+											"PokA": "Aligatueur",
+											"imgA": "./../../../../images/icon_pok/Ali.png",
+											"PokB": "Mackogneur",
+											"imgB": "./../../../../images/icon_pok/Mac.png",
+											"winner": "Aligatueur",
+											"imgW": "./../../../../images/icon_pok/Ali.png"
+										}
+									],
+									"description": [
+										"Lors du premier tour de la première édition de l'IFPT World Tournament, Christy, dresseuse venu de Johto, affronta Faïza, une championne de Galar.",
+										"Pour ce combat, Christy utilisa son puissant Aligatueur, tandis que Faïza usa de son Mackogneur pour lui faire face.",
+										"Malgré une résistance farouche de Faïza, c'est finalement Christy qui s'imposa se qualifiant ainsi pour le second tour."
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		],
 		"history": [
 			{
 				"id": "0",

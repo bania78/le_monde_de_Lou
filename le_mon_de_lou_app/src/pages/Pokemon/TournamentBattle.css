@@ -1,0 +1,18 @@
+.battle_cover {
+    float: right;
+    width: 400px;
+    margin: 20px;
+}
+
+.div_content_battle {
+    margin: 20px;
+    text-align: left;
+}
+
+.table_battle {
+    margin: 20px;
+}
+
+.icon_pok {
+    width: 30px;
+}

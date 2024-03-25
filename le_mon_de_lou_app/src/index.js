@@ -12,6 +12,8 @@ import Accueil_coach from './pages/Coach_Lou/Accueil_coach';
 import Accueil_unt from './pages/Untraveled/Accueil_unt';
 import Project_page, { loader as projectLoader, } from './pages/Coach_Lou/Project_page';
 import Saison_page, { loader as saisonLoader, } from './pages/Coach_Lou/Saison_page';
+import Tournament, { loader as tournamentLoader, } from './pages/Pokemon/Tournament';
+import TournamentBattle, { loader as battleLoader, } from './pages/Pokemon/TournamentBattle';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +31,16 @@ const router = createBrowserRouter([
       {
         path: "pokemon/history",
         element: <History />,
+      },
+      {
+        path: "pokemon/tournament/:tournamentId",
+        element: <Tournament />,
+        loader: tournamentLoader,
+      },
+      {
+        path: "pokemon/tournament/:tournamentId/:tourId/:battleId",
+        element: <TournamentBattle />,
+        loader: battleLoader,
       },
       {
         path: "genshin",

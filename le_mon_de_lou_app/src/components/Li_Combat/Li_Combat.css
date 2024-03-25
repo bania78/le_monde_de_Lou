@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+.li_combat {
+    list-style: none;
+    width: 10%;
+}
+
+.ul_battle {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+tr {
+  text-align: center;
+}
+
+.a_li_combat {
+    color: white;
+}
