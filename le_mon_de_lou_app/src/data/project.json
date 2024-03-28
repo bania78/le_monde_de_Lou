@@ -18,7 +18,7 @@
 				"edition": "1",
 				"lieu": "Plateau Indigo",
 				"Date": "20 - 27/06 -3av incident Arceus",
-				"nb_participants": "197 dresseurs",
+				"nb_participants": "196 dresseurs",
 				"vainqueur": "Meia",
 				"finaliste": "Red",
 				"image": "./../../images/history/world_champ.jpg",
@@ -186,12 +186,6 @@
 									"name": "Pabolsky"
 								},
 								{
-									"name": "Carina"
-								},
-								{
-									"name": "Sean"
-								},
-								{
 									"name": "Ismael"
 								},
 								{
@@ -199,6 +193,9 @@
 								},
 								{
 									"name": "Karina"
+								},
+								{
+									"name": "Cindy"
 								}
 							]
 						},
@@ -673,7 +670,7 @@
 						{
 							"id": "0",
 							"name": "Premier tour",
-							"description" : "138 dresseurs soit 69 combats",
+							"description" : "136 dresseurs soit 67 combats",
 							"liste": [
 								{
 									"id": "0",
@@ -961,6 +958,150 @@
 										"Lors du premier tour de la première édition de l'IFPT World Tournament, Christy, dresseuse venu de Johto, affronta Faïza, une championne de Galar.",
 										"Pour ce combat, Christy utilisa son puissant Aligatueur, tandis que Faïza usa de son Mackogneur pour lui faire face.",
 										"Malgré une résistance farouche de Faïza, c'est finalement Christy qui s'imposa se qualifiant ainsi pour le second tour."
+									]
+								},
+								{
+									"id": "12",
+									"tourId": "0",
+									"name": "Nix VS Karina",
+									"TrainA": "Nix",
+									"TrainB": "Karina",
+									"winner": "Nix",
+									"image": "./../../../../images/battle/NixVSKar.png",
+									"pok_comb": [
+										{
+											"PokA": "Groret",
+											"imgA": "./../../../../images/icon_pok/Gro.png",
+											"PokB": "Galopa",
+											"imgB": "./../../../../images/icon_pok/Galo.png",
+											"winner": "Groret",
+											"imgW": "./../../../../images/icon_pok/Gro.png"
+										}
+									],
+									"description": [
+										"Ce combat, qui s'est déroulé durant le premier tour du premier IFPT World Tournament, a vu s'opposé Nix une chatelaine du Chateau de Combat de Hoenn, contre Karina, co-cheffe de la branche de Topdresseur de Johto.",
+										"Pour ce combat, Nix utilisa son Groret tandis que Karina choisit de combattre avec son Galopa.",
+										"Malgré la détermination de Karina et de son Galopa, c'est finalement Nix qui l'emporte et qui file au second tour de la compétition."
+									]
+								},
+								{
+									"id": "13",
+									"tourId": "0",
+									"name": "Parsley VS Amana",
+									"TrainA": "Parsley",
+									"TrainB": "Amana",
+									"winner": "Amana",
+									"image": "./../../../../images/battle/ParVSAma.png",
+									"pok_comb": [
+										{
+											"PokA": "Pingoléon",
+											"imgA": "./../../../../images/icon_pok/Pin.png",
+											"PokB": "Moyade",
+											"imgB": "./../../../../images/icon_pok/Moy.png",
+											"winner": "Moyade",
+											"imgW": "./../../../../images/icon_pok/Moy.png"
+										}
+									],
+									"description": [
+										"Cet affrontement oposant Parsley, maitre du chateau de combat à Sinnoh, et Amana champion à Unys, s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament.",
+										"Pingoléon fut le Pokémon choisi par Parsley et Moyade celui préféré par Amana.",
+										"Cet affrontement fut l'un des plus serré du premier tour mais à la fin c'est Amana qui finit par l'emporter."
+									]
+								},
+								{
+									"id": "14",
+									"tourId": "0",
+									"name": "Apia VS Dianthéa",
+									"TrainA": "Apia",
+									"TrainB": "Dianthéa",
+									"winner": "Dianthéa",
+									"image": "./../../../../images/battle/ApiVSDia.png",
+									"pok_comb": [
+										{
+											"PokA": "Togekiss",
+											"imgA": "./../../../../images/icon_pok/Tog.png",
+											"PokB": "Banshitrouye",
+											"imgB": "./../../../../images/icon_pok/Ban.png",
+											"winner": "Banshitrouye",
+											"imgW": "./../../../../images/icon_pok/Ban.png"
+										}
+									],
+									"description": [
+										"Durant le premier tour du premier IFPT World Tournament, Apia, gérante du Dojo de la maitrise sur l'île Isolarmure à Galar, s'est opposé à Dianthéa, maitre de la ligue de Kalos.",
+										"Pour ce combat, Apia envoya son Togekiss tandis que Dianthéa choisi d'utiliser son Banshitrouye.",
+										"Cette bataille aussi serrée que spectaculaire se termina par une victoire de Dianthéa sur le fil. Malgré sa défaite, Apia reçu une ovation de la part du publique pour sa prestation."
+									]
+								},
+								{
+									"id": "15",
+									"tourId": "0",
+									"name": "Sally VS Glacia",
+									"TrainA": "Sally",
+									"TrainB": "Glacia",
+									"winner": "Glacia",
+									"image": "./../../../../images/battle/SalVSGla.png",
+									"pok_comb": [
+										{
+											"PokA": "Charmilly",
+											"imgA": "./../../../../images/icon_pok/Cha.png",
+											"PokB": "Oniglali",
+											"imgB": "./../../../../images/icon_pok/Oni.png",
+											"winner": "Oniglali",
+											"imgW": "./../../../../images/icon_pok/Oni.png"
+										}
+									],
+									"description": [
+										"Pour ce duel, il a opposé Sally, championne à Galar, contre Glacia, memebre du conseil 4 de Hoenn dans le cadre du premier tour du premier IFPT World Tournament.",
+										"Lors de cet affrontement, Sally envoya son Charmilly tandis que Glacia choisissa son Oniglali.",
+										"Sally et son Charmilly ne purent malheureusement pas faire grand chose face à Glacia et son Oniglali laissant ainsi filer la qualification pour le second tour à leurs opposants."
+									]
+								},
+								{
+									"id": "16",
+									"tourId": "0",
+									"name": "Pierre VS Charline",
+									"TrainA": "Pierre",
+									"TrainB": "Charline",
+									"winner": "Pierre",
+									"image": "./../../../../images/battle/PieVSCha.png",
+									"pok_comb": [
+										{
+											"PokA": "Airmure",
+											"imgA": "./../../../../images/icon_pok/Air.png",
+											"PokB": "Séviper",
+											"imgB": "./../../../../images/icon_pok/Sev.png",
+											"winner": "Airmure",
+											"imgW": "./../../../../images/icon_pok/Air.png"
+										}
+									],
+									"description": [
+										"Ce combat, qui s'est déroulé dans le cadre du premier tour de l'IFPT World Tournament première édition, opposa deux dresseurs venu de Hoenn. Le premier, Pierre Rochard, maitre de la ligue de Hoenn, et la deuxième, Charline meneuse du reptile de combat à Hoenn.",
+										"Pour ce combat, Pierre décida d'utiliser son Airmure tandis que Charline fit le choix de son Séviper.",
+										"Charline opposa une résistance farouche à Pierre et son Airmure mais ne pu malgré ça pas prendre le dessus sur le maitre d'Hoenn. Pierre se qualifia ainsi pour le second tour de la compétition."
+									]
+								},
+								{
+									"id": "17",
+									"tourId": "0",
+									"name": "Elige VS Pabolsky",
+									"TrainA": "Elige",
+									"TrainB": "Pabolsky",
+									"winner": "Pabolsky",
+									"image": "./../../../../images/battle/EliVSPab.png",
+									"pok_comb": [
+										{
+											"PokA": "Haryama",
+											"imgA": "./../../../../images/icon_pok/Har.png",
+											"PokB": "Arcanin",
+											"imgB": "./../../../../images/icon_pok/Arc.png",
+											"winner": "Arcanin",
+											"imgW": "./../../../../images/icon_pok/Arc.png"
+										}
+									],
+									"description": [
+										"Ce combat qui s'est déroulé dans le cadre du premier tour de la première édition de l'IFPT World Tournament a opposé Elige, enseignante à l'académie de Paldéa, contre Pabolsky, lieutenant dans la police internationale connu pour être l'arme secrète des forces de police.",
+										"Pour cet affrontement, Elige décida d'utiliser son Haryama tandis que Pabolsky choisissa de combattre avec son Arcanin.",
+										"Malgré la force d'Elige et de son Haryama, Pabolsky fit honneur à sa réputation et parvint à triompher de son opposante se qualifiant ainsi pour le second tour."
 									]
 								}
 							]
