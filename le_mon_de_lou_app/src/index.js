@@ -14,6 +14,7 @@ import Project_page, { loader as projectLoader, } from './pages/Coach_Lou/Projec
 import Saison_page, { loader as saisonLoader, } from './pages/Coach_Lou/Saison_page';
 import Tournament, { loader as tournamentLoader, } from './pages/Pokemon/Tournament';
 import TournamentBattle, { loader as battleLoader, } from './pages/Pokemon/TournamentBattle';
+import Story, { loader as storyLoader, } from './pages/Pokemon/Story';
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,11 @@ const router = createBrowserRouter([
       {
         path: "pokemon/history",
         element: <History />,
+      },
+      {
+        path: "pokemon/story/:storyId",
+        element: <Story />,
+        loader: storyLoader,
       },
       {
         path: "pokemon/tournament/:tournamentId",

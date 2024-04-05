@@ -4,6 +4,78 @@
 		"title": "Poke Lou",
 		"cover": "./images/pokemon.jpg",
 		"path": "pokemon",
+		"story": [
+			{
+				"storyId": "0",
+				"storyCover": "./../../images/story/unys.png",
+				"storyTitle": "Unys of the Past",
+				"content": [
+					{
+						"id": "0",
+						"title": "Prologue",
+						"content": [
+							"Il y a 3000 ans, la guerre faisait rage à Unys. Les fils d'Harmonia, l'ancien roi d'Unys, aux idées divergentes, se disputaient le contrôle de la région chacun accompagné de son dragon légendaire. Damon et son idéologie réaliste accompagné de Reshiram et Doma et son idéologie idéaliste accompagné lui de Zekrom.",
+							"Ce combat fratricide était de force égale et ravageait une région qui sortait tout juste de la guerre précédente entre AZ et Harmonia. Mais comme chacun des deux frères était aveuglé par son envie d'imposer ses idées à l'autre, le combat s'éternisait avec aucun vainqueur à l'horizon.",
+							"Celebi, le Pokémon fabuleux capable de voyager dans le temps, assista à ce spectacle de désolation. Il prit alors la décision d'intervenir en partant chercher un héros capable d'arrêter les deux frères dans leur folie destructrice."
+						]
+					},
+					{
+						"id": "1",
+						"title": "Chapitre 1",
+						"content": [
+							"De retour à notre époque, quelques mois après le premier IFPT World Tournament, Meia, la gagnante du tournoi reprit son voyage en quête d'un adversaire puissant pour s'entrainer. La jeune dresseuse alors âgée de 24 ans était habillé d'un manteau blanc et rouge, que lui avait offert Amelle, sa fiancée, après sa victoire lors de l'IFPT World Tournament, d'un sweat rouge et d'un pantalon noir. Ses yeux, d'une couleur atypique, étaient violet clair et sa longue chevelure blanche, qui lui avait valu le surnom « ombre blanche » du temps où elle était membre de la Team Galaxie était coiffé en queue de Ponyta avec un ruban rouge.",
+							"C'est dans le cadre de son entrainement que la jeune dresseuse de Sinnoh se rendit à Unys dans la ville de Méanville afin d'y affronter Chammal et Chamsin au métro de Combat. Malgré la force des chefs du métro, Meia triompha sans grande difficulté de ses deux opposants.",
+							"À la suite de cet affrontement, la nuit alors tombé, elle partit camper dans les environs avec ses Pokémon comme à son habitude et utilisa son Holokit pour appeler Amelle comme chaque soir.",
+							"- Alors le métro de combat ? Demanda Amelle.",
+							"- C'était vite plié, répondit Meia sur un ton blasé.",
+							"- Que veux-tu, tu es juste trop forte, dit Amelle en riant.",
+							"- Ce n'est pas drôle ! Comment veux-tu que je m'entraine convenablement si personne ne peut m'offrir un minimum de résistance ?",
+							"- Tu n'as qu'à essayer de retrouver Lou, il m'a dit qu'il partait à la conquête des arènes d'Unys il y a quelques semaines.",
+							"- Que veux-tu que je fasse avec ce gamin il n'est clairement pas de taille contre moi.",
+							"- Tu sais aussi bien que moi que c'est faux, il fut l'un des rares à pouvoir te tenir tête pendant le tournoi et il s'est probablement encore amélioré depuis.",
+							"- Si tu le dis. Mais bon ce n'est pas comme si j'avais d'autres options actuellement...",
+							"- Aller, tu lui passeras le bonjour de ma part.",
+							"- Et puis quoi encore je ne suis pas un Poichigeon voyageur !",
+							"- Bonne nuit mon ange je t'aime, répondit Amelle en ignorant les complaintes de Meia.",
+							"- Mmh moi aussi.",
+							"L'appel étant terminé, Meia s'endormit alors entouré de ses Pokémon, Carchacrok, Tyranocif, Mustéflott, Galopa, Luxray et Nostenfer. Mais, durant la nuit, elle fut réveillée par une lueur verte dans la forêt. Intrigué, la jeune femme rappela ses Pokémon dans leur Pokéball et partit voir. À mesure qu'elle s'approchait de la lumière, elle se mit à entendre un son, comme si la lumière l'appelait. Une fois sur place, elle se rendit compte que l'origine de la lumière n'était autre que Celebi. Le Pokémon fabuleux, heureux de voir la dresseuse se mit à tournoyer autour d'elle.",
+							"- Tu as l'air heureux de me voir toi, dit la dresseuse.",
+							"- Bi bi biiii, répondit le Pokémon avec un grand sourire.",
+							"Celebi s'accrocha alors au bras de Meia.",
+							"- Mais qu'est-ce que tu... La jeune femme n'eut pas le temps de finir sa phrase que les yeux du Pokémon s'illuminèrent et l'espace autour d'eux se mit à se tordre.",
+							"Meia sentit comme le sol se derrober sous ses pieds l'espace d'un instant, mais qui lui parut durer une éternité. Une fois que tout fut revenu à la normale, la jeune dresseuse se rendit compte que le paysage avait changé. La forêt qui quelques minutes plus tôt était verte et florissante n'était maintenant plus qu'une terre de désolation. La plupart des arbres semblaient avoir brûlé, d'immenses cratères avait pris la place des bosquets florissants et la douce odeur de fleur et de verdure avait laissé la place à une odeur de cendre.",
+							"- Où m'as-tu emmenée !? Demanda la jeune femme à Celebi qui venait tout juste de la lâcher.",
+							"- Bi bi biiii, répondit le Pokémon qui semblait demander à Meia de la suivre.",
+							"La jeune dresseuse n'eut pas le temps de protester qu'un homme en armure, accompagné d'un Gigalithe, fit irruption. Il observa un instant le duo, se retourna puis s'écria :",
+							"- Je crois que j'ai trouvé l'origine de la lumière !",
+							"Deux autres hommes en armure firent alors irruption accompagné d'un Steelix et d'un Rhinastoc.",
+							"- Qui es-tu et que fait tu ici ? Demanda l'un des nouveaux arrivant qui semblait être le chef du groupe à en juger par son armure plus travaillée que celle de ses deux acolytes.",
+							"- Cette chevelure blanche... Elle est peut-être de la famille du prince Damon commandant, chuchota un des hommes à son chef.",
+							"- C'est une possibilité... Et si c'est le cas, l'emmener avec nous permettra au prince Doma d'avoir un otage de poids pour faire pencher la balance dans cette guerre interminable... Jeune fille, tu vas nous suivre ! Dit alors le commandant.",
+							"- Et si je refuse ? Demanda Meia sur un ton provocateur.",
+							"- Alors nous t'emmènerons de force.",
+							"- Je serai curieuse de voir ça.",
+							"- Tu l'auras voulu. Rhinastoc, fait lui ravaler son insolence, mais ne l'amoche pas trop.",
+							"Le Rihnastoc s'avança alors, prêt à frapper la jeune dresseuse. Meia dégaina alors une de ses Pokéball de laquelle en sortit son Mustéflott.",
+							"- Quelle est cette magie ? Demanda l'un des hommes abasourdit par l'apparition du Mustéflott.",
+							"- Peu importe nous avons trois Pokémon et elle n'en a que deux, nous avons l'avantage ! S'écria le commandant.",
+							"- Je vous rassure, seul mon Mustéflott combattra, répondit la jeune femme, vous seriez bien trop désavantagé sinon.",
+							"- Tss petite peste ! Rhinastoc Lame de Roc !",
+							"- Steelix !",
+							"- Gigalithe !",
+							"Les trois Pokémon s'élancèrent alors sur le Mustéflott de Meia.",
+							"- Balaye-moi ces amateurs Mustéflott, Surf !",
+							"Mustéflott créa alors une vague immense qui submergea les 3 hommes et leurs Pokémon. L'attaque du Pokémon eau était si puissante qu'aucun des trois Pokémon adverse ne put se relever.",
+							"- Quelle puissance... On bat en retraite ! S'écria le commandant.",
+							"Les trois hommes prirent alors la fuite laissant derrière eux leurs trois Pokémon.",
+							"- Quelle bande de lâches, dit alors Meia d'un air dépité.",
+							"Elle rappela son Mustéflott dans sa Pokéball, se dirigea vers les 3 Pokémon inconscients et sortit de son sac des rappel et des potions pour les soigner. Une fois les Pokémon soignés, elle leur annonça qu'ils étaient libres. À l'annonce de cette nouvelle, ils ne mirent pas longtemps avant de quitter les lieux.",
+							"- Bien, maintenant à nous deux, dit alors Meia en se tournant vers Celebi."
+						]
+					}
+				]
+			}
+		],
 		"tournament": [
 			{
 				"tournamentId": "0",
