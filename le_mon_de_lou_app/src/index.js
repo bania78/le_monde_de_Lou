@@ -13,6 +13,7 @@ import Accueil_unt from './pages/Untraveled/Accueil_unt';
 import Project_page, { loader as projectLoader, } from './pages/Coach_Lou/Project_page';
 import Saison_page, { loader as saisonLoader, } from './pages/Coach_Lou/Saison_page';
 import Tournament, { loader as tournamentLoader, } from './pages/Pokemon/Tournament';
+import Perso, { loader as persoLoader, } from './pages/Pokemon/Perso';
 import TournamentBattle, { loader as battleLoader, } from './pages/Pokemon/TournamentBattle';
 import Story, { loader as storyLoader, } from './pages/Pokemon/Story';
 
@@ -42,6 +43,11 @@ const router = createBrowserRouter([
         path: "pokemon/tournament/:tournamentId",
         element: <Tournament />,
         loader: tournamentLoader,
+      },
+      {
+        path: "pokemon/perso/:persoId",
+        element: <Perso />,
+        loader: persoLoader,
       },
       {
         path: "pokemon/tournament/:tournamentId/:tourId/:battleId",

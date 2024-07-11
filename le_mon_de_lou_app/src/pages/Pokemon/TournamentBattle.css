@@ -4,6 +4,13 @@
     margin: 20px;
 }
 
+.perso_cover {
+    float: right;
+    width: 200px;
+    margin: 20px;
+    margin-top: 20px;
+}
+
 .div_content_battle {
     margin: 20px;
     text-align: left;
@@ -13,6 +20,34 @@
     margin: 20px;
 }
 
+.table_perso {
+    width: 200px;
+    margin: 20px;
+    margin-top: 0px;
+    float: right;
+
+}
+
 .icon_pok {
     width: 30px;
+}
+
+.th_des {
+    display: flex;
+    width: 40%;
+    background-color: rgb(49, 96, 223);
+    color: black;
+}
+
+.tr_des {
+    display: flex;
+}
+
+.th_per {
+    display: flex;
+    width: 60%;
+}
+
+.content_perso {
+    margin-left: 15px;
 }

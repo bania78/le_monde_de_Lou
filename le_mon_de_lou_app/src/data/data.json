@@ -5,6 +5,11 @@
       "url": "/pokemon/history"
     },
     {
+      "key": "meia",
+      "value": "Meia",
+      "url": "/pokemon/perso/0"
+    },
+    {
       "key": "ifpt world tournament first edition",
       "value": "IFPT WORLD TOURNAMENT FIRST EDITION",
       "url": "/pokemon/tournament/0"
@@ -103,5 +108,10 @@
       "key": "unys of the past",
       "value": "Unys of the Past",
       "url": "/pokemon/story/0"
+    },
+    {
+      "key": "meia: son aventure",
+      "value": "Meia: Son Aventure",
+      "url": "/pokemon/story/1"
     }
 ]

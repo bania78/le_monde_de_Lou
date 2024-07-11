@@ -7,6 +7,15 @@
     transition-duration: 1s;
 }
 
+.Card_perso {
+    width: 25%;
+}
+
+.Card_perso:hover {
+    width: 30%;
+    transition-duration: 1s;
+}
+
 .article_card {
     overflow: hidden;
     display: flex;

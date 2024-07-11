@@ -4,8 +4,34 @@
 		"title": "Poke Lou",
 		"cover": "./images/pokemon.jpg",
 		"path": "pokemon",
+		"perso": [
+			{
+				"id": "0",
+				"name": "Meia",
+				"cover": "./../../images/perso/Meia.png",
+				"sexe": "Femme",
+				"profession": "Dresseuse",
+				"birthplace": "???",
+				"région": "Sinnoh",
+				"IFPT": "1",
+				"introduction": [
+					"Meia, anciennement surnommée « l'ombre blanche », du fait de sa chevelure blanche, du temps où elle était commandante de la Team Galaxie, est une orpheline recueillie par le professeur Sorbier.",
+					"Considérée comme la plus puissante dresseuse de Sinnoh, même si elle a échoué à en devenir Maître, elle est la première à remporter l'IFPT WORLD TOURNAMENT. Elle est notamment connue pour son Carchacrok surpuissant qui l'accompagne dans chacun de ses voyages.",
+					"Elle est également fiancée avec Amelle."
+				],
+				"personnalite": [
+					"De nature solitaire et sûre d'elle, Meia est extrêmement obstinée et, jusqu'à sa première défaite contre Cynthia, ne reculait devant rien pour satisfaire sa quête de puissance quitte à rejoindre la Team Galaxie. Elle possède malgré tout une facette douce, chaleureuse et dévouée qu'elle montre uniquement envers ses Pokémon ou les personnes qu'elle aime.",
+					"Elle possède une passion débordante pour les combats la poussant constamment à chercher de puissants adversaires et à les combattre comme si elle livrait son dernier combat."
+				],
+				"ref": [
+					0,
+					1
+				]
+			}
+		],
 		"story": [
 			{
+				"id": 0,
 				"storyId": "0",
 				"storyCover": "./../../images/story/unys.png",
 				"storyTitle": "Unys of the Past",
@@ -23,7 +49,7 @@
 						"id": "1",
 						"title": "Chapitre 1",
 						"content": [
-							"De retour à notre époque, quelques mois après le premier IFPT World Tournament, Meia, la gagnante du tournoi reprit son voyage en quête d'un adversaire puissant pour s'entrainer. La jeune dresseuse alors âgée de 24 ans était habillé d'un manteau blanc et rouge, que lui avait offert Amelle, sa fiancée, après sa victoire lors de l'IFPT World Tournament, d'un sweat rouge et d'un pantalon noir. Ses yeux, d'une couleur atypique, étaient violet clair et sa longue chevelure blanche, qui lui avait valu le surnom « ombre blanche » du temps où elle était membre de la Team Galaxie était coiffé en queue de Ponyta avec un ruban rouge.",
+							"De retour à notre époque, quelques mois après le premier IFPT World Tournament, Meia, la gagnante du tournoi reprit son voyage en quête d'un adversaire puissant pour s'entrainer. La jeune dresseuse alors âgée de 25 ans était habillé d'un manteau blanc et rouge, que lui avait offert Amelle, sa fiancée, après sa victoire lors de l'IFPT World Tournament, d'un sweat rouge et d'un pantalon noir. Ses yeux, d'une couleur atypique, étaient violet clair et sa longue chevelure blanche, qui lui avait valu le surnom « ombre blanche » du temps où elle était membre de la Team Galaxie était coiffé en queue de Ponyta avec un ruban rouge.",
 							"C'est dans le cadre de son entrainement que la jeune dresseuse de Sinnoh se rendit à Unys dans la ville de Méanville afin d'y affronter Chammal et Chamsin au métro de Combat. Malgré la force des chefs du métro, Meia triompha sans grande difficulté de ses deux opposants.",
 							"À la suite de cet affrontement, la nuit alors tombé, elle partit camper dans les environs avec ses Pokémon comme à son habitude et utilisa son Holokit pour appeler Amelle comme chaque soir.",
 							"- Alors le métro de combat ? Demanda Amelle.",
@@ -71,6 +97,84 @@
 							"- Quelle bande de lâches, dit alors Meia d'un air dépité.",
 							"Elle rappela son Mustéflott dans sa Pokéball, se dirigea vers les 3 Pokémon inconscients et sortit de son sac des rappel et des potions pour les soigner. Une fois les Pokémon soignés, elle leur annonça qu'ils étaient libres. À l'annonce de cette nouvelle, ils ne mirent pas longtemps avant de quitter les lieux.",
 							"- Bien, maintenant à nous deux, dit alors Meia en se tournant vers Celebi."
+						]
+					},
+					{
+						"id": "2",
+						"title": "Chapitre 2",
+						"content": [
+							"À la suite de l'affrontement, Meia tenta d'interroger le petit voyageur temporel vert.",
+							"- Si je me rappelle bien des cours d'histoire que m'a faits le vieux Sorbier quand on est allé à Unys, dit Meia, Damon et Doma sont bien les princes d'Unys qui ont ravagé la région dans leur guerre fratricide ?",
+							"Le petit Pokémon hocha la tête.",
+							"- Si je me fie à ce que me dit mon Pokédex sur toi, dit elle en regardant celui-ci, tu nous as donc amenés à l'époque ou la guerre entre les deux frères fait rage.",
+							"Celebi hocha de nouveau la tête.",
+							"- Mais pourquoi m'avoir amené ici ?",
+							"Le voyageur temporel en guise de réponse demanda à la jeune dresseuse de la suivre. Après un peu plus d'une heure de marche, le duo arriva dans un petit village. C'était une ruine totale. Les bâtiments qui tenaient encore debout étaient dans un état déplorable, les récoltes brulées et la population du village n'étaient composées que de femmes, d'enfants et de vieillards ravagés par la faim et la pauvreté.",
+							"Dès qu'ils virent Meia, les villageois ne purent s'empêcher d'être interpellé par sa chevelure blanche semblable à celle d'un de leurs princes. La plupart se mirent à chuchoter entre eux « Fait elle partit de la famille du prince Damon ? », « Quel drôle d'accoutrement... », « Tu as vu son Pokémon ? ».",
+							"Un vieil homme néanmoins vint à la rencontre de la dresseuse :",
+							"- Excusez-moi ma dame, seriez-vous de la famille de notre prince Damon ?",
+							"- Que s'est-il passé ici, demanda Meia en ignorant la question du vieil homme.",
+							"- La guerre ma dame, notre village s'est retrouvé au milieu du conflit opposant les deux princes. Les Pokémon et les hommes forts ayant été mobilisé pour la guerre, nous manquons de bras pour reconstruire le village...",
+							"Meia réfléchit un instant puis dégaina ses 6 Pokéballs. Ses Pokémon en sortirent sous les yeux stupéfaits de l'ensemble du village.",
+							"- Nostenfer, Carchacrock, essayez de trouver un maximum de baies et ramenez-les, demanda alors la jeune dresseuse à ses compagnons, vous autres suivez-moi nous allons reconstruire ce village.",
+							"Tandis que Carchacrock et Nostenfer partirent en quête de baies, les autres Pokémon de Meia commencèrent à entreprendre la reconstruction du village, Tyranocif se servait de sa force et de sa grande taille pour reconstruire les maisons en pierre en se servant du feu de Galopa pour souder celles-ci tandis que Luxray, accompagné de sa dresseuse entreprit quant à lui la reconstruction des maisons en bois. Celebi leur vint également en aide et Mustéflott de son coté partit s'occuper des champs.",
+							""
+						]
+					}
+				]
+			},
+			{
+				"id": 1,
+				"storyId": "1",
+				"storyCover": "./../../images/story/Meia.png",
+				"storyTitle": "Meia : Son Aventure",
+				"content": [
+					{
+						"id": "0",
+						"title": "Prologue",
+						"content": [
+							"Je n'ai jamais connu mes parents... J'ai été abandonné quand j'avais moins d'un an devant le laboratoire du professeur Sorbier. Quand celui-ci m'a recueilli, je n'avais rien d'autre qu'un pyjama avec mon nom dessus, Meia. Mais, Sorbier ne fut pas le premier à me trouver. Un Griknot sauvage m'a aperçu devant le laboratoire la nuit où j'ai été abandonnée, il m'a maintenu au chaud et protégé tout au long de la nuit. Quand le vieux m'a trouvé devant sa porte au petit matin, il a d'abord dû faire comprendre au Griknot qu'il ne me voulait aucun mal avant que celui-ci le laisse m'approcher. Depuis ce jour, lui et moi somme devenu inséparable. Sorbier suppose que c'est parce que lui aussi a été abandonné par ses parents.",
+							"Ce jour-là, Sorbier a décidé de m'élever comme sa fille, il m'a éduqué, instruite et m'a emmené avec lui dans la plupart de ses voyages à l'étranger. Malgré ses tentatives de me sociabiliser, j'étais plutôt solitaire et n'acceptais de parler à personne a part lui. Mais, rapidement, au cours de nos voyages, j'ai finit par développer une passion pour les combats Pokémon. À ce moment-là chaque personne qui possédait un Pokémon était un adversaire potentiel. Mon Griknot et moi avons rapidement progressé et je suis devenu la meilleure dresseuse de Littorella, le village où est situé le laboratoire du vieux sorbier, à l'âge de 12 ans."
+						]
+					},
+					{
+						"id": "1",
+						"title": "Chapitre 1",
+						"content": [
+							"Peu de temps après l'anniversaire de mes 16 ans, alors que Griknot et moi faisions notre entrainement quotidien sur la plage de Littorella, un homme immense apparut. Il faisait près de 3m de haut et avait de longs cheveux blancs. Il était vêtu d'un vieux bonnet rouge et de longs vêtements très abimé. Lorsqu'il m'aperçut-il eut d'abord l'air surpris de me voir, il lança ensuite un regard en direction de Griknot, resta figé un moment, puis d'un coup, son visage s'illumina et il afficha un large sourire.",
+							"- Qu'est-ce que t'as le géant tu veux ma photo, lui demandé-je alors.",
+							"- Je crois que j'ai enfin compris... marmonna-t-il toujours avec son sourire, j'aimerais te confier quelque chose.",
+							"Il sortit alors une pierre ronde de couleur bleu-violet avec un coeur rouge-jaune.",
+							"- Non merci je ne fais pas dans la géologie tu peux garder ton caillou, répondis-je.",
+							"- Quelle insolence, dit-il en rigolant, que dirais-tu de faire un combat et si je gagne tu prends la pierre.",
+							"À ce moment-là, je ne put m'empêcher de sourire. Pour moi la victoire m'était déjà acquise mais j'avais aussi hate de voir ce que valait ce géant.",
+							"- Tu m'as l'air bien sûr de toi l'ancêtre, mais j'accepte ta proposition, mon Griknot et moi manquons cruellement d'adversaire valable ces temps-ci, dis-je d'un air arrogant, espérons que tu vailles le coup.",
+							"Le géant se contenta de continuer de sourire et dégaina une pokéball de laquelle sortit un Golemastoc. Je n'avais encore jamais vu ce Pokémon en vrai auparavant mais je le reconnus pour l'avoir déjà vu sur un tableau au musée d'Illumis durant un voyage à Kalos avec le vieux Sorbier.",
+							"- On a déjà abattu des Pokémon plus grand Griknot et moi, en avant Griknot, Drago-Rage !",
+							"Mon petit dragon se mit alors à se concentrer et son ventre se teint de bleu. Il ouvrit ensuite la bouche pour tout relâcher avec un puissant souffle bleu.",
+							"- Golemastoc, encaisse le et riposte avec Ultimapoing.",
+							"Le golem encaissa l'attaque de Griknot sans broncher avant de foncer sur lui et lui asséner un violent coup de poing. L'attaque était si rapide et puissante que Griknot alla s'écraser sur un rocher, K.O..",
+							"Je courus alors en direction de mon compagnon constatant ainsi une vérité difficile à accepter pour moi à ce moment-là, j'étais vaincu. À l'époque, je savais que le monde était rempli de dresseur de talent, mais j'étais loin de me douter que l'écart était aussi grand, qu'en réalité, j'étais faible.",
+							"Le géant marcha dans ma direction, se pencha au-dessus de mon Griknot et le soigna à l'aide d'un rappel et de potions. Une fois mon Pokémon remis sur pied, il se tourna vers moi et me tendis la pierre avec un sourire chaleureux. Ayant été battue, je ne pus refuser et la pris à contrecoeur. Le géant se releva ensuite et commença à repartir.",
+							"- Une minute, criai-je dans sa direction, pourquoi tiens tu tant à ce que je prenne ton vulgaire caillou ?",
+							"- Comme me l'a dit la personne qui me l'a confié, dit-il en se retournant, tu comprendras en temps voulu, en attendant garde la toujours près de toi.",
+							"Puis il reprit sa marche.",
+							"- Pas de problème dans ce cas je garderai ta fichue pierre ! Mais soit sûr d'une chose on se reverra et la prochaine fois, je te vaincrai !",
+							"Il se contenta de sourire et quitta les lieux.",
+							"De mon côté, je suis resté un long moment assis sur la plage à réfléchir. Je me suis demandé, comment je pouvais devenir plus forte ? Après un moment de réflexion, la réponse m'est parue évidente, il fallait que je quitte Littorella. Je suis donc rentrée au laboratoire avec Griknot et j'ai pris la direction de ma chambre où j'ai commencé à faire mon sac avant de ressortir quelques instants après prête à partir. Je me suis alors présenté devant le vieux Sorbier qui travaillait sur ses recherches sur l'évolution.",
+							"- Je pars.",
+							"Il s'est retourné, surpris par ma déclaration soudaine.",
+							"- Pour quelle raison, me demanda-t-il calmement.",
+							"- J'ai perdu aujourd'hui, et de manière écrasante... Je ne veux plus que ça se reproduise, et ici je ne progresserai pas.",
+							"- Alors tu veux vraiment devenir dresseuse de Pokémon...",
+							"- Non, je veux devenir la meilleure dresseuse.",
+							"- Je vois, dans ce cas si c'est ce que tu veux...",
+							"Il se leva de sa chaise, prit sa mallette rangée sur le côté de son bureau, l'ouvrit, et en sortit un pokéball.",
+							"- Je me doutais que ce jour arriverait depuis que tu t'es découvert une passion pour les combats. Et puis, obstinée comme tu es il y avait peu de chances que cette lubie te passe. Je t'ai donc gardé un Pokémon de côté.",
+							"Il appuya sur le bouton de la pokéball et il en sortit un Tiplouf.",
+							"- Tiplouf, je te présente ta nouvelle dresseuse.",
+							"Le petit Pokémon regarda en direction de Sorbier, puis me regarda. Un peu surprise par la tournure qu'avaient prise les choses, je ne savais pas comment réagir.",
+							"- Tu ne te présente pas à ton nouveau Pokémon, demanda alors Sorbier."
 						]
 					}
 				]
@@ -831,7 +935,7 @@
 											"PokB": "Lokhlass",
 											"imgB": "./../../../../images/icon_pok/Lok.png",
 											"winner": "Hyporoi",
-											"imgW": "./../../../../images/icon_pok/Met.png"
+											"imgW": "./../../../../images/icon_pok/Hyp.png"
 										}
 									],
 									"description": [
