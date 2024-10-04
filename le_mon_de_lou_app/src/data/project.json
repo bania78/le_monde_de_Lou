@@ -23,9 +23,144 @@
 					"De nature solitaire et sûre d'elle, Meia est extrêmement obstinée et, jusqu'à sa première défaite contre Cynthia, ne reculait devant rien pour satisfaire sa quête de puissance quitte à rejoindre la Team Galaxie. Elle possède malgré tout une facette douce, chaleureuse et dévouée qu'elle montre uniquement envers ses Pokémon ou les personnes qu'elle aime.",
 					"Elle possède une passion débordante pour les combats la poussant constamment à chercher de puissants adversaires et à les combattre comme si elle livrait son dernier combat."
 				],
+				"apparence": [
+					"Meia est une femme aux longs cheveux blancs et aux yeux de couleur violet. Ses cheveux sont toujours coiffés de la même manière au fil des années, en queue de cheval."
+				],
 				"ref": [
 					0,
 					1
+				],
+				"pokemon": [
+					{
+						"id": "0",
+						"name": "Carchacrok",
+						"image": "./../../images/pokemon/carcha.png"
+					},
+					{
+						"id": "1",
+						"name": "Pingoléon",
+						"image": "./../../images/pokemon/pingo.png"
+					},
+					{
+						"id": "2",
+						"name": "Luxray",
+						"image": "./../../images/pokemon/lux.png"
+					},
+					{
+						"id": "3",
+						"name": "Charkos",
+						"image": "./../../images/pokemon/char.png"
+					},
+					{
+						"id": "4",
+						"name": "Mustéflott",
+						"image": "./../../images/pokemon/mustef.png"
+					},
+					{
+						"id": "5",
+						"name": "Noctali",
+						"image": "./../../images/pokemon/noc.png"
+					},
+					{
+						"id": "6",
+						"name": "Nostenfer",
+						"image": "./../../images/pokemon/nost.png"
+					},
+					{
+						"id": "7",
+						"name": "Nidoqueen",
+						"image": "./../../images/pokemon/nidoq.png"
+					},
+					{
+						"id": "8",
+						"name": "Galopa",
+						"image": "./../../images/pokemon/galo.png"
+					},
+					{
+						"id": "9",
+						"name": "Aligatueur",
+						"image": "./../../images/pokemon/aliga.png"
+					},
+					{
+						"id": "10",
+						"name": "Rafflesia",
+						"image": "./../../images/pokemon/raff.png"
+					},
+					{
+						"id": "11",
+						"name": "Pharamp",
+						"image": "./../../images/pokemon/phar.png"
+					},
+					{
+						"id": "12",
+						"name": "Maganon",
+						"image": "./../../images/pokemon/maga.png"
+					},
+					{
+						"id": "13",
+						"name": "Tyranocif",
+						"image": "./../../images/pokemon/tyra.png"
+					},
+					{
+						"id": "14",
+						"name": "Tengalice",
+						"image": "./../../images/pokemon/tenga.png"
+					},
+					{
+						"id": "15",
+						"name": "Drattak",
+						"image": "./../../images/pokemon/dratt.png"
+					},
+					{
+						"id": "16",
+						"name": "Zoroark",
+						"image": "./../../images/pokemon/zoro.png"
+					},
+					{
+						"id": "17",
+						"name": "Pyrax",
+						"image": "./../../images/pokemon/pyrax.png"
+					},
+					{
+						"id": "18",
+						"name": "Polagriffe",
+						"image": "./../../images/pokemon/pola.png"
+					},
+					{
+						"id": "19",
+						"name": "Tranchodon",
+						"image": "./../../images/pokemon/tranch.png"
+					},
+					{
+						"id": "20",
+						"name": "Pandarbare",
+						"image": "./../../images/pokemon/panda.png"
+					},
+					{
+						"id": "21",
+						"name": "Muplodocus",
+						"image": "./../../images/pokemon/muplo.png"
+					},
+					{
+						"id": "22",
+						"name": "Félinferno",
+						"image": "./../../images/pokemon/felin.png"
+					},
+					{
+						"id": "23",
+						"name": "Corvaillus",
+						"image": "./../../images/pokemon/corv.png"
+					},
+					{
+						"id": "24",
+						"name": "Blizzaroi",
+						"image": "./../../images/pokemon/bliz.png"
+					},
+					{
+						"id": "25",
+						"name": "Lanssorien",
+						"image": "./../../images/pokemon/lanss.png"
+					}
 				]
 			}
 		],
@@ -1841,7 +1976,7 @@
 						"tag": [
 							{
 								"title": "Meia",
-								"href": ""
+								"href": "/pokemon/perso/0"
 							}
 						]
 					},
@@ -2808,5 +2943,67 @@
 		"title": "Untraveled Journey",
 		"cover": "./images/Night.png",
 		"path": "untraveled"
+	},
+	{
+		"id": "4",
+		"title": "CK3 AGOT",
+		"cover": "./images/agot.jpg",
+		"path": "ck3agot",
+		"project": [
+			{
+				"projectId": "0",
+				"title": "La Dynastie Belaerys",
+				"cover": "./images/agot/belaerys.jpg",
+				"description": "",
+				"history": [
+					{
+						"id": "0",
+						"title": "Prologue",
+						"story": [
+							{
+								"id": "0.1",
+								"title": "",
+								"image": "../images/agot/belaerys.jpg",
+								"tag": [
+									{
+										"href": "",
+										"title": "Belaerys"
+									}
+								],
+								"content": [
+									"La famille Belaerys est une famille de seigneurs dragon de l'ancienne Valyria qui faisait partie des familles dirigeantes des Possessions. Elle est notamment réputée car Jaenera Belaerys et son dragon Terrax sont partie explorer durant trois ans le continent au sud d'Essos, Sothoryos. A son retour de Sothoryos, Jaenera se maria avec un noble valyrien qui mourra quelques mois après avoir mis enceinte sa femme. Cette union donnera naissance à Rhaenys Belaerys.",
+									"Orpheline de sa mère à l'âge de 6 ans et n'ayant jamais connu son père étant mort avant sa naissance, la jeune fille parvient néanmoins à maintenir le prestige de sa famille en domptant un jeune et magnifique dragon sauvage noir réputé pour être l'un des plus rapides jamais vus à seulement 10 ans. Elle nomma se dragon Beleys en l'honneur de sa famille. Au cours de sa jeunesse, Rhaenys passera le plus clair de son temps le nez dans les livres à s'instruire sur Valyria, son histoire, l'architecture de ses plus grands bastions, la magie valyrienne... Mais quand elle n'était pas plongée dans la lecture, elle était dans les airs, sur le dos de son dragon à voler toujours plus loin, toujours plus haut.",
+									"C'est au cours de la douzième année de la jeune Rhaenys que survient le fléau de Valyria. L'éruption simultanée des volcans qui ceinturaient l'antique cité de Valyria anéantissa en quelques heures seulement la capitale du plus grand et du plus puissant empire d'Essos ainsi que la quasi-totalité de ses dragons et dragonniers. Mais, lorsque les volcans commencerent à cracher leurs flammes, Rhaenys réagit très vite, enfourcha Beleys, et, grâce à la vitesse de son dragon, parvint à fuir Valyria juste à temps pour ensuite assister à sa destruction depuis les côtes des Terres disputées."
+								]
+							}
+						]
+					},
+					{
+						"id": "1",
+						"title": "0 A.D. - ?? A.D. : Rhaenys I Belaerys",
+						"story": [
+							{
+								"id": "1.1",
+								"title": "0 A.D. - 4 A.D. : L'Exil à Tombe-Triarque",
+								"image": "../../images/agot/Queen-Rhaenys-I.png",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys I Belaerys"
+									}
+								],
+								"content": [
+									"Valyria étant détruite, il ne restait plus que quelques seigneurs dragons encore en vie, les Targaryens, partis s'exiler à Peyredragon suite au rêve prémonitoire de Daenys qui avait prédit le fléau, Aurion qui était en visite dans les cités libres et qui décida de rejoindre les Targaryen à Peyredragon et la jeune Rhaenys Belaerys. D'autres seigneurs dragons qui étaient en visite aux quatre coins d'Essos avaient survécu au fléau, mais ils furent massacrés durant leur sommeil par leurs hôtes eux et leurs dragons une fois la nouvelle de la chute de Valyria répandue.",
+									"Rhaenys, elle, qui s'était posée sur les côtes des Terres Disputées en fuyant le fléau, vola un peu plus au Nord à la recherche d'un nouveau foyer. C'est alors qu'elle arriva au fort de Hes, dans le conté de Tombe-Triarque. Une fois posée devant les murs du fort, elle fut accueillie par une prêtresse rouge du nom de Calla qui semblait l'attendre. La prêtresse invita la jeune dragonnière à entrer dans la cité et lui conta l'histoire de Hes. Ancienne cité libre et esclavagiste, Hes venait néanmoins de subir une révolte mettant fin au règne des maîtres et à l'esclavagisme dans le fort et dans tout le comté de Tombe Triarque. L'instigatrice de cette révolution n'était autre que celle à qui on avait offert les clés du fort à la fin de celle-ci, Calla.",
+									"Au cours de cette marche dans le fort, Rhaenys ne put s'empêcher de remarquer le regard des locaux qui semblaient tous heureux de la voir sans qu'elle ne sache pourquoi. Une fois arrivé au pied du donjon où siège le maître du fort, Calla proposa à la jeune Rhaenys de rester vivre ici en échange de la protection de son dragon. Rhaenys, bien que jeune, savait très bien que la prêtresse lui cachait quelque chose. Mais, exténuée par son long voyage depuis Valyria, elle ne put dire non à cette offre. C'est ainsi que Rhaenys trouva refuge à Hes.",
+									"Au cours des 4 années qui suivirent l'arrivée de la dernière Belaerys à Hes, Calla offrit la possibilité à la jeune Rhaenys d'accroître ses connaissances en lui enseignant tout ce qu'elle savait. La prêtresse, bien que de basse naissance, était un vrai puits de savoir. Couplé à l'immense liberté qu'avait la jeune valyrienne, Rhaenys n'eut pas le cœur de partir. Calla usa également de ses belles paroles pour étendre son influence et convaincre le magistrat du petit conté voisin de Dreylia de lui jurer allégence. Avec l'arrivée de Beleys et la soumission de Dreylia, Tombe-Triarque fut épargné par les guerres pour l'héritage des Possessions qui ont ravagé les Terres Disputées durant ces 4 années en Lys, Myr et Tyrosh.",
+									"Le jour des 16 ans de Rhaenys, Calla avait disparu sans laisser de trace. Mais, la prêtresse avait laissé un mot à son conseil disant qu'elle offrait sa place de magistrate à la jeune dragonnière. Lorsque le conseil lui lit la dite lettre, Rhaenys scruta un à un les membres de l'assemblée. Aucun ne semblait surpris, aucun n'émit d'opposition, comme si tout cela était prévu, quand la nouvelle fut annoncée au peuple, leur réaction ne fut que joie. Ce n'est que lorsque Rhaenys regagna ses appartements le soir même, qu'elle compris. Elle trouva sur son bureau une lettre de Calla : 'Tu es adulte maintenant, ma régence prend donc fin'. Elle comprit que c'était là l'intention de la prêtresse depuis le début, que son objectif avait toujours été d'offrir cette place à Rhaenys sans que celle-ci ne sache pourquoi. Après un moment de réflexion, la valérien accepta cette charge et, le lendemain matin, Rhaenys réunisse son conseil et prit ses premières décisions. Elle rebaptisa le fort de Hes en Valyria et le comté lui fut rebaptisé Nouvelle-Valyria. C'est ainsi que commença le règne de Rhaenys de Nouvelle-Valyria."
+								]
+							}
+						]
+					}
+				]
+			}
+		]
 	}
 ]

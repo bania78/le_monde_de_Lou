@@ -8,7 +8,7 @@ function Li_history({ projects }) {
                 <h3 id={project.id} className='h3_history'>{project.title}</h3>
                 <div className='div_img'>
                     <div className="box_img">
-                        <img className="history_img" src={project.image} alt={project.title}/>
+                        <img className="history_img" src={project.image}/>
                         <div className='content_box'>
                             <ul className='tag_box'>
                                 { project.tag.map((tag, id) => (

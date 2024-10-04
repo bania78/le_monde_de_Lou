@@ -56,7 +56,23 @@ function Perso() {
                 { project.perso.personnalite.map(description => (
                     <p className='content_perso'>{description}</p>
                 ))}
+                <h3>Apparence</h3>
+                { project.perso.apparence.map(description => (
+                    <p className='content_perso'>{description}</p>
+                ))}
                 <h3>Pokémon</h3>
+                <div  className='poke_table'>
+                    { project.perso.pokemon.map(pok => (
+                        <table>
+                            <tr>
+                                <img className='poke_cover' src={pok.image}></img>
+                            </tr>
+                            <tr>
+                                <th className='th_pok_des'>{pok.name}</th>
+                            </tr>
+                        </table>
+                    ))}
+                </div>
                 <h3>Références</h3>
                 <CardListPerso story={project.perso.ref}>
                 </CardListPerso>

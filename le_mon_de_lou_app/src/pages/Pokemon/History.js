@@ -6,7 +6,7 @@ import './History.css'
 function History() {
     return ([
         <div className="timeline">
-            <Frise/>
+            <Frise  id={0}/>
         </div>,
         projects[0].history.map(project => (
             <ul key={project.id} className='ul_history'>

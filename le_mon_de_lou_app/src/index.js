@@ -10,11 +10,13 @@ import History from './pages/Pokemon/History';
 import Accueil_gen from './pages/Genshin/Accueil_gen';
 import Accueil_coach from './pages/Coach_Lou/Accueil_coach';
 import Accueil_unt from './pages/Untraveled/Accueil_unt';
+import Accueil_agot from './pages/Agot/Accueil_agot';
 import Project_page, { loader as projectLoader, } from './pages/Coach_Lou/Project_page';
 import Saison_page, { loader as saisonLoader, } from './pages/Coach_Lou/Saison_page';
 import Tournament, { loader as tournamentLoader, } from './pages/Pokemon/Tournament';
 import Perso, { loader as persoLoader, } from './pages/Pokemon/Perso';
 import TournamentBattle, { loader as battleLoader, } from './pages/Pokemon/TournamentBattle';
+import History_Page, { loader as historyLoader, } from './pages/Agot/History_page';
 import Story, { loader as storyLoader, } from './pages/Pokemon/Story';
 
 const router = createBrowserRouter([
@@ -75,6 +77,15 @@ const router = createBrowserRouter([
       {
         path: "untraveled",
         element: <Accueil_unt />
+      },
+      {
+        path: "ck3agot",
+        element: <Accueil_agot />
+      },
+      {
+        path: "ck3agot/:projectId",
+        element: <History_Page />,
+        loader: historyLoader,
       }
     ]
   }
