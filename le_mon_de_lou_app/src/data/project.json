@@ -2971,33 +2971,65 @@
 									}
 								],
 								"content": [
-									"La famille Belaerys est une famille de seigneurs dragon de l'ancienne Valyria qui faisait partie des familles dirigeantes des Possessions. Elle est notamment réputée car Jaenera Belaerys et son dragon Terrax sont partie explorer durant trois ans le continent au sud d'Essos, Sothoryos. A son retour de Sothoryos, Jaenera se maria avec un noble valyrien qui mourra quelques mois après avoir mis enceinte sa femme. Cette union donnera naissance à Rhaenys Belaerys.",
-									"Orpheline de sa mère à l'âge de 6 ans et n'ayant jamais connu son père étant mort avant sa naissance, la jeune fille parvient néanmoins à maintenir le prestige de sa famille en domptant un jeune et magnifique dragon sauvage noir réputé pour être l'un des plus rapides jamais vus à seulement 10 ans. Elle nomma se dragon Beleys en l'honneur de sa famille. Au cours de sa jeunesse, Rhaenys passera le plus clair de son temps le nez dans les livres à s'instruire sur Valyria, son histoire, l'architecture de ses plus grands bastions, la magie valyrienne... Mais quand elle n'était pas plongée dans la lecture, elle était dans les airs, sur le dos de son dragon à voler toujours plus loin, toujours plus haut.",
-									"C'est au cours de la douzième année de la jeune Rhaenys que survient le fléau de Valyria. L'éruption simultanée des volcans qui ceinturaient l'antique cité de Valyria anéantissa en quelques heures seulement la capitale du plus grand et du plus puissant empire d'Essos ainsi que la quasi-totalité de ses dragons et dragonniers. Mais, lorsque les volcans commencerent à cracher leurs flammes, Rhaenys réagit très vite, enfourcha Beleys, et, grâce à la vitesse de son dragon, parvint à fuir Valyria juste à temps pour ensuite assister à sa destruction depuis les côtes des Terres disputées."
+									"La maison Belaerys était l’une des grandes lignées de seigneurs-dragons de l’ancienne Valyria, faisant partie des familles influentes des Possessions. Elle acquit une renommée particulière grâce à Jaenera Belaerys, célèbre pour son audace et son dragon, Terrax. Jaenera entreprit une expédition de trois ans sur le continent mystérieux de Sothoryos, une terre redoutée pour ses jungles hostiles et ses nombreuses maladies. À son retour, auréolée de gloire, Jaenera épousa un noble valyrien. Leur union fut toutefois de courte durée : son mari mourut quelques mois après l’avoir mise enceinte. De cette brève histoire d’amour naquit leur fille unique, Rhaenys Belaerys.",
+									"Orpheline de mère à l’âge de six ans, Rhaenys devint la dernière représentante de la maison Belaerys. Sans figure parentale pour la soutenir, l’influence de sa famille au sein de Valyria s’effrita peu à peu. Cependant, cette perte ne troubla pas la jeune fille lorsque, en grandissant, elle prit conscience des rouages politiques de l’antique cité. Elle désapprouvait fermement la politique esclavagiste des Valyriens, ce qui la démarqua des autres grandes familles.",
+									"À seize ans, Rhaenys accomplit un exploit qui marqua le début de sa légende : elle dompta une dragonne sauvage nommée Beleys, réputée indomptable, dont la vitesse inégalée et la beauté éblouissante fascinaient ceux qui la voyaient. Liée à cette créature d’exception, Rhaenys prit une décision radicale. Refusant de rester impliquée dans les intrigues et les pratiques corrompues de Valyria, elle choisit de quitter la cité et de partir explorer le monde. Cette même année, les Targaryen quittèrent également Valyria, ce qui leur valut, à eux comme à Rhaenys, le surnom d’« exilés de Valyria » parmi les nobles.",
+									"Durant les onze années qui suivirent, Rhaenys parcourut Essos et, parfois, Westeros, sur le dos de sa dragonne. Cependant, c’est à Lys qu’elle revenait le plus souvent, ayant rencontré peu après son départ un jeune homme de neuf ans son aîné, Nevio. Éprise de lui, elle l’épousa, et le couple s’établit à Lys entre les nombreux voyages de Rhaenys.",
+									"La jeune dragonnière fit rapidement parler d’elle. Peu après son départ de Valyria, elle prit la tête d’une rébellion de paysans contre leur seigneur, révélant un talent inné pour le commandement et l’art de la guerre. Ses compétences exceptionnelles en tactique et au maniement de l’épée, acquises durant son enfance grâce à ses longues heures d’entraînement et à l’étude des grandes batailles, firent d’elle une combattante redoutable. Sur le dos de Beleys, elle était encore plus impressionnante, le lien unique qui l’unissait à sa dragonne rendant leurs assauts aériens presque inarrêtables.",
+									"Cette première victoire permit à Rhaenys de se faire un nom. Sa renommée s’étendit rapidement, et de nombreux nobles d’Essos commencèrent à solliciter ses services, prêts à la payer grassement pour qu’elle combatte leurs ennemis.",
+									"Malgré ses nombreuses campagnes, Rhaenys revenait toujours à Lys pour retrouver Nevio. À l’âge de 19 ans, elle donna naissance à leur premier enfant, un fils qu’ils nommèrent Baelor. Au fil des années, les exploits de Rhaenys et de sa dragonne Beleys marquèrent les esprits. Les habitants d’Essos finirent par attribuer un surnom prestigieux à la dragonne : la Reine Noire."
 								]
 							}
 						]
 					},
 					{
 						"id": "1",
-						"title": "0 A.D. - ?? A.D. : Rhaenys I Belaerys",
+						"title": "0 A.D. : Le fléau et ses conséquences",
 						"story": [
 							{
 								"id": "1.1",
-								"title": "0 A.D. - 4 A.D. : L'Exil à Tombe-Triarque",
-								"image": "../../images/agot/Queen-Rhaenys-I.png",
+								"title": "0 A.D. : Le fléau et ses conséquences",
+								"image": "../../images/agot/rhaenys-ressurect.png",
 								"tag": [
 									{
 										"href": "",
-										"title": "Rhaenys I Belaerys"
+										"title": "Rhaenys Belaerys"
 									}
 								],
 								"content": [
-									"Valyria étant détruite, il ne restait plus que quelques seigneurs dragons encore en vie, les Targaryens, partis s'exiler à Peyredragon suite au rêve prémonitoire de Daenys qui avait prédit le fléau, Aurion qui était en visite dans les cités libres et qui décida de rejoindre les Targaryen à Peyredragon et la jeune Rhaenys Belaerys. D'autres seigneurs dragons qui étaient en visite aux quatre coins d'Essos avaient survécu au fléau, mais ils furent massacrés durant leur sommeil par leurs hôtes eux et leurs dragons une fois la nouvelle de la chute de Valyria répandue.",
-									"Rhaenys, elle, qui s'était posée sur les côtes des Terres Disputées en fuyant le fléau, vola un peu plus au Nord à la recherche d'un nouveau foyer. C'est alors qu'elle arriva au fort de Hes, dans le conté de Tombe-Triarque. Une fois posée devant les murs du fort, elle fut accueillie par une prêtresse rouge du nom de Calla qui semblait l'attendre. La prêtresse invita la jeune dragonnière à entrer dans la cité et lui conta l'histoire de Hes. Ancienne cité libre et esclavagiste, Hes venait néanmoins de subir une révolte mettant fin au règne des maîtres et à l'esclavagisme dans le fort et dans tout le comté de Tombe Triarque. L'instigatrice de cette révolution n'était autre que celle à qui on avait offert les clés du fort à la fin de celle-ci, Calla.",
-									"Au cours de cette marche dans le fort, Rhaenys ne put s'empêcher de remarquer le regard des locaux qui semblaient tous heureux de la voir sans qu'elle ne sache pourquoi. Une fois arrivé au pied du donjon où siège le maître du fort, Calla proposa à la jeune Rhaenys de rester vivre ici en échange de la protection de son dragon. Rhaenys, bien que jeune, savait très bien que la prêtresse lui cachait quelque chose. Mais, exténuée par son long voyage depuis Valyria, elle ne put dire non à cette offre. C'est ainsi que Rhaenys trouva refuge à Hes.",
-									"Au cours des 4 années qui suivirent l'arrivée de la dernière Belaerys à Hes, Calla offrit la possibilité à la jeune Rhaenys d'accroître ses connaissances en lui enseignant tout ce qu'elle savait. La prêtresse, bien que de basse naissance, était un vrai puits de savoir. Couplé à l'immense liberté qu'avait la jeune valyrienne, Rhaenys n'eut pas le cœur de partir. Calla usa également de ses belles paroles pour étendre son influence et convaincre le magistrat du petit conté voisin de Dreylia de lui jurer allégence. Avec l'arrivée de Beleys et la soumission de Dreylia, Tombe-Triarque fut épargné par les guerres pour l'héritage des Possessions qui ont ravagé les Terres Disputées durant ces 4 années en Lys, Myr et Tyrosh.",
-									"Le jour des 16 ans de Rhaenys, Calla avait disparu sans laisser de trace. Mais, la prêtresse avait laissé un mot à son conseil disant qu'elle offrait sa place de magistrate à la jeune dragonnière. Lorsque le conseil lui lit la dite lettre, Rhaenys scruta un à un les membres de l'assemblée. Aucun ne semblait surpris, aucun n'émit d'opposition, comme si tout cela était prévu, quand la nouvelle fut annoncée au peuple, leur réaction ne fut que joie. Ce n'est que lorsque Rhaenys regagna ses appartements le soir même, qu'elle compris. Elle trouva sur son bureau une lettre de Calla : 'Tu es adulte maintenant, ma régence prend donc fin'. Elle comprit que c'était là l'intention de la prêtresse depuis le début, que son objectif avait toujours été d'offrir cette place à Rhaenys sans que celle-ci ne sache pourquoi. Après un moment de réflexion, la valérien accepta cette charge et, le lendemain matin, Rhaenys réunisse son conseil et prit ses premières décisions. Elle rebaptisa le fort de Hes en Valyria et le comté lui fut rebaptisé Nouvelle-Valyria. C'est ainsi que commença le règne de Rhaenys de Nouvelle-Valyria."
+									"Lorsque le Fléau de Valyria frappa, Rhaenys avait 27 ans. Elle résidait alors à Lys avec son mari, Nevio, et leur fils Baelor. La nouvelle de la catastrophe se répandit rapidement, semant le chaos et la peur à travers le monde. Voyant une occasion unique d’en finir avec les derniers dragonniers valyriens, les nobles de Lys ourdirent un complot pour assassiner Rhaenys, sa famille et son dragon Beleys durant leur sommeil.",
+									"Cependant, malgré la soudaineté de l’attaque, Rhaenys parvint à repousser ses assaillants. Elle s’échappa de justesse avec son mari et son fils sur le dos de sa dragonne. Mais lors de leur fuite, une flèche décochée par l’un de leurs poursuivants atteignit Rhaenys dans le dos. Gravement blessée, elle continua à voler jusqu’à ce qu’ils atteignent une plage isolée près de Volantis. Là, à l’abri du danger immédiat, la jeune dragonnière succomba à ses blessures sous les yeux impuissants de sa famille et de son dragon.",
+									"C’est alors qu’une prêtresse rouge apparut, comme si elle avait su où Beleys se poserait. Silencieuse, elle s’approcha du corps encore chaud de Rhaenys, ignorant la douleur et la peur de sa famille. Murmurant des paroles dans une langue ancienne, elle posa une main sur le cœur sans vie de Rhaenys. Après un court instant, contre toute attente, la dragonnière ouvrit les yeux.",
+									"« Que vous a-t-il montré ? » demanda la prêtresse d’une voix calme mais empreinte d’autorité. Encore désorientée, Rhaenys répondit d’un souffle : « La mort... La mort venant du nord... traversant le Mur... Les armées de Westeros, impuissantes... »",
+									"La prêtresse hocha gravement la tête. « C’est ce qui devait advenir si vous mouriez ici aujourd’hui. Mais le Maître de la Lumière m’a montré une autre vision : un héros faisant face aux morts, un dragon à ses côtés... et un nom : Belaerys. »",
+									"À cet instant, Rhaenys comprit que ce qu’elle avait vu, tout comme les visions de la prêtresse, se déroulerait dans un avenir lointain. Ce ne serait pas à elle, mais à sa descendance, de relever ce défi et de protéger le monde de la menace qui viendrait du Nord."
+								]
+							}
+						]
+					},
+					{
+						"id": "1",
+						"title": "0 A.D. - 10 A.D : Les derniers voyages de Rhaenys",
+						"story": [
+							{
+								"id": "1.2",
+								"title": "0 A.D. - 10 A.D : Les derniers voyages de Rhaenys",
+								"image": "../../images/agot/rhaenys-valyria-ruines.webp",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys Belaerys"
+									},
+									{
+										"href": "",
+										"title": "Beleys"
+									}
+								],
+								"content": [
+									"Afin de préparer sa descendance à affronter la menace prophétisée, Rhaenys prit la décision ambitieuse de reconstruire l’antique Valyria. Cependant, elle savait que les terres encore fumantes du Fléau étaient inhabitables et qu’une immense fortune serait nécessaire pour mener à bien ce projet titanesque. Avec sa famille, elle s’établit à Volantis, une cité historiquement liée à Valyria et où les seigneurs-dragons étaient toujours respectés. Ce choix stratégique lui permit de bénéficier d’une certaine stabilité tout en poursuivant ses efforts pour accumuler les ressources nécessaires à son rêve.",
+									"Cherchant à mieux comprendre la menace venue du Nord, Rhaenys entreprit un périlleux voyage au-delà du Mur. Malheureusement, ses recherches n’aboutirent pas, et elle revint sans nouvelles informations sur les morts. Cependant, son courage et sa force inspirèrent un petit groupe de sauvageons qui prêtèrent allégeance à la dragonnière, fascinés par sa détermination et la majesté de Beleys. Lors de son retour vers le Mur, la Garde de Nuit, bien qu’hésitante à laisser passer une troupe de sauvageons, préféra céder plutôt que de risquer le courroux de la dragonnière.",
+									"De retour de cette expédition au Nord, Rhaenys tourna son attention vers les ruines de Valyria. Cinq ans après le Fléau, elle se lança seule avec Beleys dans une mission audacieuse visant à évaluer l’ampleur des dégâts et à déterminer ce qu’il faudrait pour reconstruire l’antique royaume. Les récits de cette expédition parlent d’affrontements contre des vers de feu et de rituels magiques qu’elle aurait utilisés pour purifier les lieux en prévision de la renaissance de Valyria. Bien que certains doutent de la véracité de ces légendes, un fait demeure : après le passage de Rhaenys, les marins purent de nouveau traverser la mer Fumeuse sans craindre autre chose que les tempêtes.",
+									"Les années suivantes, Rhaenys continua à accumuler des richesses et à renforcer sa réputation. Dix ans après le Fléau, et trois ans après avoir donné naissance à son second fils, Haegon, elle lança enfin son ambitieuse expédition pour reconstruire la capitale de Valyria."
 								]
 							}
 						]
