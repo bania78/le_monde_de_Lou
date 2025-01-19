@@ -2984,7 +2984,7 @@
 					},
 					{
 						"id": "1",
-						"title": "0 A.D. : Le fléau et ses conséquences",
+						"title": "0 A.D. - ?? : Rhaenys Belaerys 'Mère de la lignée'",
 						"story": [
 							{
 								"id": "1.1",
@@ -3000,17 +3000,12 @@
 									"Lorsque le Fléau de Valyria frappa, Rhaenys avait 27 ans. Elle résidait alors à Lys avec son mari, Nevio, et leur fils Baelor. La nouvelle de la catastrophe se répandit rapidement, semant le chaos et la peur à travers le monde. Voyant une occasion unique d’en finir avec les derniers dragonniers valyriens, les nobles de Lys ourdirent un complot pour assassiner Rhaenys, sa famille et son dragon Beleys durant leur sommeil.",
 									"Cependant, malgré la soudaineté de l’attaque, Rhaenys parvint à repousser ses assaillants. Elle s’échappa de justesse avec son mari et son fils sur le dos de sa dragonne. Mais lors de leur fuite, une flèche décochée par l’un de leurs poursuivants atteignit Rhaenys dans le dos. Gravement blessée, elle continua à voler jusqu’à ce qu’ils atteignent une plage isolée près de Volantis. Là, à l’abri du danger immédiat, la jeune dragonnière succomba à ses blessures sous les yeux impuissants de sa famille et de son dragon.",
 									"C’est alors qu’une prêtresse rouge apparut, comme si elle avait su où Beleys se poserait. Silencieuse, elle s’approcha du corps encore chaud de Rhaenys, ignorant la douleur et la peur de sa famille. Murmurant des paroles dans une langue ancienne, elle posa une main sur le cœur sans vie de Rhaenys. Après un court instant, contre toute attente, la dragonnière ouvrit les yeux.",
-									"« Que vous a-t-il montré ? » demanda la prêtresse d’une voix calme mais empreinte d’autorité. Encore désorientée, Rhaenys répondit d’un souffle : « La mort... La mort venant du nord... traversant le Mur... Les armées de Westeros, impuissantes... »",
+									"« Que vous a-t-il montré ? » demanda la prêtresse d’une voix calme mais empreinte d’autorité. Encore désorientée, Rhaenys répondit d’un souffle :",
+									"    « La mort... La mort venant du nord... traversant le Mur... Les armées de Westeros, impuissantes... »",
 									"La prêtresse hocha gravement la tête. « C’est ce qui devait advenir si vous mouriez ici aujourd’hui. Mais le Maître de la Lumière m’a montré une autre vision : un héros faisant face aux morts, un dragon à ses côtés... et un nom : Belaerys. »",
 									"À cet instant, Rhaenys comprit que ce qu’elle avait vu, tout comme les visions de la prêtresse, se déroulerait dans un avenir lointain. Ce ne serait pas à elle, mais à sa descendance, de relever ce défi et de protéger le monde de la menace qui viendrait du Nord."
 								]
-							}
-						]
-					},
-					{
-						"id": "1",
-						"title": "0 A.D. - 10 A.D : Les derniers voyages de Rhaenys",
-						"story": [
+							},
 							{
 								"id": "1.2",
 								"title": "0 A.D. - 10 A.D : Les derniers voyages de Rhaenys",
@@ -3026,10 +3021,143 @@
 									}
 								],
 								"content": [
-									"Afin de préparer sa descendance à affronter la menace prophétisée, Rhaenys prit la décision ambitieuse de reconstruire l’antique Valyria. Cependant, elle savait que les terres encore fumantes du Fléau étaient inhabitables et qu’une immense fortune serait nécessaire pour mener à bien ce projet titanesque. Avec sa famille, elle s’établit à Volantis, une cité historiquement liée à Valyria et où les seigneurs-dragons étaient toujours respectés. Ce choix stratégique lui permit de bénéficier d’une certaine stabilité tout en poursuivant ses efforts pour accumuler les ressources nécessaires à son rêve.",
+									"Afin de préparer sa descendance à affronter la menace prophétisée, Rhaenys prit la décision ambitieuse de reconstruire l’antique Valyria. Cependant, elle savait que les terres encore fumantes du Fléau étaient inhabitables et qu’une immense fortune serait nécessaire pour mener à bien ce projet titanesque. Avec sa famille, elle s’établit à Volantis, une cité historiquement liée à Valyria où les seigneurs-dragons étaient toujours respectés. Ce choix stratégique lui permit de bénéficier d’une certaine stabilité tout en poursuivant ses efforts pour accumuler les ressources nécessaires à son rêve.",
 									"Cherchant à mieux comprendre la menace venue du Nord, Rhaenys entreprit un périlleux voyage au-delà du Mur. Malheureusement, ses recherches n’aboutirent pas, et elle revint sans nouvelles informations sur les morts. Cependant, son courage et sa force inspirèrent un petit groupe de sauvageons qui prêtèrent allégeance à la dragonnière, fascinés par sa détermination et la majesté de Beleys. Lors de son retour vers le Mur, la Garde de Nuit, bien qu’hésitante à laisser passer une troupe de sauvageons, préféra céder plutôt que de risquer le courroux de la dragonnière.",
 									"De retour de cette expédition au Nord, Rhaenys tourna son attention vers les ruines de Valyria. Cinq ans après le Fléau, elle se lança seule avec Beleys dans une mission audacieuse visant à évaluer l’ampleur des dégâts et à déterminer ce qu’il faudrait pour reconstruire l’antique royaume. Les récits de cette expédition parlent d’affrontements contre des vers de feu et de rituels magiques qu’elle aurait utilisés pour purifier les lieux en prévision de la renaissance de Valyria. Bien que certains doutent de la véracité de ces légendes, un fait demeure : après le passage de Rhaenys, les marins purent de nouveau traverser la mer Fumeuse sans craindre autre chose que les tempêtes.",
-									"Les années suivantes, Rhaenys continua à accumuler des richesses et à renforcer sa réputation. Dix ans après le Fléau, et trois ans après avoir donné naissance à son second fils, Haegon, elle lança enfin son ambitieuse expédition pour reconstruire la capitale de Valyria."
+									"Les années suivantes, Rhaenys continua à accumuler des richesses et à renforcer sa réputation. Parmi ses compagnons les plus loyaux se trouvait Brogg, un ancien chef sauvageon ayant rejoint son camp lors de l’expédition au-delà du Mur. Sa férocité au combat et sa dévotion presque fanatique envers Rhaenys lui avaient valu une place d’honneur parmi ses hommes. Bien qu’il ne fût pas noble, son courage et son rôle dans plusieurs batailles avaient fait de lui une figure respectée – bien que parfois énigmatique – au sein de l’entourage de la dragonnière.",
+									"Pendant les campagnes de Rhaenys, Brogg s'était imposé comme un leader loyal parmi les sauvageons. Sur le champ de bataille, il était un combattant féroce, n’hésitant jamais à prendre les risques les plus insensés pour protéger Rhaenys. Son admiration pour elle était palpable, presque religieuse.",
+									"Mais en dehors des combats, Brogg restait une énigme. Son comportement envers Nevio, le mari de Rhaenys, était souvent glacial, parfois teinté de mépris à peine voilé. Bien que Nevio ne semble pas s’en offusquer, certains parmi l’entourage de Rhaenys avaient remarqué cette différence flagrante dans son attitude. Lorsqu’un soldat osa un jour mentionner l’attitude de Brogg, celui-ci répliqua froidement :",
+									"    « Nevio n’est pas digne d’elle. Il n’est qu’un mortel ordinaire, incapable de comprendre sa grandeur. »",
+									"Ces paroles, bien qu’oubliées par leurs témoins, révélaient un mépris profond que Brogg tentait de dissimuler. Plus les années passaient, plus son dévouement à Rhaenys semblait se transformer en une obsession silencieuse.",
+									"Dix ans après le Fléau, et trois ans après avoir donné naissance à son second fils, Haegon, Rhaenys lança enfin son ambitieuse expédition pour reconstruire la capitale de Valyria."
+								]
+							},
+							{
+								"id": "1.3",
+								"title": "10 A.D. : Reconstruction et politique",
+								"image": "../../images/agot/rhaenys-reconstruct.webp",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys Belaerys"
+									}
+								],
+								"content": [
+									"Pour entamer la reconstruction de Valyria, Rhaenys mobilisa tous les partisans qu’elle avait ralliés au fil de ses voyages. Elle investit une partie des richesses accumulées pour recruter les meilleurs charpentiers de Volantis et affréter une flotte de navires. Avec ces ressources, elle lança son expédition vers la capitale de l’antique royaume.",
+									"Une fois arrivée sur place, les travaux de reconstruction débutèrent immédiatement. Rhaenys profita de cette étape cruciale pour instaurer un conseil destiné à l’assister dans la gouvernance de la cité et, potentiellement, du royaume qu’elle espérait restaurer. Ce conseil était composé de plusieurs figures clés :",
+									"   - Nevio, son mari, qui lui apportait soutien et sagesse.",
+									"   - Un commandant chargé de superviser les forces armées.",
+									"   - Un amiral, responsable de la gestion et de l’expansion de la flotte.",
+									"   - Un diplomate, en charge des relations extérieures.",
+									"   - Un grand argentier, garant des finances de la cité.",
+									"   - Un maître espion, chargé de surveiller les activités dans la cité et au-delà.",
+									"   - Un médecin de la cour, veillant à la santé de ses proches et des notables.",
+									"   - Et enfin, Baelor, son fils aîné et plus proche conseiller.",
+									"Lors de la première réunion du conseil, Rhaenys rappela les erreurs du passé. Elle déclara que la soif de pouvoir démesurée des Valyriens avait conduit au Fléau. Ainsi, elle imposa une règle fondamentale : il n’y aurait plus d’autres dragons à Valyria que Beleys, qui protégerait seule le royaume. Elle révéla également avoir utilisé un sortilège découvert dans les ruines pour rendre sa dragonne immortelle face à la vieillesse. Cependant, Rhaenys omis de leur confier une autre conviction : elle était persuadée que Beleys était le dragon destiné à accompagner le héros de la prophétie.",
+									"La réunion du conseil aborda ensuite les questions diplomatiques. Rhaenys, consciente de la vulnérabilité actuelle de Valyria, insista sur la nécessité d’établir des alliances solides et durables. Elle expliqua que, malgré les progrès réalisés dans la reconstruction, les richesses et le prestige de Valyria attiraient déjà des convoitises. « Si nous voulons protéger ce que nous bâtissons ici, nous devons nous assurer des soutiens indéfectibles, » déclara-t-elle en regardant les membres de son conseil.",
+									"Elle exposa alors son plan : envoyer des corbeaux aux derniers seigneurs valyriens encore en vie et proposer la main de son fils aîné, Baelor, à une jeune fille de la maison Celtigar, l’une des rares lignées valyriennes de Westeros. Ce mariage symbolique permettrait de renouer avec les Valyriens de Westeros et d’assurer leur soutien en cas d’attaque contre Valyria renaissante.",
+									"À ces mots, certains membres du conseil échangèrent des regards inquiets, conscients de l’impact personnel d’un mariage arrangé pour Baelor. Pourtant, ce dernier, assis à la droite de sa mère, ne montra aucun signe d’opposition.",
+									"Rhaenys se tourna vers son fils, cherchant à sonder son expression. « Baelor, tu sais que ce mariage est essentiel. Mais c’est une décision qui affectera ton avenir. Si tu as la moindre réserve, dis-le maintenant. »",
+									"Baelor posa un instant son regard sur la table, puis releva la tête avec une détermination tranquille. « Mère, je comprends l’importance de cette alliance, et je m’y plie sans hésitation. Nous avons tous un rôle à jouer dans la renaissance de Valyria. Si mon devoir est d’assurer la survie de notre maison et de notre peuple, alors je l’accomplirai. »",
+									"Son ton était ferme, mais dénué de froideur. Il marquait clairement son dévouement à la cause de sa mère. Après un court silence, il ajouta avec une touche de sincérité : « Et puis, qui sait ? Peut-être que l’amour naîtra malgré tout. Nous bâtissons Valyria pour l’avenir, pas seulement pour nous-mêmes. »",
+									"Un léger sourire apparut sur les lèvres de Rhaenys. Elle savait que son fils partageait sa vision et comprenait les sacrifices nécessaires. Cette maturité et cette loyauté renforcèrent encore sa détermination à sécuriser l’avenir de leur famille et de leur royaume.",
+									"Les corbeaux furent donc envoyés aux Celtigar, qui acceptèrent avec enthousiasme l’offre de la Dame de Valyria. Il fut convenu que l’union aurait lieu dans quatre ans, à la majorité de la jeune fille, lors d’un grand mariage célébré à Valyria. Les Velaryon et les Targaryen furent également conviés, renforçant encore les liens entre les grandes familles valyriennes.",
+									"L’année 10 après le Fléau s’acheva sur un événement marquant : la naissance du troisième fils de Rhaenys, Maekar. Ce fut le premier enfant à voir le jour sur les terres de Valyria depuis la catastrophe, marquant un symbole fort de renaissance pour l’antique royaume."
+								]
+							},
+							{
+								"id": "1.4",
+								"title": "11 A.D. - 14 A.D. : Les préparatifs du grand mariage",
+								"image": "../../images/agot/Nevio-murder.png",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys Belaerys"
+									}
+								],
+								"content": [
+									"Durant les trois années suivantes, Valyria n'eu à souffrir d'aucune attaque extérieur, les seigneurs voisins, bien qu'envieux des richesses de Valyria, n’osaient pas s’opposer à Rhaenys. Les récits de ses batailles, où Beleys avait réduit en cendres des armées entières, résonnaient encore dans les tavernes et les cours. On disait qu’aucune forteresse ne pouvait résister à la Reine Noire et sa dragonnière.",
+									"La dragonnière en question quant à elle, déploya tous ses efforts pour poursuivre la reconstruction de Valyria. Elle souhaitait que la cité puisse accueillir dignement le grand mariage de son fils Baelor et des invités prestigieux attendus pour l’événement. Bien qu’elle culpabilisât d’imposer à son fils un mariage arrangé, alors qu’elle-même avait connu un mariage d’amour, Baelor, profondément dévoué à sa mère et à sa cause, accepta sans hésitation. Rhaenys voyait en ce mariage une double opportunité : offrir à son fils un avenir prospère tout en montrant au monde que, bien que loin de son apogée, Valyria était toujours une cité puissante avec laquelle il était avantageux de s’allier.",
+									"Au cours de cette période, Rhaenys donna également naissance à deux nouveaux enfants : Maegor en l’an 11 et Aenys en l’an 13.",
+									"L’an 14 marqua enfin l’arrivée de l’année du mariage. Absorbée par les préparatifs, Rhaenys ne perçut pas le complot qui se tramait sous son nez. Une nuit, alors qu’elle était restée tard dans la salle du conseil avec son grand argentier pour finaliser les comptes liés au mariage, elle retourna seule dans ses appartements. En entrant dans sa chambre, elle découvrit une scène macabre : Brogg, un ancien sauvageon dévoué mais jaloux de Nevio, se tenait là, une lame ensanglantée à la main. Le regard de Rhaenys se posa sur le lit : Nevio, son mari bien-aimé, gisait sans vie, la gorge tranchée.",
+									"Brogg n’eut pas le temps de s’expliquer. Agissant par instinct, Rhaenys dégaina son épée et, d’un mouvement rapide et précis, trancha la tête de l’assassin.",
+									"On raconte que lorsque les gardes arrivèrent quelques minutes plus tard, ils trouvèrent Rhaenys immobile, debout dans la chambre, observant silencieusement le corps sans vie de Brogg se vidant de son sang. Après un moment de silence glaçant, elle déclara d’un ton froid et résolu :",
+									"    « Son corps, son nom, faites tout disparaître de lui, et que jamais plus personne ne fasse mention de lui en ma présence. »",
+									"Le lendemain, des funérailles solennelles furent organisées pour Nevio. Rhaenys lui rendit les honneurs d’une incinération par le feu de Beleys, comme le voulaient les traditions des seigneurs-dragons. La dragonne, fidèle gardienne de la famille Belaerys, inclina légèrement la tête avant de cracher un souffle de flammes noires et orangées, réduisant le corps en cendres. Rhaenys se tenait droite, impassible aux yeux de tous, même si son cœur semblait prêt à éclater.",
+									"Une fois les cendres recueillies, Rhaenys monta sur le dos de Beleys, accompagnée de ses fils aînés, Baelor et Haegon. Ensemble, ils s’envolèrent vers Lys, la terre natale de Nevio, traversant les vents marins et les nuages gris. Le vol se fit dans un silence presque sacré, le rugissement des ailes de Beleys étant la seule musique accompagnant leur procession funèbre.",
+									"Arrivés au-dessus des falaises surplombant Lys, là où Rhaenys et Nevio avaient partagé leurs premiers moments d’amour, elle fit signe à Beleys de se poser. Une brise légère venait de la mer, apportant avec elle les odeurs salées et familières de cette terre qui avait tant compté pour eux.",
+									"Rhaenys descendit de sa dragonne et, tenant l’urne contenant les cendres de Nevio, s’avança lentement vers le bord de la falaise. Pendant un instant, elle resta immobile, les yeux fixés sur l’horizon. Puis, d’un geste mesuré, elle ouvrit l’urne et laissa les cendres s’envoler, portées par le vent.",
+									"Beleys, debout derrière elle, poussa soudain un hurlement long et profond, si puissant qu’il fit écho dans toute la baie de Lys. Ce cri, empli d’une tristesse presque humaine, fit vibrer l’air, comme si la dragonne exprimait la douleur que sa maîtresse retenait.",
+									"Rhaenys, qui jusqu’ici avait contenu ses émotions, posa une main tremblante sur le cou de Beleys, sentant la chaleur qui émanait de ses écailles. « Tu ressens ma douleur, n’est-ce pas ? » murmura-t-elle presque pour elle-même. Pendant un instant, elle s’autorisa à partager ce chagrin, laissant une larme glisser le long de sa joue.",
+									"Ses fils restèrent silencieux, respectant ce moment d’intimité entre la dragonnière et sa fidèle compagne. Lorsqu’ils reprirent leur envol pour retourner à Valyria, l’atmosphère semblait plus lourde, mais aussi empreinte d’une certaine paix. Rhaenys avait honoré Nevio là où leur histoire avait commencé, et à travers le cri de Beleys, elle avait partagé son deuil d’une manière qu’aucun mot ne pourrait égaler.",
+									"Malgré le deuil qui pesait sur elle, Rhaenys ne laissa pas la tristesse ralentir les préparatifs du mariage. Elle savait que cet événement marquerait non seulement une étape cruciale pour la maison Belaerys, mais également une opportunité politique essentielle pour garantir l’avenir de Valyria. "
+								]
+							},
+							{
+								"id": "1.5",
+								"title": "14 A.D. : Le grand mariage",
+								"image": "../../images/agot/mariage-Baelor.png",
+								"tag": [
+									{
+										"href": "",
+										"title": "Baelor Belaerys"
+									},
+									{
+										"href": "",
+										"title": "Daena Celtigar"
+									}
+								],
+								"content": [
+									"Lorsque le jour fatidique arriva, la cité, bien que toujours en reconstruction, brillait de mille feux. Les rues principales avaient été nettoyées et ornées de bannières aux couleurs des maisons invitées. Des braseros gigantesques illuminaient les anciennes places royales, tandis que les bâtiments partiellement restaurés étaient décorés de guirlandes dorées et pourpres.",
+									"Les invités de marque arrivèrent avec faste. Gaemon Targaryen, seigneur de Peyredragon et fils d’Aenar l’Exilé, fit une entrée remarquée sur le dos de son dragon, Anagros. Bien que ce dernier fût d’un beige clair peu attrayant, son imposante taille et sa prestance témoignaient de son âge avancé, plus de 80 ans, faisant de lui une relique vivante de la grandeur passée de Valyria. Gaemon était accompagné de son fils, Baelor Targaryen, un jeune homme d’une vingtaine d’années à la prestance martiale. Vaemond Velaryon, à la tête de la puissante maison navale, arriva en grande pompe avec une escorte maritime impressionnante. Ardrian Celtigar, père de Daena Celtigar, la fiancée, représenta sa maison avec dignité, apportant des cadeaux somptueux en signe de respect. Enfin, le triarque de Volantis, Vargello Qhaedar, vêtu de pourpre et d’or, ajouta une touche exotique aux festivités par sa présence.",
+									"Baelor Belaerys, quant à lui, fut comblé. Lorsqu’il rencontra son épouse, ce fut le coup de foudre. Elle incarnait toute la beauté valyrienne : de longs cheveux blancs, des yeux d’un mauve profond, et une flamme intérieure que sa timidité ne parvenait pas à dissimuler.",
+									"Le mariage fut précédé par plusieurs jours de festivités, ponctuées de banquets somptueux, de spectacles de danseurs et d’acrobates, mais aussi d’épreuves martiales. Un grand tournoi fut organisé en l’honneur des noces, attirant les meilleurs chevaliers et guerriers présents. Le point culminant fut une joute spectaculaire, où Baelor Targaryen s’illustra par son habileté et son sang-froid, remportant la victoire contre des adversaires redoutables. Sa victoire suscita l’admiration des invités et renforça l’image d’une alliance solide entre les Targaryen et les Belaerys.",
+									"Lorsque le jour du mariage arriva, la cité de Valyria fut plongée dans une ambiance presque mystique. Le soleil se couchait sur la mer Fumeuse, baignant les lieux d’une lumière dorée. Rhaenys, en hommage à sa maison, portait une robe somptueuse aux couleurs de la maison Belaerys : un noir profond rehaussé de broderies dorées représentant un soleil éclatant et un dragon au cœur, symbolisant l’aube et le feu. Son fils, Baelor, arborait un ensemble noir épuré, marquant sa position de futur héritier de Valyria renaissante. Quant à Daena Celtigar, elle portait une robe rouge flamboyant, symbolisant la maison Celtigar et sa fierté valyrienne.",
+									"Le mariage fut célébré dans une cour restaurée de l’ancienne capitale, sous des bannières noires et orange flottant au vent, portant fièrement le blason de la maison Belaerys : un soleil flamboyant sur fond noir, avec un dragon au centre. L’atmosphère était chargée d’émotion et de symbolisme, mêlant respect pour les traditions valyriennes et espoir en un renouveau.",
+									"On raconte que les invités ne manquèrent de rien : des tables interminables regorgeaient de mets somptueux, allant de poissons fraîchement pêchés dans la mer Fumeuse à des fruits exotiques venus de Sothoryos. Les festivités, rythmées par des musiciens valyriens jouant des airs anciens, étaient d’une élégance remarquable. Les danseurs exécutaient des chorégraphies complexes, évoquant les anciens mythes valyriens, tandis que les acrobates semblaient presque défier les lois de la gravité.",
+									"Les alliances scellées ce jour-là furent aussi importantes que les festivités elles-mêmes :",
+									"   - Haegon Belaerys fut promis à une jeune noble de la maison Velaryon, garantissant une alliance navale cruciale.",
+									"   - Maekar Belaerys, quant à lui, fut destiné à une future union avec une fille de la maison Targaryen, consolidant un lien familial avec Peyredragon.",
+									"   - Enfin, Rhaenys proposa aux Celtigar, Velaryon et Targaryen un partenariat commercial exclusif sur le commerce de l’acier valyrien, renforçant leur soutien mutuel et dissipant tout risque de rivalité directe.",
+									"Baelor Belaerys, quant à lui, fut comblé. Lorsqu’il rencontra son épouse, Daena Celtigar, ce fut le coup de foudre. Elle incarnait toute la beauté valyrienne : de longs cheveux blancs, des yeux d’un mauve profond, et une flamme intérieure que sa timidité ne parvenait pas à dissimuler.",
+									"Avec ce mariage, Rhaenys avait atteint son objectif : sceller des alliances solides entre les Valyriens de Westeros et la cité renaissante de Valyria. Pour la première fois depuis des années, elle put relâcher la pression et savourer un moment de répit, tout en honorant la mémoire de son défunt mari, Nevio."
+								]
+							},
+							{
+								"id": "1.6",
+								"title": "15 A.D. - 50 A.D : Une Valyria prospère",
+								"image": "../../images/agot/valyria-port.png",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys Belaerys"
+									}
+								],
+								"content": [
+									"Après le mariage de Baelor, Rhaenys consacra les décennies suivantes à parfaire son œuvre : la renaissance de Valyria. Grâce à ses mines abondantes et à ses forges renommées, la cité devint rapidement un point clé du commerce maritime à Essos, exportant des quantités massives de minerais et d’acier. Cependant, fidèle à ses promesses, Rhaenys conserva l’exclusivité de l’acier valyrien pour les dernières maisons valyriennes encore en vie. Les Celtigar, Velaryon et Targaryen, principaux bénéficiaires de cet accord, profitèrent grandement de cette alliance commerciale et militaire.",
+									"Durant cette période de prospérité, Valyria devint une cité cosmopolite où affluaient marchands, artisans et diplomates de tout Essos. Ses quais animés étaient un témoignage vivant de sa renaissance. Cependant, Rhaenys n’oubliait jamais que cette prospérité devait être solidement ancrée dans les alliances qu’elle avait nouées lors du mariage de Baelor.",
+									"Rhaenys tint ses promesses et veilla à ce que ses enfants tissent des liens encore plus étroits avec les grandes familles valyriennes :",
+									"   - Haegon Belaerys épousa Rhaena Velaryon, fille de Daemion Velaryon (lui-même fils de Vaemond).",
+									"   - Maekar Belaerys fut uni à Rhaena Targaryen, sœur du seigneur de Peyredragon, Baelon Targaryen.",
+									"   - Maegor Belaerys, quant à lui, épousa Rhaenys Velaryon, la nièce du seigneur Velaryon.",
+									"   - Malheureusement, Rhaenys ne put accomplir son souhait de marier son dernier fils, Aenys, car celui-ci mourut en 46 A.D., victime d’une épidémie de vérole alors que son mariage était en préparation.",
+									"Rhaenys vit sa lignée s’épanouir à travers les enfants de ses fils. Cependant, cette période ne fut pas exempte de tragédies :",
+									"Baelor Belaerys :",
+									"   - Daemion, né en 16, mourut en 19 à cause de sa mauvaise constitution.",
+									"   - Baelor, né en 18, perdit tragiquement la vie en 48, empoisonné lors de son mariage avec Maenylla Celtigar. Les circonstances de son assassinat restent entourées de mystères.",
+									"   - Maegor, né en 24, devint le dernier héritier direct de Baelor.",
+									"Haegon Belaerys :",
+									"   - Aelyx, né en 33, devint un jeune homme prometteur.",
+									"   - Shaera, née en 34, apporta une touche de grâce et de diplomatie à la famille.",
+									"Maekar Belaerys :",
+									"   - Maelys, né en 39, hérita de l’intelligence tactique de son père.",
+									"   - Rhae, née en 40, mourut en 46 de la même épidémie qui emporta son oncle Aenys.",
+									"   - Aethan, né en 48, fut un symbole d’espoir pour les Belaerys après une décennie de pertes.",
+									"Maegor Belaerys :",
+									"   - Aemond, né en 44, fut un enfant calme et réfléchi, porteur de grandes promesses pour l’avenir.",
+									"Les décennies qui suivirent le mariage de Baelor furent marquées par de nombreuses visites entre Valyria et les grandes maisons valyriennes de Westeros. Les Celtigar, Velaryon et surtout les Targaryen firent de fréquents voyages dans la cité renaissante, renforçant les liens tissés lors des mariages. De même, les Belaerys se rendirent à Westeros à plusieurs reprises, participant à des banquets et des mariages, et consolidant ainsi leur réputation d’alliés fidèles et puissants.",
+									"En 41 A.D., lors d’un banquet organisé à Peyredragon, Rhaenys, veuve depuis plusieurs années, croisa à nouveau la route de Baelon Targaryen, lui aussi veuf. Ce soir-là, une étincelle inattendue naquit entre eux. D’abord discrets, leurs sentiments grandirent au fil des mois, et ils devinrent amants. Bien que leur relation ne fût jamais officialisée par un mariage, elle devint un secret de polichinelle.",
+									"Il n’était pas rare de voir Rhaenys enfourcher Beleys sous le couvert de la nuit pour voler jusqu’à Peyredragon, où elle restait quelques jours avant de retourner à Valyria. De la même manière, Baelon quittait parfois Peyredragon sur le dos de son dragon, Rhaenal, pour rejoindre Valyria. Leur relation, bien que non traditionnelle, était largement acceptée, les deux dragonniers étant considérés comme des figures essentielles de leurs royaumes respectifs. Beaucoup voyaient dans leur union une garantie de stabilité et d’harmonie entre Valyria et les Targaryen."
 								]
 							}
 						]
