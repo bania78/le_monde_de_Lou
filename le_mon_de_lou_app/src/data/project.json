@@ -3159,6 +3159,63 @@
 									"En 41 A.D., lors d’un banquet organisé à Peyredragon, Rhaenys, veuve depuis plusieurs années, croisa à nouveau la route de Baelon Targaryen, lui aussi veuf. Ce soir-là, une étincelle inattendue naquit entre eux. D’abord discrets, leurs sentiments grandirent au fil des mois, et ils devinrent amants. Bien que leur relation ne fût jamais officialisée par un mariage, elle devint un secret de polichinelle.",
 									"Il n’était pas rare de voir Rhaenys enfourcher Beleys sous le couvert de la nuit pour voler jusqu’à Peyredragon, où elle restait quelques jours avant de retourner à Valyria. De la même manière, Baelon quittait parfois Peyredragon sur le dos de son dragon, Rhaenal, pour rejoindre Valyria. Leur relation, bien que non traditionnelle, était largement acceptée, les deux dragonniers étant considérés comme des figures essentielles de leurs royaumes respectifs. Beaucoup voyaient dans leur union une garantie de stabilité et d’harmonie entre Valyria et les Targaryen."
 								]
+							},
+							{
+								"id": "1.7",
+								"title": "50 A.D. - 51 A.D. : L'appel des Targaryen",
+								"image": "../../images/agot/marric.webp",
+								"tag": [
+									{
+										"href": "",
+										"title": "Marric Durrandon"
+									}
+								],
+								"content": [
+									"À la fin de l’année 50, Rhaenys reçut un corbeau de son amant, le seigneur de Peyredragon, Baelon Targaryen. Le message portait des nouvelles inquiétantes : le roi de l’Orage, Marric Durrandon, rassemblait ses bannerets et amassait une imposante armée pour chasser les Targaryen de Westeros. Rhaenys convoqua immédiatement son conseil à Valyria pour discuter de la situation.",
+									"Devant ses conseillers, elle déclara sa ferme intention de soutenir les Targaryen. Elle annonça qu’elle partirait en personne avec 2000 des 2500 hommes d’armes de Valyria, laissant la cité sous la gouvernance de son fils aîné, Baelor Belaerys, en son absence. Cette décision, bien que risquée, fut acceptée par le conseil, qui savait que la stabilité de Valyria dépendait également de ses alliances.",
+									"Quelques jours plus tard, Rhaenys monta sur le dos de Beleys et s’envola pour rejoindre Peyredragon. Peu après son arrivée, Baelon envoya Gaemon Velaryon et sa flotte chercher les troupes de Valyria.",
+									"Avec l’arrivée des renforts valyriens, l’armée de Peyredragon atteignit une force significative de 7000 hommes d’armes, renforcée par la présence de trois dragons :",
+									"   - Rhaenal, le dragon rouge orangé de Baelon, âgé de 44 ans, alliant agilité et puissance.",
+									"   - Vermithrax, un dragon vénérable de 188 ans, aux écailles beige clair. Autrefois monté par Aenar « l’Exilé », il était désormais chevauché par Rhaena Targaryen, surnommée « la dragonnière ardente ». Bien que lent à cause de son âge avancé, sa taille imposante (près de 200 pieds) et son souffle dévastateur en faisaient un adversaire redoutable.",
+									"   - Beleys, la dragonne de Rhaenys, âgée de 84 ans, mesurait une taille impressionnante, équivalente à celle de Vermithrax. Malgré sa relative jeunesse, elle surpassait les autres dragons en vitesse, en maniabilité et en expérience de combat, faisant d’elle l’arme la plus redoutable de cette guerre.",
+									"De leur côté, les Durrandon alignaient une armée de 25 000 hommes, dirigée sur le terrain par le prince héritier Leobald Durrandon, tandis que Marric restait en retrait à Accalmie, supervisant la stratégie globale. Leobald, déterminé à prouver sa valeur, s’était juré de renverser les seigneurs-dragons et de défendre l’honneur de sa maison.",
+									"Marric retarda toutefois le conflit jusqu’à la fin de l’année 51, où il demarra réellement lorsque les Durrandon incendièrent une partie de la flotte Velaryon envoyée en reconnaissance près d’Accalmie. En représailles, Baelon lança son ost et ses dragons à l’assaut des forteresses de la presqu’île de Claquepince, les capturant une à une."
+								]
+							},
+							{
+								"id": "1.8",
+								"title": "52 A.D. : La guerre contre les Durrandon",
+								"image": "../../images/agot/Rhaenys-Baelon.png",
+								"tag": [
+									{
+										"href": "",
+										"title": "Rhaenys Belaerys"
+									},
+									{
+										"href": "",
+										"title": "Baelon Targaryen"
+									}
+								],
+								"content": [
+									"Au début de l’année 52, Leobald débarqua avec les forces Durrandon à l’extrême est de la presqu’île et commença à avancer vers l’ouest, reprenant les forteresses conquises sur son passage. Face à cette menace, Rhaenys proposa une stratégie audacieuse : concentrer les forces targaryennes à l’Aiguildeau pour tendre une embuscade.",
+									"Bien que réticent, Baelon accepta. Lorsque l’armée Durrandon atteignit l’Aiguildeau, les 2000 soldats valyriens tinrent fermement la ligne de front sous la direction de Rhaenys et de Beleys.",
+									"Dès que le combat fut engagé, les troupes Targaryen et leurs dragons surgirent sur le flanc droit, menés par Baelon sur Rhaenal. Simultanément, les forces Velaryon et Celtigar attaquèrent le flanc gauche, accompagnées par Rhaena et Vermithrax.",
+									"Malgré leur supériorité numérique, les Durrandon furent piégés par cette manœuvre en tenaille. Les flammes des dragons et la discipline des forces valyriennes anéantirent les lignes ennemies. Leobald, témoin direct de la puissance dévastatrice des dragons, tenta désespérément de rallier ses hommes, mais rien ne put arrêter l’avancée des seigneurs-dragons. Après avoir essuyé plus de 15 000 pertes, les Durrandon battirent en retraite.",
+									"Quelques jours après la bataille, Leobald envoya un corbeau à Peyredragon, demandant des pourparlers de paix. Sur les conseils de Rhaenys, Baelon accepta une rencontre à Tyrosh, un lieu neutre.",
+									"Lors de cette réunion, Rhaenys et Baelon exigèrent que la maison Durrandon cède la presqu’île de Claquepince comme condition de paix. Marric, toujours en colère malgré la défaite, considéra cette demande comme une insulte.",
+									"« Je préférerais brûler dans le feu et le sang que de céder une parcelle de mes terres à des étrangers ! » s’écria-t-il avec véhémence, ignorant les regards inquiets de son fils et des autres présents.",
+									"Leobald, qui avait dirigé l’armée Durrandon lors de la bataille, savait pertinemment que leur situation était désespérée. Les images des dragons déchaînant leurs flammes sur les troupes et les cris des soldats mourants hantaient son esprit. Ses mains tremblaient légèrement, et ses yeux évitaient ceux de Baelon et Rhaenys, dont la présence imposante semblait écrasante.",
+									"Lorsqu’il vit que son père persistait dans son arrogance, Leobald se leva brusquement, sa voix brisée par la peur et l’angoisse :",
+									"« Père... Vous ne comprenez pas. Nous ne pouvons pas les affronter. Vous n’avez pas vu ce que j’ai vu ! Ces dragons... Ce sont des forces de la nature, et nous ne sommes rien face à eux. »",
+									"Mais Marric, refusant de céder, ignora les supplications de son fils. C’est alors que Leobald, submergé par la peur et la certitude que sa maison serait anéantie, prit une décision radicale. D’un geste rapide et précis, il sortit une dague et trancha la gorge de son père devant l’assemblée.",
+									"Le silence qui suivit fut glaçant. Leobald, le souffle court, essuya lentement la lame de sa dague et s’avança vers la table où siégeaient Baelon et Rhaenys. Il s’inclina légèrement, sa voix tremblant sous le poids de sa peur :",
+									"« En tant que nouveau roi de l’Orage, je vous présente mes plus humbles excuses pour les paroles de feu mon père. » Il marqua une pause, levant un regard incertain vers Baelon. « J’accepte vos conditions de reddition. Prenez la presqu’île de Claquepince, mais je vous implore... Épargnez notre maison. »",
+									"Baelon, bien qu’ayant observé la scène avec une froideur calculée, prit alors la parole. Sa voix, calme et autoritaire, s’éleva dans la salle :",
+									"« Vous avez fait preuve de pragmatisme, roi Leobald. Votre décision sauve votre maison, mais souvenez-vous que ce jour marquera votre histoire pour des générations. La maison Durrandon survivra, mais uniquement grâce à votre clairvoyance. Tenez vos engagements, et nous n’aurons pas de raison de croiser à nouveau le fer. »",
+									"Il se leva, ajoutant avec un regard appuyé :",
+									"« La guerre est terminée. Vous êtes roi, Leobald, mais désormais vous portez le poids de vos actes. Faites-en bon usage. »",
+									"Ainsi s’acheva la guerre entre les Durrandon et les derniers seigneurs-dragons. Avec la cession de la presqu’île de Claquepince, les Targaryen consolidèrent leur contrôle sur cette région stratégique de Westeros, tandis que Leobald Durrandon retournait à Accalmie avec l’héritage d’une paix chèrement négociée."
+								]
 							}
 						]
 					}
