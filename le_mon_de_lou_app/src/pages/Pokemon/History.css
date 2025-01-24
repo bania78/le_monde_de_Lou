@@ -22,9 +22,9 @@ html {
 
 @media screen and (max-width: 768px) {
     .ul_history {
-        padding-left: 30px;
+        padding-left: 30px !important;
     }
     .timeline {
-        padding-left: 10px;
+        padding-left: 10px !important;
     }
 }

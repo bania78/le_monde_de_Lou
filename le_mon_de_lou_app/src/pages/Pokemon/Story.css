@@ -7,3 +7,13 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+
+
+@media screen and (max-width: 768px) {
+    .div_story {
+        margin-left: 35px !important;
+    }
+    .p_story {
+        margin-left: 5px !important;
+    }
+}
