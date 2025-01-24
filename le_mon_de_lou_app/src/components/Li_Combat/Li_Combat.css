@@ -30,3 +30,9 @@ tr {
 .a_li_combat {
     color: white;
 }
+
+@media screen and (max-width: 768px) {
+  .li_combat {
+      width: auto !important;
+  }
+}
