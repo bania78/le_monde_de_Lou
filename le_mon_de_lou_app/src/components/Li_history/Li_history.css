@@ -88,4 +88,7 @@ h3:target {
     .div_img, .history_img {
         width: 300px !important;
     }
+    .box_img:hover::before {
+        width: 300px !important;
+    }
 }
