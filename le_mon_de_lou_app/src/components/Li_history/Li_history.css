@@ -85,7 +85,7 @@ h3:target {
         margin-right: 4px !important;
     }
 
-    .div_img {
+    .div_img, .history_img {
         width: 300px !important;
     }
 }
