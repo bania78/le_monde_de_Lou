@@ -61,3 +61,13 @@
 .a_nav:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+    .div_head {
+        padding-inline: 0px !important;
+    }
+
+    .content_nav {
+        margin-left: -20px !important;
+    }
+}
