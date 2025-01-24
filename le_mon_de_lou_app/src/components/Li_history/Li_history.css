@@ -92,14 +92,7 @@ h3:target {
         width: 300px !important;
     }
     .li_tag_box {
-        color: white;
-        background-color: rgb(49, 96, 223);
-        border-radius: 10px;
-        font-size: 7px;
-        width: 60px;
-        padding-top: 2px;
-        padding-bottom: 2px;
-        text-align: center;
-        transition-duration: 1s;
+        font-size: 7px !important;
+        width: 60px !important;
     }
 }
