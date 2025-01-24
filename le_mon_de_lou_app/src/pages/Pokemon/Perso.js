@@ -2,6 +2,8 @@ import projects from '../../data/project.json'
 import { useLoaderData } from "react-router-dom";
 import './TournamentBattle.css'
 import CardListPerso from '../../components/CardList/CardListPerso';
+import './Perso.css'
+
 
 export async function getTournament(persoId) {
     let perso = projects[0].perso.find(project => project.id === persoId);
