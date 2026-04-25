@@ -1,122 +1,117 @@
 [
-    {
-      "key": "histoire",
-      "value": "Histoire",
-      "url": "/pokemon/history"
-    },
-    {
-      "key": "meia",
-      "value": "Meia",
-      "url": "/pokemon/perso/0"
-    },
-    {
-      "key": "ifpt world tournament first edition",
-      "value": "IFPT WORLD TOURNAMENT FIRST EDITION",
-      "url": "/pokemon/tournament/0"
-    },
-    {
-      "key": "sandra vs lona",
-      "value": "Sandra VS Lona",
-      "url": "/pokemon/tournament/0/0/3"
-    },
-    {
-      "key": "takim vs albert",
-      "value": "Takim VS Albert",
-      "url": "/pokemon/tournament/0/0/2"
-    },
-    {
-      "key": "cornélia vs roxanne",
-      "value": "Cornélia VS Roxanne",
-      "url": "/pokemon/tournament/0/0/1"
-    },
-    {
-      "key": "amaro vs alisma",
-      "value": "Amaro VS Alisma",
-      "url": "/pokemon/tournament/0/0/0"
-    },
-    {
-      "key": "era vs sean",
-      "value": "Era VS Sean",
-      "url": "/pokemon/tournament/0/0/4"
-    },
-    {
-      "key": "cayenne vs vesper",
-      "value": "Cayenne VS Vesper",
-      "url": "/pokemon/tournament/0/0/5"
-    },
-    {
-      "key": "jacq vs noa",
-      "value": "Jacq VS Noa",
-      "url": "/pokemon/tournament/0/0/6"
-    },
-    {
-      "key": "mora vs valérianne",
-      "value": "Mora VS Valérianne",
-      "url": "/pokemon/tournament/0/0/7"
-    },
-    {
-      "key": "farouk vs saturnin",
-      "value": "Farouk VS Saturnin",
-      "url": "/pokemon/tournament/0/0/8"
-    },
-    {
-      "key": "marc vs carolina",
-      "value": "Marc VS Carolina",
-      "url": "/pokemon/tournament/0/0/9"
-    },
-    {
-      "key": "elaine vs gladys",
-      "value": "Elaine VS Gladys",
-      "url": "/pokemon/tournament/0/0/10"
-    },
-    {
-      "key": "christy vs faïza",
-      "value": "Christy VS Faïza",
-      "url": "/pokemon/tournament/0/0/11"
-    },
-    {
-      "key": "nix vs karina",
-      "value": "Nix VS Karina",
-      "url": "/pokemon/tournament/0/0/12"
-    },
-    {
-      "key": "parsley vs amana",
-      "value": "Parsley VS Amana",
-      "url": "/pokemon/tournament/0/0/13"
-    },
-    {
-      "key": "apia vs dianthéa",
-      "value": "Apia VS Dianthéa",
-      "url": "/pokemon/tournament/0/0/14"
-    },
-    {
-      "key": "sally vs glacia",
-      "value": "Sally VS Glacia",
-      "url": "/pokemon/tournament/0/0/15"
-    },
-    {
-      "key": "pierre vs charline",
-      "value": "Pierre VS Charline",
-      "url": "/pokemon/tournament/0/0/16"
-    },
-    {
-      "key": "elige vs pabolsky",
-      "value": "Elige VS Pabolsky",
-      "url": "/pokemon/tournament/0/0/17"
-    },
-    {
-      "key": "unys of the past",
-      "value": "Unys of the Past",
-      "url": "/pokemon/story/0"
-    },
-    {
-      "key": "meia: son aventure",
-      "value": "Meia: Son Aventure",
-      "url": "/pokemon/story/1"
-    },
-    {
-      "key": "la dynastie belaerys",
-      "value": "La dynastie Belaerys",
-      "url": "/ck3agot/0"
-    }
+  {
+    "key": "histoire",
+    "value": "Histoire",
+    "url": "/pokemon/history"
+  },
+  {
+    "key": "meia",
+    "value": "Meia",
+    "url": "/pokemon/perso/0"
+  },
+  {
+    "key": "ifpt world tournament first edition",
+    "value": "IFPT WORLD TOURNAMENT FIRST EDITION",
+    "url": "/pokemon/tournament/0"
+  },
+  {
+    "key": "sandra vs lona",
+    "value": "Sandra VS Lona",
+    "url": "/pokemon/tournament/0/0/3"
+  },
+  {
+    "key": "takim vs albert",
+    "value": "Takim VS Albert",
+    "url": "/pokemon/tournament/0/0/2"
+  },
+  {
+    "key": "cornélia vs roxanne",
+    "value": "Cornélia VS Roxanne",
+    "url": "/pokemon/tournament/0/0/1"
+  },
+  {
+    "key": "amaro vs alisma",
+    "value": "Amaro VS Alisma",
+    "url": "/pokemon/tournament/0/0/0"
+  },
+  {
+    "key": "era vs sean",
+    "value": "Era VS Sean",
+    "url": "/pokemon/tournament/0/0/4"
+  },
+  {
+    "key": "cayenne vs vesper",
+    "value": "Cayenne VS Vesper",
+    "url": "/pokemon/tournament/0/0/5"
+  },
+  {
+    "key": "jacq vs noa",
+    "value": "Jacq VS Noa",
+    "url": "/pokemon/tournament/0/0/6"
+  },
+  {
+    "key": "mora vs valérianne",
+    "value": "Mora VS Valérianne",
+    "url": "/pokemon/tournament/0/0/7"
+  },
+  {
+    "key": "farouk vs saturnin",
+    "value": "Farouk VS Saturnin",
+    "url": "/pokemon/tournament/0/0/8"
+  },
+  {
+    "key": "marc vs carolina",
+    "value": "Marc VS Carolina",
+    "url": "/pokemon/tournament/0/0/9"
+  },
+  {
+    "key": "elaine vs gladys",
+    "value": "Elaine VS Gladys",
+    "url": "/pokemon/tournament/0/0/10"
+  },
+  {
+    "key": "christy vs faïza",
+    "value": "Christy VS Faïza",
+    "url": "/pokemon/tournament/0/0/11"
+  },
+  {
+    "key": "nix vs karina",
+    "value": "Nix VS Karina",
+    "url": "/pokemon/tournament/0/0/12"
+  },
+  {
+    "key": "parsley vs amana",
+    "value": "Parsley VS Amana",
+    "url": "/pokemon/tournament/0/0/13"
+  },
+  {
+    "key": "apia vs dianthéa",
+    "value": "Apia VS Dianthéa",
+    "url": "/pokemon/tournament/0/0/14"
+  },
+  {
+    "key": "sally vs glacia",
+    "value": "Sally VS Glacia",
+    "url": "/pokemon/tournament/0/0/15"
+  },
+  {
+    "key": "pierre vs charline",
+    "value": "Pierre VS Charline",
+    "url": "/pokemon/tournament/0/0/16"
+  },
+  {
+    "key": "elige vs pabolsky",
+    "value": "Elige VS Pabolsky",
+    "url": "/pokemon/tournament/0/0/17"
+  },
+  {
+    "key": "unys of the past",
+    "value": "Unys of the Past",
+    "url": "/pokemon/story/0"
+  },
+  {
+    "key": "meia: son aventure",
+    "value": "Meia: Son Aventure",
+    "url": "/pokemon/story/1"
+  }
 ]
